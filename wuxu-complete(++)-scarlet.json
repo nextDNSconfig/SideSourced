@@ -1,0 +1,87 @@
+{
+  "META" : {
+    "repoName" : "WuXu's Library++",
+    "repoIcon" : "https://i.imgur.com/FSXr72V.png"
+  },
+  "Tweaked" : [
+    {
+      "name" : "Spotify++",
+      "category" : "Tweaked Apps",
+      "dev" : "iJulioVerne",
+      "version" : "8.6.42",
+      "changelog" : "• Added SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n• Added SpotifyHighQuality - Enables ’Very High’ Quality\n• Added SpotifyAllowSettings - Enable all settings that are disabled when connected to another device\n• Added Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n• Added TrueShuffle - Enables true random shuffling",
+      "description" : "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables ’Very High’ Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n",
+      "icon" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
+      "bundleID" : "com.spotify.client",
+      "appstore" : "com.spotify.client",
+      "screenshots" : [
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.jpg",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.jpg"
+      ],
+      "debs" : [
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/PlayNextorPlayLast.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Sposify.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/SposifyFix.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Spoticentre.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/SpotifyAllowSettings.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/SpotifyHighQuality.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/SpotifyNoPodcasts.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Spotilife.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/TrueShuffle.dylib",
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Volify.dylib"
+      ]
+    }
+  ],
+  "Free Streaming" : [
+    {
+      "name" : "ZiniTevi++",
+      "version" : "1.5.0",
+      "icon" : "https://i.imgur.com/rgL5qrB.png",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ZiniTevi+.v1.5.0.ipa",
+      "category" : "Free Streaming",
+      "changelog" : "• Updated ZiniTevi to v1.5.0",
+      "description" : "Tweaked version of ZiniTevi - Ads disabled\n\nApp for Streaming Movies and TV Shows for free on your phone.\n\nApp features:\n\n• Play video online and offline.\n• Download multiple videos in background mode.\n• Stream video to Google's Chromecast, Airplay, Smart TV,\n• Android TV Box, Web Browser, UPnP, DLNA.\n• Add to favorites list.\n• Save to watched list.\n• Caption in video with all languages on over the world.\n• Trakt.tv to sync history and favorites list to the cloud.\n\nEnjoy!",
+      "bundleID" : "jb.zini.tevi",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
+      ]
+    }
+  ],
+  "Cracked/Paid" : [
+    {
+      "name" : "MyFitnessPal++",
+      "version" : "23.5.5",
+      "icon" : "https://img.ipa4fun.com/33/7a/25/341232718-logo.jpg",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.5.5.ipa",
+      "dev" : "Strejda603",
+      "category" : "Cracked/Paid",
+      "changelog" : "• Updated MyFitnessPal to v23.5.5\n• Fixed Logging out after closing app",
+      "description" : "• Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.",
+      "bundleID" : "com.myfitnesspal.mfp",
+      "appstore" : "com.myfitnesspal.mfp",
+      "screenshots" : [
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-1.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-2.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-3.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-4.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-5.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-6.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-7.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-8.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-9.jpg",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-10.jpg"
+      ]
+    }
+  ]
+}
