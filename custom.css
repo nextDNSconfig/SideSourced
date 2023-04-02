@@ -13,7 +13,7 @@
 
 @font-face {
   font-family: 'Mareka';
-  src: url('Mareka.otf') format('truetype');
+  src: url('assets/Mareka.otf') format('truetype');
 }
 
 .main-title {
