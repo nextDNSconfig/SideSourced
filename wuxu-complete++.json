@@ -96,13 +96,16 @@
       ]
     },
     {
+      "name": "Discord++",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Enmity Team",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v164.0.+.Enmity.v2.1.4.ipa",
-      "iconURL": "https://img.ipa4fun.com/87/01/a2/985746746-logo.jpg",
+      "version": "165.0",
+      "versionDate": "2023-02-06",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Enmity_165.0.ipa",
       "localizedDescription": "Add plugins and themes to Discord!\n\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
-      "minOSVersion": "11.0",
-      "name": "Discord++",
+      "iconURL": "https://img.ipa4fun.com/87/01/a2/985746746-logo.jpg",
+      "tintColor": "#3c45ac",
+      "size": 120311039,
       "screenshotURLs": [
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-1.jpg",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-2.jpg",
@@ -111,13 +114,13 @@
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.jpg",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.jpg"
       ],
-      "size": 114000000,
-      "subtitle": "The power of addons, all in your hand.",
-      "tintColor": "#3c45ac",
-      "version": "164.0",
-      "versionDate": "2023-03-30",
-      "versionDescription": "\u2022 Updated Discord to v164.0",
       "versions": [
+        {
+          "version": "165.0",
+          "date": "2023-02-06",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/Enmity_165.0.ipa",
+          "size": 120311039
+        },
         {
           "date": "2023-03-30",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v164.0.+.Enmity.v2.1.4.ipa",
@@ -126,7 +129,9 @@
           "size": 114000000,
           "version": "164.0"
         }
-      ]
+      ],
+      "appID": "com.hammerandchisel.discord",
+      "subtitle": "The power of addons, all in your hand."
     },
     {
       "bundleIdentifier": "jb.zini.tevi",
@@ -198,13 +203,16 @@
       ]
     },
     {
+      "name": "Photomath++",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "Strejda603",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.21.0.ipa",
-      "iconURL": "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
+      "version": "8.21.0",
+      "versionDate": "2023-03-31",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/PhotomathPlus_8.21.0.ipa",
       "localizedDescription": "Photomath works as normal, only the premium features are activated as if you bought them.",
-      "minOSVersion": "13.0",
-      "name": "Photomath++",
+      "iconURL": "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
+      "tintColor": "#830824",
+      "size": 13769345,
       "screenshotURLs": [
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-2.jpg",
@@ -212,12 +220,6 @@
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
       ],
-      "size": 13700000,
-      "subtitle": "Photomath with plus activated!",
-      "tintColor": "#830824",
-      "version": "8.21.0",
-      "versionDate": "2023-03-29",
-      "versionDescription": "\u2022 Updated Photomath to v8.21.0",
       "versions": [
         {
           "date": "2023-03-29",
@@ -235,7 +237,9 @@
           "size": 12900000,
           "version": "8.19.1"
         }
-      ]
+      ],
+      "appID": "com.microblink.PhotoMath",
+      "subtitle": "Photomath with plus activated!"
     },
     {
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
@@ -313,12 +317,12 @@
       ]
     },
     {
+      "beta": false,
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v404.0.+.Wolf.v2.1.ipa",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
       "iconURL": "https://img.ipa4fun.com/92/c2/a0/284882215-logo.jpg",
       "localizedDescription": "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n\u2022 Disable marking messages as seen\n\u2022 Disable typing status in messages\n\u2022 No feed ads\n\nStory\n\u2022 Disable marking stories\n\u2022 Disable auto-advance in stories\n\u2022 Save Story images and videos\n\u2022 No story ads\n\nFeed\n\u2022 Save Feed videos by long-pressing the video\n\nAnd more!",
-      "minOSVersion": "13.4",
       "name": "Facebook++",
       "screenshotURLs": [
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.jpg",
@@ -328,12 +332,12 @@
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.jpg",
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.jpg"
       ],
-      "size": 133000000,
+      "size": 152672665,
       "subtitle": "Facebook with a number of new features!",
       "tintColor": "#034ea0",
-      "version": "404.0",
-      "versionDate": "2023-03-29",
-      "versionDescription": "\u2022 Updated Facebook to v404.0",
+      "version": "402.0",
+      "versionDate": "2023-02-22T14:00:00-00:30",
+      "versionDescription": "v402.0 (2.1): Updated to the latest version of Facebook app",
       "versions": [
         {
           "date": "2023-03-29",
@@ -359,7 +363,8 @@
           "size": 142000000,
           "version": "399.0"
         }
-      ]
+      ],
+      "appID": "com.facebook.Facebook"
     },
     {
       "bundleIdentifier": "com.toyopagroup.picaboo",
@@ -673,12 +678,12 @@
       ]
     },
     {
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "qnblackcat",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
       "iconURL": "https://img.ipa4fun.com/65/82/9f/544007664-logo.jpg",
       "localizedDescription": "If you\u2019re a YouTube app user then you\u2019ll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n\u2022 Remove YouTube Ads.\n\u2022 Background playback for YT videos.\n\u2022 Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n\u2022 Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n\u2022 Play saved media in a custom player with background playback support.\n\u2022 Supports mini-player for easier navigation.\n\u2022 Supports scrubbing/controls from Control Center.\n\u2022 Share/Export saved videos to Camera Roll or to any other app.\n\u2022 Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n\u2022 Playback Speed Controls.\n\u2022 Play videos in PiP (Picture In Picture).\n\u2022 iPad layout style.\n\u2022 Sideloaded iPA.\n\u2022 In-app Settings.\n\u2022 Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n\u2022 More options are in the settings.",
-      "minOSVersion": "14.0",
       "name": "YouTube++",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
@@ -687,12 +692,12 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size": 106000000,
+      "size": 111605847,
       "subtitle": "All-In-One Tweak for YouTube.",
       "tintColor": "#af0303",
       "version": "18.08.1",
-      "versionDate": "2023-03-29",
-      "versionDescription": "\u2022 YouTube updated to v18.08.1\n\u2022 Now you can sign-in to YouTube like normal \uf389\n\u2022 Fixed missing \"iPhone layout\" option on iPad (#965).\n\u2022 Added an option to hide uYou's buttons in Shorts (#969).\n\u2022 Added an option to enable YouTube startup animation.",
+      "versionDate": "2023-02-28T12:00:00-01:00",
+      "versionDescription": "v18.08.1 (2.3~1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/latest",
       "versions": [
         {
           "date": "2023-03-29",
@@ -718,7 +723,8 @@
           "size": 101000000,
           "version": "18.01.6"
         }
-      ]
+      ],
+      "appID": "com.google.ios.youtube"
     },
     {
       "bundleIdentifier": "com.myfitnesspal.mfp",
