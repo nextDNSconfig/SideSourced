@@ -224,7 +224,8 @@
       "title" : "AppDB Updated!"
     },
     {
-      "caption" : "This app has been removed, please use Cowabunga as they now offer this tweak in their latest update",
+      "appID" : "com.leemin.DockHider",
+      "caption" : "This app has been removed, please use Cowabunga as they now offer this tweak",
       "date" : "2023-04-01",
       "identifier" : "nolimit-removed",
       "imageURL" : "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
