@@ -14,9 +14,25 @@ sourcesData = [
         "kwargs": {"filepath": "https://ipa.cypwn.xyz/cypwn.json"},
         "ids": ["it.ned.appdb-ios"],
         "ignoreNews": True
+    },
+    {
+        "parser": Parser.UNC0VER,
+        "kwargs": {"url": "https://unc0ver.dev/releases.json"},
+        "ids": ["science.xnu.undecimus"]
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://taurine.app/altstore/taurinestore.json"},
+        "ids": ["org.coolstar.taurine"]
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://theodyssey.dev/altstore/odysseysource.json"},
+        "ids": ["org.coolstar.odyssey"]
     }
 ]
 alternateAppData = {
+
     "it.ned.appdb-ios": {
         "name" : "AppDB Client",
         "developerName" : "ned",
@@ -29,6 +45,46 @@ alternateAppData = {
             "https://static.appdb.to/images/cydia-1900000538-iphone-1-1615476554.png",
             "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
             "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
+        ]
+    },
+    "science.xnu.undecimus": {
+        "name" : "unc0ver",
+        "developerName" : "Pwn20wnd",
+        "subtitle" : "The most advanced jailbreak tool.",
+        "localizedDescription" : "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n• unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n• Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n• Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
+        "iconURL" : "https://i.imgur.com/5aehDxj.png",
+        "tintColor" : "#515151",
+        "screenshotURLs" : [
+            "https://i.imgur.com/ItMaRRV.png",
+            "https://i.imgur.com/bjzyqpY.png",
+            "https://i.imgur.com/3TMGkaO.png",
+            "https://i.imgur.com/gTYfncm.png"
+        ]
+    },
+    "org.coolstar.taurine": {
+        "name" : "Taurine",
+        "developerName" : "Odyssey Team",
+        "subtitle" : "Time to get amped.",
+        "localizedDescription" : "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+        "iconURL" : "https://taurine.app/assets/images/icon.png",
+        "tintColor" : "#9e3a47",
+        "screenshotURLs" : [
+            "https://taurine.app/assets/images/ss-1.png",
+            "https://taurine.app/assets/images/ss-2.png",
+            "https://taurine.app/assets/images/ss-3.png"
+        ]
+    },
+    "org.coolstar.odyssey": {
+        "name" : "Odyssey",
+        "developerName" : "Odyssey Team",
+        "subtitle" : "A new jailbreak for a new era.",
+        "localizedDescription" : "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+        "iconURL" : "https://theodyssey.dev/assets/images/icon.png",
+        "tintColor" : "#9766a7",
+        "screenshotURLs" : [
+            "https://theodyssey.dev/assets/images/ss-1.png",
+            "https://theodyssey.dev/assets/images/ss-2.png",
+            "https://theodyssey.dev/assets/images/ss-3.png"
         ]
     }
 }
@@ -64,6 +120,7 @@ sourcesData = [
 ]
 
 alternateAppData = {
+    
     "com.microblink.PhotoMath": {
         "name" : "Photomath++",
         "developerName" : "Strejda603",
