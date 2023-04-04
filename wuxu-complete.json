@@ -1,15 +1,15 @@
 {
-  "name" : "WuXu's Library",
-  "identifier" : "com.wuxulibs.wuxuslibrary",
-  "apps" : [
+  "name": "WuXu's Library",
+  "identifier": "com.wuxulibs.wuxuslibrary",
+  "apps": [
     {
-      "bundleIdentifier" : "com.nianticlabs.pokemongo",
-      "developerName" : "SpooferPro Team",
-      "downloadURL" : "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
-      "iconURL" : "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/8f/0e/5e8f0e6c-3478-3bff-c4ad-03f543322688/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription" : "SpooferPro for POGO - iOS GPS Spoofer\n\nWith the tools from our Tweak, you can level up faster and catch the best Pokemon anywhere in the World.",
-      "name" : "Pokemon Go (w/SpooferPro)",
-      "screenshotURLs" : [
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "SpooferPro Team",
+      "downloadURL": "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/8f/0e/5e8f0e6c-3478-3bff-c4ad-03f543322688/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "SpooferPro for POGO - iOS GPS Spoofer\n\nWith the tools from our Tweak, you can level up faster and catch the best Pokemon anywhere in the World.",
+      "name": "Pokemon Go (w/SpooferPro)",
+      "screenshotURLs": [
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-1.jpg",
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-2.jpg",
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-3.jpg",
@@ -20,112 +20,148 @@
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-8.jpg",
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-9.jpg"
       ],
-      "size" : 115000000,
-      "subtitle" : "Pokemon Go injected with SpooferPro",
-      "tintColor" : "#184f99",
-      "version" : "0.265.0",
-      "versionDate" : "2023-04-04",
-      "versionDescription" : "• Updated Pokemon Go to v0.265.0"
+      "size": 115000000,
+      "subtitle": "Pokemon Go injected with SpooferPro",
+      "tintColor": "#184f99",
+      "version": "0.265.0",
+      "versionDate": "2023-04-04",
+      "versionDescription": "\u2022 Updated Pokemon Go to v0.265.0",
+      "versions": [
+        {
+          "version": "0.265.0",
+          "date": "2023-04-04",
+          "downloadURL": "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
+          "localizedDescription": "\u2022 Updated Pokemon Go to v0.265.0",
+          "size": 115000000
+        }
+      ]
     },
     {
-      "bundleIdentifier" : "org.coolstar.odyssey",
-      "developerName" : "Odyssey Team",
-      "downloadURL" : "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-      "iconURL" : "https://theodyssey.dev/assets/images/icon.png",
-      "localizedDescription" : "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
-      "name" : "Odyssey",
-      "screenshotURLs" : [
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Odyssey Team",
+      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
+      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
+      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "name": "Odyssey",
+      "screenshotURLs": [
         "https://theodyssey.dev/assets/images/ss-1.png",
         "https://theodyssey.dev/assets/images/ss-2.png",
         "https://theodyssey.dev/assets/images/ss-3.png"
       ],
-      "size" : 27200000,
-      "subtitle" : "A new jailbreak for a new era.",
-      "tintColor" : "#9766a7",
-      "version" : "1.4.3",
-      "versionDate" : "2023-04-03",
-      "versionDescription" : "• Update Sileo to 2.3-1"
+      "size": 27200000,
+      "subtitle": "A new jailbreak for a new era.",
+      "tintColor": "#9766a7",
+      "version": "1.4.3",
+      "versionDate": "2023-04-03",
+      "versionDescription": "\u2022 Update Sileo to 2.3-1",
+      "versions": [
+        {
+          "version": "1.4.3",
+          "date": "2023-04-03",
+          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
+          "localizedDescription": "\u2022 Update Sileo to 2.3-1",
+          "size": 27200000
+        }
+      ]
     },
     {
-      "bundleIdentifier" : "org.coolstar.taurine",
-      "developerName" : "Odyssey Team",
-      "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-      "iconURL" : "https://taurine.app/assets/images/icon.png",
-      "localizedDescription" : "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
-      "name" : "Taurine",
-      "screenshotURLs" : [
+      "bundleIdentifier": "org.coolstar.taurine",
+      "developerName": "Odyssey Team",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+      "iconURL": "https://taurine.app/assets/images/icon.png",
+      "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+      "name": "Taurine",
+      "screenshotURLs": [
         "https://taurine.app/assets/images/ss-1.png",
         "https://taurine.app/assets/images/ss-2.png",
         "https://taurine.app/assets/images/ss-3.png"
       ],
-      "size" : 31938370,
-      "subtitle" : "Time to get amped.",
-      "tintColor" : "#9e3a47",
-      "version" : "1.1.6",
-      "versionDate" : "2022-07-17",
-      "versionDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15"
+      "size": 31938370,
+      "subtitle": "Time to get amped.",
+      "tintColor": "#9e3a47",
+      "version": "1.1.6",
+      "versionDate": "2022-07-17",
+      "versionDescription": "\u2022 Backports DER entitlement fixes from Taurine15\n\u2022 Backports codesignature fixes from Taurine15\n\u2022 Backports various other fixes from Taurine15",
+      "versions": [
+        {
+          "version": "1.1.6",
+          "date": "2022-07-17",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+          "localizedDescription": "\u2022 Backports DER entitlement fixes from Taurine15\n\u2022 Backports codesignature fixes from Taurine15\n\u2022 Backports various other fixes from Taurine15",
+          "size": 31938370
+        }
+      ]
     },
     {
-      "bundleIdentifier" : "science.xnu.undecimus",
-      "developerName" : "Pwn20wnd",
-      "downloadURL" : "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "iconURL" : "https://i.imgur.com/5aehDxj.png",
-      "localizedDescription" : "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n• unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n• Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n• Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
-      "name" : "unc0ver",
-      "screenshotURLs" : [
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "iconURL": "https://i.imgur.com/5aehDxj.png",
+      "localizedDescription": "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n\u2022 unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n\u2022 Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n\u2022 Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
+      "name": "unc0ver",
+      "screenshotURLs": [
         "https://i.imgur.com/ItMaRRV.png",
         "https://i.imgur.com/bjzyqpY.png",
         "https://i.imgur.com/3TMGkaO.png",
         "https://i.imgur.com/gTYfncm.png"
       ],
-      "size" : 54489484,
-      "subtitle" : "The most advanced jailbreak tool.",
-      "tintColor" : "#515151",
-      "version" : "8.0.2",
-      "versionDate" : "2021-12-29",
-      "versionDescription" : "• Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n• Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8"
+      "size": 54489484,
+      "subtitle": "The most advanced jailbreak tool.",
+      "tintColor": "#515151",
+      "version": "8.0.2",
+      "versionDate": "2021-12-29",
+      "versionDescription": "\u2022 Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n\u2022 Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8",
+      "versions": [
+        {
+          "version": "8.0.2",
+          "date": "2021-12-29",
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+          "localizedDescription": "\u2022 Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n\u2022 Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8",
+          "size": 54489484
+        }
+      ]
     },
     {
-      "bundleIdentifier" : "ru.nonamedude.iTorrent",
-      "developerName" : "XITRIX",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/iTorrent.v1.9.ipa",
-      "iconURL" : "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
-      "localizedDescription" : "iTorrent - a torrent client for iOS with Files app support.\n\nWhat this app can do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• WebDAV Server\n• Select files to download or not\n• Change UI to dark theme\n• RSS Feed",
-      "minOSVersion" : "11.0",
-      "name" : "iTorrent",
-      "screenshotURLs" : [
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/iTorrent.v1.9.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
+      "localizedDescription": "iTorrent - a torrent client for iOS with Files app support.\n\nWhat this app can do:\n\n\u2022 Download in the background\n\u2022 Sequential download (use VLC to watch films while loading)\n\u2022 Add torrent files from Share menu (Safari and other apps)\n\u2022 Add magnet links directly from Safari\n\u2022 Store files in Files app (iOS 11+)\n\u2022 File sharing directly from app\n\u2022 Download torrent by link\n\u2022 Download torrent by magnet\n\u2022 Send notification on torrent downloaded\n\u2022 WebDAV Server\n\u2022 Select files to download or not\n\u2022 Change UI to dark theme\n\u2022 RSS Feed",
+      "minOSVersion": "11.0",
+      "name": "iTorrent",
+      "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000455-iphone-0.png",
         "https://static.appdb.to/images/cydia-1900000455-iphone-1.png",
         "https://static.appdb.to/images/cydia-1900000455-iphone-2.png",
         "https://static.appdb.to/images/cydia-1900000455-iphone-3.png"
       ],
-      "size" : 12800000,
-      "subtitle" : "An ordinary torrent client for iOS with Files app support",
-      "tintColor" : "#b31c29",
-      "version" : "1.9",
-      "versionDate" : "2023-02-13",
-      "versionDescription" : "• iTorrent updated to v1.9",
-      "versions" : [
+      "size": 12800000,
+      "subtitle": "An ordinary torrent client for iOS with Files app support",
+      "tintColor": "#b31c29",
+      "version": "1.9",
+      "versionDate": "2023-02-13",
+      "versionDescription": "\u2022 iTorrent updated to v1.9",
+      "versions": [
         {
-          "date" : "2023-02-13",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/iTorrent.v1.9.ipa",
-          "localizedDescription" : "• iTorrent updated to v1.9",
-          "minOSVersion" : "11.0",
-          "size" : 12800000,
-          "version" : "1.9"
+          "date": "2023-02-13",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/iTorrent.v1.9.ipa",
+          "localizedDescription": "\u2022 iTorrent updated to v1.9",
+          "minOSVersion": "11.0",
+          "size": 12800000,
+          "version": "1.9"
         }
       ]
     },
     {
-      "bundleIdentifier" : "com.leemin.DockHider",
-      "developerName" : "Leminlimez",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
-      "iconURL" : "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-      "localizedDescription" : "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689\n\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\n\nWarning: Some changes are permanent on iOS 14.0-14.8.1\n\n\nFeatures:\n\n• Running in the background to keep some changes from reverting\n\t- From running tests, battery loss is negligible (~1% per day on frequent), but that may vary \n\nSpringboard\n\n• Hide dock\n• Hide home bar\n• Hide folder backgrounds\n• Disable folder background blur\n• Disable app switcher blur\n• Hide CC Module Backgrounds\n• Hide Notification Banner Background\n\nApp Icon Themes\n\n• Importing folders of app icons\n• No WebClips!\n\nAudio\n\n• Custom sound effects\n• Upload your own sounds (nearly every audio format allowed!)\n• Max upload audio size of 150 kb, but will not apply for audio if too big!\n\nPasscode\n\n• Customize passcode keys\n• Import passcode keys files (.passthm) from TrollTools\n\nLocks\n\n• Importing locks from TrollLock\n• Custom number of frames + custom animation speeds (see below)\n\nExplore\n\n• Find and download themes for passcodes, locks, and app icons!\n• If you would like to submit your own works, please join the discord\n\nStatus Bar\n\n• Change carrier name\n• Change battery display detail\n• Change time text\n• Change breadcrumb text\n• Show numeric WiFi/Cellular strength\n• Hide many icons in the status bar\n\nOther Tools\n\n• Custom Fonts\n• Lock Screen Footnote\n• Notification Badges Changer (iOS 14-15 ONLY)\n• Springboard Colors\n• Settings App Customizer\n• Calculator Error Message\n\nMisc\n\n• Disable shortcut banners\n• Turn shortcuts into app clips\n• Supervise Device Warning: Use the features below at your own risk!\n• Change system version (shows in settings, iOS 15+)\n• Enable iPhone X Gestures\n• Enable Dynamic Island (iOS 16+)\n\nExtra Tools\n\n• Lock Screen Footnote\n• No Lock On Respring\n• Disable Low Power Alert",
-      "maxOSVersion_0" : "16.1.2",
-      "minOSVersion_0" : "14.0.0",
-      "name" : "Cowabunga",
-      "screenshotURLs" : [
+      "bundleIdentifier": "com.leemin.DockHider",
+      "developerName": "Leminlimez",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689\n\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\n\nWarning: Some changes are permanent on iOS 14.0-14.8.1\n\n\nFeatures:\n\n\u2022 Running in the background to keep some changes from reverting\n\t- From running tests, battery loss is negligible (~1% per day on frequent), but that may vary \n\nSpringboard\n\n\u2022 Hide dock\n\u2022 Hide home bar\n\u2022 Hide folder backgrounds\n\u2022 Disable folder background blur\n\u2022 Disable app switcher blur\n\u2022 Hide CC Module Backgrounds\n\u2022 Hide Notification Banner Background\n\nApp Icon Themes\n\n\u2022 Importing folders of app icons\n\u2022 No WebClips!\n\nAudio\n\n\u2022 Custom sound effects\n\u2022 Upload your own sounds (nearly every audio format allowed!)\n\u2022 Max upload audio size of 150 kb, but will not apply for audio if too big!\n\nPasscode\n\n\u2022 Customize passcode keys\n\u2022 Import passcode keys files (.passthm) from TrollTools\n\nLocks\n\n\u2022 Importing locks from TrollLock\n\u2022 Custom number of frames + custom animation speeds (see below)\n\nExplore\n\n\u2022 Find and download themes for passcodes, locks, and app icons!\n\u2022 If you would like to submit your own works, please join the discord\n\nStatus Bar\n\n\u2022 Change carrier name\n\u2022 Change battery display detail\n\u2022 Change time text\n\u2022 Change breadcrumb text\n\u2022 Show numeric WiFi/Cellular strength\n\u2022 Hide many icons in the status bar\n\nOther Tools\n\n\u2022 Custom Fonts\n\u2022 Lock Screen Footnote\n\u2022 Notification Badges Changer (iOS 14-15 ONLY)\n\u2022 Springboard Colors\n\u2022 Settings App Customizer\n\u2022 Calculator Error Message\n\nMisc\n\n\u2022 Disable shortcut banners\n\u2022 Turn shortcuts into app clips\n\u2022 Supervise Device Warning: Use the features below at your own risk!\n\u2022 Change system version (shows in settings, iOS 15+)\n\u2022 Enable iPhone X Gestures\n\u2022 Enable Dynamic Island (iOS 16+)\n\nExtra Tools\n\n\u2022 Lock Screen Footnote\n\u2022 No Lock On Respring\n\u2022 Disable Low Power Alert",
+      "maxOSVersion_0": "16.1.2",
+      "minOSVersion_0": "14.0.0",
+      "name": "Cowabunga",
+      "screenshotURLs": [
         "https://github.com/leminlimez/Cowabunga/raw/main/Images/Home.PNG",
         "https://github.com/leminlimez/Cowabunga/raw/main/Images/Tools.PNG",
         "https://github.com/leminlimez/Cowabunga/raw/main/Images/SpringboardTools.PNG",
@@ -135,244 +171,245 @@
         "https://github.com/leminlimez/Cowabunga/raw/main/Images/Misc.PNG",
         "https://github.com/leminlimez/Cowabunga/raw/main/Images/Extra_Tools.PNG"
       ],
-      "size" : 20600000,
-      "subtitle" : "The MacDirtyCow Toolbox for iOS 14 – iOS 16",
-      "tintColor" : "#0d6425",
-      "version" : "10.1.1",
-      "versionDate" : "2023-04-01",
-      "versionDescription" : "• Added remove 3 app limit (WDBRemoveThreeAppLimit)\n• Added ability to edit secondary carrier name separately\n• Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n• Fixed generate padding button not showing up on file path operations",
-      "versions" : [
+      "size": 20600000,
+      "subtitle": "The MacDirtyCow Toolbox for iOS 14 \u2013 iOS 16",
+      "tintColor": "#0d6425",
+      "version": "10.1.1",
+      "versionDate": "2023-04-01",
+      "versionDescription": "\u2022 Added remove 3 app limit (WDBRemoveThreeAppLimit)\n\u2022 Added ability to edit secondary carrier name separately\n\u2022 Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n\u2022 Fixed generate padding button not showing up on file path operations",
+      "versions": [
         {
-          "date" : "2023-04-01",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
-          "localizedDescription" : "• Added remove 3 app limit\n• Added ability to edit secondary carrier name separately\n• Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n• Fixed generate padding button not showing up on file path operations",
-          "maxOSVersion_0" : "16.1.2",
-          "minOSVersion" : "14.0.0",
-          "size" : 20600000,
-          "version" : "10.1.1"
+          "date": "2023-04-01",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
+          "localizedDescription": "\u2022 Added remove 3 app limit\n\u2022 Added ability to edit secondary carrier name separately\n\u2022 Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n\u2022 Fixed generate padding button not showing up on file path operations",
+          "maxOSVersion_0": "16.1.2",
+          "minOSVersion": "14.0.0",
+          "size": 20600000,
+          "version": "10.1.1"
         },
         {
-          "date" : "2023-03-29",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.0.ipa",
-          "localizedDescription" : "• You can now choose to enable v8 and/or v10 theming\n• Padding for file path replacing operations\n• Added back keyboard buttons audio\n• More safety with icon theming: first attempts to revert corrupted files before aborting\n• Improved error messages\n• Fixed springboard tools view sizing on ipads\n• Fixed springboard tools on RTL languages\n• Updated backend repo for explore page",
-          "maxOSVersion_0" : "16.1.2",
-          "minOSVersion" : "14.0.0",
-          "size" : 20600000,
-          "version" : "10.1.0"
+          "date": "2023-03-29",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.0.ipa",
+          "localizedDescription": "\u2022 You can now choose to enable v8 and/or v10 theming\n\u2022 Padding for file path replacing operations\n\u2022 Added back keyboard buttons audio\n\u2022 More safety with icon theming: first attempts to revert corrupted files before aborting\n\u2022 Improved error messages\n\u2022 Fixed springboard tools view sizing on ipads\n\u2022 Fixed springboard tools on RTL languages\n\u2022 Updated backend repo for explore page",
+          "maxOSVersion_0": "16.1.2",
+          "minOSVersion": "14.0.0",
+          "size": 20600000,
+          "version": "10.1.0"
         }
       ]
     },
     {
-      "bundleIdentifier" : "p3.xyz.yyyue.esign",
-      "developerName" : "esign.yyyue.xyz",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.8.1.ipa",
-      "iconURL" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
-      "localizedDescription" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
-      "minOSVersion" : "11.0",
-      "name" : "ESign",
-      "screenshotURLs" : [
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "esign.yyyue.xyz",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.8.1.ipa",
+      "iconURL": "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
+      "localizedDescription": "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
+      "minOSVersion": "11.0",
+      "name": "ESign",
+      "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000897-iphone-0-1670149926.png",
         "https://static.appdb.to/images/cydia-1900000897-iphone-1-1670149926.png",
         "https://static.appdb.to/images/cydia-1900000897-iphone-2-1670149927.png",
         "https://static.appdb.to/images/cydia-1900000897-iphone-3-1670149927.png"
       ],
-      "size" : 8750000,
-      "subtitle" : "IPA Self Signer, Tweak Injector, File Manager",
-      "tintColor" : "#356ead",
-      "version" : "4.8.1",
-      "versionDate" : "2023-03-19",
-      "versionDescription" : "• ESign updated to v4.8.1\n• The list of installed applications supports filtering",
-      "versions" : [
+      "size": 8750000,
+      "subtitle": "IPA Self Signer, Tweak Injector, File Manager",
+      "tintColor": "#356ead",
+      "version": "4.8.1",
+      "versionDate": "2023-03-19",
+      "versionDescription": "\u2022 ESign updated to v4.8.1\n\u2022 The list of installed applications supports filtering",
+      "versions": [
         {
-          "date" : "2023-03-19",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.8.1.ipa",
-          "localizedDescription" : "• ESign updated to v4.8.1\n• The list of installed applications supports filtering",
-          "minOSVersion" : "11.0",
-          "size" : 8750000,
-          "version" : "4.8.1"
+          "date": "2023-03-19",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.8.1.ipa",
+          "localizedDescription": "\u2022 ESign updated to v4.8.1\n\u2022 The list of installed applications supports filtering",
+          "minOSVersion": "11.0",
+          "size": 8750000,
+          "version": "4.8.1"
         },
         {
-          "date" : "2023-03-10",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.8.ipa",
-          "localizedDescription" : "• ESign updated to v4.7.8\n• Support Remove mobileprovision after signing\n• Support clear app data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fixed bugs",
-          "minOSVersion" : "11.0",
-          "size" : 8830000,
-          "version" : "4.7.8"
+          "date": "2023-03-10",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.8.ipa",
+          "localizedDescription": "\u2022 ESign updated to v4.7.8\n\u2022 Support Remove mobileprovision after signing\n\u2022 Support clear app data (iOS15-15.7.1 and 16.0-16.1.2)\n\u2022 Fixed bugs",
+          "minOSVersion": "11.0",
+          "size": 8830000,
+          "version": "4.7.8"
         },
         {
-          "date" : "2023-02-20",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.7.3.ipa",
-          "localizedDescription" : "• ESign updated to v4.7.6\n• Support backup and restore application data (iOS15-15.7.1 and 16.0-16.1.2)\n• Fix bugs",
-          "minOSVersion" : "11.0",
-          "size" : 10800000,
-          "version" : "4.7.7.3"
+          "date": "2023-02-20",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.7.3.ipa",
+          "localizedDescription": "\u2022 ESign updated to v4.7.6\n\u2022 Support backup and restore application data (iOS15-15.7.1 and 16.0-16.1.2)\n\u2022 Fix bugs",
+          "minOSVersion": "11.0",
+          "size": 10800000,
+          "version": "4.7.7.3"
         },
         {
-          "date" : "2023-02-20",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.6.ipa",
-          "localizedDescription" : "• ESign updated to v4.7.6",
-          "minOSVersion" : "11.0",
-          "size" : 8200000,
-          "version" : "4.7.6"
+          "date": "2023-02-20",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.6.ipa",
+          "localizedDescription": "\u2022 ESign updated to v4.7.6",
+          "minOSVersion": "11.0",
+          "size": 8200000,
+          "version": "4.7.6"
         },
         {
-          "date" : "2023-02-10",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.5.ipa",
-          "localizedDescription" : "• ESign updated to v4.7.5",
-          "minOSVersion" : "11.0",
-          "size" : 8200000,
-          "version" : "4.7.5"
+          "date": "2023-02-10",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.7.5.ipa",
+          "localizedDescription": "\u2022 ESign updated to v4.7.5",
+          "minOSVersion": "11.0",
+          "size": 8200000,
+          "version": "4.7.5"
         }
       ]
     },
     {
-      "bundleIdentifier" : "it.ned.appdb-ios",
-      "developerName" : "ned",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
-      "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
-      "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
-      "minOSVersion" : "10.0",
-      "name" : "AppDB Client",
-      "screenshotURLs" : [
+      "bundleIdentifier": "it.ned.appdb-ios",
+      "developerName": "ned",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
+      "iconURL": "https://static.appdb.to/images/cydia-1900000538-icon.png",
+      "localizedDescription": "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n\u2022 Easily browse appdb database with a blazing fast and smooth user interface\n\u2022 Control all your appdb linked devices\n\u2022 Install any content to your device after authorizing the app\n\u2022 Dowload IPAs from the web and install them right away\n\u2022 MyAppStore & Automatic Requests integration!\n\u2022 A wonderful dark mode\n\u2022 iOS 14 homescreen Widgets!\n\nAnd a lot more\u2026",
+      "minOSVersion": "10.0",
+      "name": "AppDB Client",
+      "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000538-iphone-0-1615476553.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-1-1615476554.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
       ],
-      "size" : 24300000,
-      "subtitle" : "A fully-featured iOS client for appdb.to",
-      "tintColor" : "#0365a0",
-      "version" : "1.1.4",
-      "versionDate" : "2023-03025",
-      "versionDescription" : "• Support for Free Enterprise Signing\n• Support for appdb PLUS\n• Full support for latest appdb features\n• Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n• Support for AltStore repos\n• Support for displaying link reports and link compatibility\n• Various UI and bug fixes",
-      "versions" : [
+      "size": 24300000,
+      "subtitle": "A fully-featured iOS client for appdb.to",
+      "tintColor": "#0365a0",
+      "version": "1.1.4",
+      "versionDate": "2023-03025",
+      "versionDescription": "\u2022 Support for Free Enterprise Signing\n\u2022 Support for appdb PLUS\n\u2022 Full support for latest appdb features\n\u2022 Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n\u2022 Support for AltStore repos\n\u2022 Support for displaying link reports and link compatibility\n\u2022 Various UI and bug fixes",
+      "versions": [
         {
-          "date" : "2023-03-25",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
-          "localizedDescription" : "• Support for Free Enterprise Signing\n• Support for appdb PLUS\n• Full support for latest appdb features\n• Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n• Support for AltStore repos\n• Support for displaying link reports and link compatibility\n• Various UI and bug fixes",
-          "minOSVersion" : "10.0",
-          "size" : 23000000,
-          "version" : "1.1.4"
+          "date": "2023-03-25",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
+          "localizedDescription": "\u2022 Support for Free Enterprise Signing\n\u2022 Support for appdb PLUS\n\u2022 Full support for latest appdb features\n\u2022 Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n\u2022 Support for AltStore repos\n\u2022 Support for displaying link reports and link compatibility\n\u2022 Various UI and bug fixes",
+          "minOSVersion": "10.0",
+          "size": 23000000,
+          "version": "1.1.4"
         },
         {
-          "date" : "2023-02-10",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.3.ipa",
-          "localizedDescription" : "• AppDB Client Updated to v1.1.3",
-          "minOSVersion" : "10.0",
-          "size" : 24300000,
-          "version" : "1.1.3"
+          "date": "2023-02-10",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.3.ipa",
+          "localizedDescription": "\u2022 AppDB Client Updated to v1.1.3",
+          "minOSVersion": "10.0",
+          "size": 24300000,
+          "version": "1.1.3"
         }
       ]
     }
   ],
-  "news" : [
+  "news": [
     {
-      "appID" : "com.nianticlabs.pokemongo",
-      "caption" : "Pokemon Go injected with SpooferPro has been added to the source!",
-      "date" : "2023-04-04",
-      "identifier" : "pokemongo-added",
-      "imageURL" : "https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg",
-      "notify" : false,
-      "tintColor" : "#184f99",
-      "title" : "Pokemon Go++ Added!"
+      "appID": "com.nianticlabs.pokemongo",
+      "caption": "Pokemon Go injected with SpooferPro has been added to the source!",
+      "date": "2023-04-04",
+      "identifier": "pokemongo-added",
+      "imageURL": "https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg",
+      "notify": false,
+      "tintColor": "#184f99",
+      "title": "Pokemon Go++ Added!"
     },
     {
-      "appID" : "org.coolstar.odyssey",
-      "caption" : "The Odyssey jailbreak tool has been added to the source! ",
-      "date" : "2023-04-04",
-      "identifier" : "odyssey-added",
-      "imageURL" : "https://theodyssey.dev/assets/images/meta.png",
-      "notify" : false,
-      "tintColor" : "#9766a7",
-      "title" : "Odyssey Added!"
+      "appID": "org.coolstar.odyssey",
+      "caption": "The Odyssey jailbreak tool has been added to the source! ",
+      "date": "2023-04-04",
+      "identifier": "odyssey-added",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "notify": false,
+      "tintColor": "#9766a7",
+      "title": "Odyssey Added!"
     },
     {
-      "appID" : "org.coolstar.taurine",
-      "caption" : "The Taurine jailbreak tool has been added to the source!",
-      "date" : "2023-04-04",
-      "identifier" : "taurine-added",
-      "imageURL" : "https://taurine.app/assets/images/meta.png",
-      "notify" : false,
-      "tintColor" : "#9e3a47",
-      "title" : "Taurine Added!"
+      "appID": "org.coolstar.taurine",
+      "caption": "The Taurine jailbreak tool has been added to the source!",
+      "date": "2023-04-04",
+      "identifier": "taurine-added",
+      "imageURL": "https://taurine.app/assets/images/meta.png",
+      "notify": false,
+      "tintColor": "#9e3a47",
+      "title": "Taurine Added!"
     },
     {
-      "appID" : "science.xnu.undecimus",
-      "caption" : "The unc0ver jailbreaking tool has been added to the source! ",
-      "date" : "2023-04-04",
-      "identifier" : "unc0ver-added",
-      "imageURL" : "https://www.iclarified.com/images/news/70442/70442/70442-1280.jpg",
-      "notify" : false,
-      "tintColor" : "#515151",
-      "title" : "Unc0ver Added!"
+      "appID": "science.xnu.undecimus",
+      "caption": "The unc0ver jailbreaking tool has been added to the source! ",
+      "date": "2023-04-04",
+      "identifier": "unc0ver-added",
+      "imageURL": "https://www.iclarified.com/images/news/70442/70442/70442-1280.jpg",
+      "notify": false,
+      "tintColor": "#515151",
+      "title": "Unc0ver Added!"
     },
     {
-      "appID" : "ru.nonamedude.iTorrent",
-      "caption" : "iTorrent has been added to the library! A torrent client for iOS with Files app support. ",
-      "date" : "2023-02-13",
-      "identifier" : "itorrent-added",
-      "imageURL" : "https://i.imgur.com/jnvDDpx.jpg",
-      "notify" : false,
-      "tintColor" : "#b31c29",
-      "title" : "iTorrent Added!"
+      "appID": "ru.nonamedude.iTorrent",
+      "caption": "iTorrent has been added to the library! A torrent client for iOS with Files app support. ",
+      "date": "2023-02-13",
+      "identifier": "itorrent-added",
+      "imageURL": "https://i.imgur.com/jnvDDpx.jpg",
+      "notify": false,
+      "tintColor": "#b31c29",
+      "title": "iTorrent Added!"
     },
     {
-      "appID" : "com.leemin.DockHider",
-      "caption" : "Cowabunga has been updated to the latest version - You can now remove the three app limit within the app! - click here for more info",
-      "date" : "2023-04-01",
-      "identifier" : "cowabunga-added",
-      "imageURL" : "https://i.imgur.com/4IT5NhG.png",
-      "notify" : true,
-      "tintColor" : "#0d6425",
-      "title" : "Cowabunga Updated!"
+      "appID": "com.leemin.DockHider",
+      "caption": "Cowabunga has been updated to the latest version - You can now remove the three app limit within the app! - click here for more info",
+      "date": "2023-04-01",
+      "identifier": "cowabunga-added",
+      "imageURL": "https://i.imgur.com/4IT5NhG.png",
+      "notify": true,
+      "tintColor": "#0d6425",
+      "title": "Cowabunga Updated!"
     },
     {
-      "appID" : "p3.xyz.yyyue.esign",
-      "caption" : "ESign has been updated to the latest version, click here for more info.",
-      "date" : "2023-03-19",
-      "identifier" : "esign-updated",
-      "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
-      "notify" : true,
-      "tintColor" : "#356ead",
-      "title" : "ESign Updated!"
+      "appID": "p3.xyz.yyyue.esign",
+      "caption": "ESign has been updated to the latest version, click here for more info.",
+      "date": "2023-03-19",
+      "identifier": "esign-updated",
+      "imageURL": "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
+      "notify": true,
+      "tintColor": "#356ead",
+      "title": "ESign Updated!"
     },
     {
-      "appID" : "it.ned.appdb-ios",
-      "caption" : "AppDB has been updated to the latest version, click here for more info",
-      "date" : "2023-03-25",
-      "identifier" : "appdb-updated",
-      "imageURL" : "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
-      "notify" : true,
-      "tintColor" : "#0365a0",
-      "title" : "AppDB Updated!"
+      "appID": "it.ned.appdb-ios",
+      "caption": "AppDB has been updated to the latest version, click here for more info",
+      "date": "2023-03-25",
+      "identifier": "appdb-updated",
+      "imageURL": "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
+      "notify": true,
+      "tintColor": "#0365a0",
+      "title": "AppDB Updated!"
     },
     {
-      "appID" : "com.leemin.DockHider",
-      "caption" : "This app has been removed, please use Cowabunga as they now offer this tweak",
-      "date" : "2023-04-01",
-      "identifier" : "nolimit-removed",
-      "imageURL" : "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
-      "notify" : true,
-      "tintColor" : "#404040",
-      "title" : "WDBRemoveThreeAppLimit Removed!"
+      "appID": "com.leemin.DockHider",
+      "caption": "This app has been removed, please use Cowabunga as they now offer this tweak",
+      "date": "2023-04-01",
+      "identifier": "nolimit-removed",
+      "imageURL": "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
+      "notify": true,
+      "tintColor": "#404040",
+      "title": "WDBRemoveThreeAppLimit Removed!"
     },
     {
-      "caption" : "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
-      "date" : "2023-03-20",
-      "identifier" : "discord-info",
-      "imageURL" : "https://imgur.com/A4d8bGv.png",
-      "notify" : true,
-      "tintColor" : "#5865f2",
-      "title" : "Join the Discord!",
-      "url" : "https://discord.com/invite/nKXsSdbEDc"
+      "caption": "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
+      "date": "2023-03-20",
+      "identifier": "discord-info",
+      "imageURL": "https://imgur.com/A4d8bGv.png",
+      "notify": true,
+      "tintColor": "#5865f2",
+      "title": "Join the Discord!",
+      "url": "https://discord.com/invite/nKXsSdbEDc"
     },
     {
-      "caption" : "Welcome to WuXu's Library! This source contains all of your favourite emulators, games, jailbreaks, utilities, and more Updated Daily ;)",
-      "date" : "2023-02-08",
-      "identifier" : "welcome-message",
-      "notify" : true,
-      "tintColor" : "#fe0002",
-      "title" : "Welcome to WuXu's Library!"
+      "caption": "Welcome to WuXu's Library! This source contains all of your favourite emulators, games, jailbreaks, utilities, and more Updated Daily ;)",
+      "date": "2023-02-08",
+      "identifier": "welcome-message",
+      "notify": true,
+      "tintColor": "#fe0002",
+      "title": "Welcome to WuXu's Library!"
     }
-  ]
+  ],
+  "version": 2
 }
