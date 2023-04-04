@@ -3,7 +3,6 @@
   "identifier" : "com.wuxulibs.wuxuslibrary++",
   "apps" : [
     {
-      "beta" : false,
       "bundleIdentifier" : "ch.b-eng.tor",
       "developerName" : "Syto203",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TOR.Browser.Cracked.v3.2.10.ipa",
@@ -17,7 +16,7 @@
       ],
       "size" : 68900000,
       "subtitle" : "Premium Features ",
-      "tintColor" : "693982",
+      "tintColor" : "#693982",
       "version" : "3.2.10",
       "versionDate" : "2023-04-04",
       "versionDescription" : "• Updated TOR Browser to v3.2.10"
@@ -758,9 +757,8 @@
       "identifier" : "torbrowser-added",
       "imageURL" : "https://www.bleepstatic.com/content/hl-images/2022/07/15/white.png",
       "notify" : false,
-      "tintColor" : "693982",
-      "title" : "Tor Browser++ Added!",
-      "url" : ""
+      "tintColor" : "#693982",
+      "title" : "Tor Browser++ Added!"
     },
     {
       "appID" : "net.whatsapp.WhatsApp",
