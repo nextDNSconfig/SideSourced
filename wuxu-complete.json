@@ -3,6 +3,25 @@
   "identifier" : "com.wuxulibs.wuxuslibrary",
   "apps" : [
     {
+      "bundleIdentifier" : "org.coolstar.taurine",
+      "developerName" : "Odyssey Team",
+      "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+      "iconURL" : "https://taurine.app/assets/images/icon.png",
+      "localizedDescription" : "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+      "name" : "Taurine",
+      "screenshotURLs" : [
+        "https://taurine.app/assets/images/ss-1.png",
+        "https://taurine.app/assets/images/ss-2.png",
+        "https://taurine.app/assets/images/ss-3.png"
+      ],
+      "size" : 31938370,
+      "subtitle" : "Time to get amped.",
+      "tintColor" : "#F65656",
+      "version" : "1.1.6",
+      "versionDate" : "2022-07-17",
+      "versionDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15"
+    },
+    {
       "bundleIdentifier" : "science.xnu.undecimus",
       "developerName" : "Pwn20wnd",
       "downloadURL" : "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
@@ -204,11 +223,22 @@
   ],
   "news" : [
     {
+      "appID" : "org.coolstar.taurine",
+      "caption" : "The Taurine jailbreak tool has been added to the source!",
+      "date" : "2023-04-04",
+      "identifier" : "taurine-added",
+      "imageURL" : "https://taurine.app/assets/images/meta.png",
+      "notify" : false,
+      "tintColor" : "#F65656",
+      "title" : "Taurine Added!"
+    },
+    {
       "appID" : "science.xnu.undecimus",
       "caption" : "The unc0ver jailbreaking tool has been added to the source! ",
       "date" : "2023-04-04",
       "identifier" : "unc0ver-added",
       "imageURL" : "https://programminginsider.com/wp-content/uploads/2021/02/uncover.jpg",
+      "notify" : false,
       "tintColor" : "#101216",
       "title" : "Unc0ver Added!"
     },
