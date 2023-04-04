@@ -52,7 +52,7 @@ sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://ipa.cypwn.xyz/cypwn.json"},
-        "ids": ["com.microblink.PhotoMath", "com.atebits.Tweetie2", "com.hammerandchisel.discord"],
+        "ids": ["com.microblink.PhotoMath", "com.hammerandchisel.discord"],
         "ignoreNews": True
     },
     {
@@ -77,21 +77,6 @@ alternateAppData = {
             "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-3.jpg",
             "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
             "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
-        ]
-    },
-    "com.atebits.Tweetie2": {
-        "name" : "Twitter++",
-        "developerName" : "BandarHL",
-        "subtitle" : "An awesome tweak for Twitter!",
-        "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.",
-        "iconURL" : "https://img.ipa4fun.com/fe/b5/38/333903271-logo.jpg",
-        "tintColor" : "#146daa",
-        "screenshotURLs" : [
-            "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.jpg",
-            "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-2.jpg",
-            "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-3.jpg",
-            "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.jpg",
-            "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.jpg"
         ]
     },
     "com.hammerandchisel.discord": {
