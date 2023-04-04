@@ -16,7 +16,7 @@
       ],
       "size": 27200000,
       "subtitle": "A new jailbreak for a new era.",
-      "tintColor": "#3e2d97",
+      "tintColor": "#9766a7",
       "version": "1.4.3",
       "versionDate": "2023-04-03",
       "versionDescription": "• Update Sileo to 2.3-1"
@@ -35,7 +35,7 @@
       ],
       "size" : 31938370,
       "subtitle" : "Time to get amped.",
-      "tintColor" : "#F65656",
+      "tintColor" : "#3e2d97",
       "version" : "1.1.6",
       "versionDate" : "2022-07-17",
       "versionDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15"
@@ -248,7 +248,7 @@
       "identifier": "odyssey-added",
       "imageURL": "https://theodyssey.dev/assets/images/meta.png",
       "notify": false,
-      "tintColor": "#3e2d97",
+      "tintColor": "#9766a7",
       "title": "Odyssey Added!"
     },
     {
@@ -258,7 +258,7 @@
       "identifier" : "taurine-added",
       "imageURL" : "https://taurine.app/assets/images/meta.png",
       "notify" : false,
-      "tintColor" : "#F65656",
+      "tintColor" : "#3e2d97",
       "title" : "Taurine Added!"
     },
     {
