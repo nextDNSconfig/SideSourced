@@ -1,4 +1,4 @@
-name: Auto Update
+name: Update Sources
 
 on:
   schedule:
