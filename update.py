@@ -137,7 +137,7 @@ alternateAppData = {
         ]
     },
     "com.hammerandchisel.discord": {
-        "name" : "Discord++",
+        "name" : "Discord (w/Enmity)",
         "developerName" : "Enmity Team",
         "subtitle" : "The power of addons, all in your hand.",
         "localizedDescription" : "Add plugins and themes to Discord!\n\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
