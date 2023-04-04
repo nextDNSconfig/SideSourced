@@ -3,23 +3,48 @@
   "identifier" : "com.wuxulibs.wuxuslibrary",
   "apps" : [
     {
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "Odyssey Team",
-      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
-      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
-      "name": "Odyssey",
-      "screenshotURLs": [
+      "bundleIdentifier" : "com.nianticlabs.pokemongo",
+      "developerName" : "SpooferPro Team",
+      "downloadURL" : "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
+      "iconURL" : "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/8f/0e/5e8f0e6c-3478-3bff-c4ad-03f543322688/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription" : "SpooferPro for POGO - iOS GPS Spoofer\n\nWith the tools from our Tweak, you can level up faster and catch the best Pokemon anywhere in the World.",
+      "name" : "Pokemon Go (w/SpooferPro)",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-1.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-2.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-3.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-4.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-5.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-6.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-7.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-8.jpg",
+        "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-9.jpg"
+      ],
+      "size" : 115000000,
+      "subtitle" : "Pokemon Go injected with SpooferPro",
+      "tintColor" : "#184f99",
+      "version" : "0.265.0",
+      "versionDate" : "2023-04-04",
+      "versionDescription" : "• Updated Pokemon Go to v0.265.0"
+    },
+    {
+      "bundleIdentifier" : "org.coolstar.odyssey",
+      "developerName" : "Odyssey Team",
+      "downloadURL" : "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
+      "iconURL" : "https://theodyssey.dev/assets/images/icon.png",
+      "localizedDescription" : "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "name" : "Odyssey",
+      "screenshotURLs" : [
         "https://theodyssey.dev/assets/images/ss-1.png",
         "https://theodyssey.dev/assets/images/ss-2.png",
         "https://theodyssey.dev/assets/images/ss-3.png"
       ],
-      "size": 27200000,
-      "subtitle": "A new jailbreak for a new era.",
-      "tintColor": "#9766a7",
-      "version": "1.4.3",
-      "versionDate": "2023-04-03",
-      "versionDescription": "• Update Sileo to 2.3-1"
+      "size" : 27200000,
+      "subtitle" : "A new jailbreak for a new era.",
+      "tintColor" : "#9766a7",
+      "version" : "1.4.3",
+      "versionDate" : "2023-04-03",
+      "versionDescription" : "• Update Sileo to 2.3-1"
     },
     {
       "bundleIdentifier" : "org.coolstar.taurine",
@@ -242,14 +267,24 @@
   ],
   "news" : [
     {
-      "appID": "org.coolstar.odyssey",
-      "caption": "The Odyssey jailbreak tool has been added to the source! ",
-      "date": "2023-04-04",
-      "identifier": "odyssey-added",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "notify": false,
-      "tintColor": "#9766a7",
-      "title": "Odyssey Added!"
+      "appID" : "com.nianticlabs.pokemongo",
+      "caption" : "Pokemon Go injected with SpooferPro has been added to the source!",
+      "date" : "2023-04-04",
+      "identifier" : "pokemongo-added",
+      "imageURL" : "https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg",
+      "notify" : false,
+      "tintColor" : "#184f99",
+      "title" : "Pokemon Go++ Added!"
+    },
+    {
+      "appID" : "org.coolstar.odyssey",
+      "caption" : "The Odyssey jailbreak tool has been added to the source! ",
+      "date" : "2023-04-04",
+      "identifier" : "odyssey-added",
+      "imageURL" : "https://theodyssey.dev/assets/images/meta.png",
+      "notify" : false,
+      "tintColor" : "#9766a7",
+      "title" : "Odyssey Added!"
     },
     {
       "appID" : "org.coolstar.taurine",
