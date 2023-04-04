@@ -3,6 +3,26 @@
   "identifier" : "com.wuxulibs.wuxuslibrary",
   "apps" : [
     {
+      "bundleIdentifier" : "science.xnu.undecimus",
+      "developerName" : "Pwn20wnd",
+      "downloadURL" : "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "iconURL" : "https://i.imgur.com/5aehDxj.png",
+      "localizedDescription" : "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n• unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n• Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n• Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
+      "name" : "unc0ver",
+      "screenshotURLs" : [
+        "https://i.imgur.com/ItMaRRV.png",
+        "https://i.imgur.com/bjzyqpY.png",
+        "https://i.imgur.com/3TMGkaO.png",
+        "https://i.imgur.com/gTYfncm.png"
+      ],
+      "size" : 54489484,
+      "subtitle" : "The most advanced jailbreak tool.",
+      "tintColor" : "#aaa9a9",
+      "version" : "8.0.2",
+      "versionDate" : "2021-12-29",
+      "versionDescription" : "• Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n• Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8"
+    },
+    {
       "bundleIdentifier" : "ru.nonamedude.iTorrent",
       "developerName" : "XITRIX",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/iTorrent.v1.9.ipa",
@@ -183,6 +203,17 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "science.xnu.undecimus",
+      "caption" : "The unc0ver jailbreaking tool has been added to the source! ",
+      "date" : "2023-04-04",
+      "identifier" : "unc0ver-added",
+      "imageURL" : "https://i.imgur.com/DahJIZv.png",
+      "notify" : false,
+      "tintColor" : "#aaa9a9",
+      "title" : "Unc0ver Added!",
+      "url" : ""
+    },
     {
       "appID" : "ru.nonamedude.iTorrent",
       "caption" : "iTorrent has been added to the library! A torrent client for iOS with Files app support. ",
