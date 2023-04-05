@@ -3,7 +3,7 @@
   "name" : "WuXu's Library++",
   "apps" : [
     {
-      "bundleIdentifier" : "Movie.box.pro",
+      "bundleIdentifier" : "com.xd.mbp31",
       "developerName" : "",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
       "iconURL" : "https://bestforandroid.com/apk/wp-content/uploads/2021/03/moviebox-pro-featured-image.png",
@@ -860,7 +860,7 @@
   ],
   "news" : [
     {
-      "appID" : "Movie.box.pro",
+      "appID" : "com.xd.mbp31",
       "caption" : "MovieBoxPro, the best online movie streaming platform has been added to the source!",
       "date" : "2023-04-04",
       "identifier" : "movieboxpro-added",
