@@ -10,12 +10,6 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 sourcesData = [
     {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://ipa.cypwn.xyz/cypwn.json"},
-        "ids": ["it.ned.appdb-ios"],
-        "ignoreNews": True
-    },
-    {
         "parser": Parser.UNC0VER,
         "kwargs": {"url": "https://unc0ver.dev/releases.json"},
         "ids": ["science.xnu.undecimus"]
@@ -33,20 +27,6 @@ sourcesData = [
 ]
 alternateAppData = {
 
-    "it.ned.appdb-ios": {
-        "name" : "AppDB Client",
-        "developerName" : "ned",
-        "subtitle" : "A fully-featured iOS client for appdb.to",
-        "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
-        "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
-        "tintColor" : "#0365a0",
-        "screenshotURLs" : [
-            "https://static.appdb.to/images/cydia-1900000538-iphone-0-1615476553.png",
-            "https://static.appdb.to/images/cydia-1900000538-iphone-1-1615476554.png",
-            "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
-            "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
-        ]
-    },
     "science.xnu.undecimus": {
         "name" : "unc0ver",
         "developerName" : "Pwn20wnd",
@@ -107,12 +87,6 @@ except Exception as err:
 sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://ipa.cypwn.xyz/cypwn.json"},
-        "ids": ["com.microblink.PhotoMath", "com.hammerandchisel.discord"],
-        "ignoreNews": True
-    },
-    {
-        "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://qnblackcat.github.io/AltStore/apps.json"},
         "ids": ["com.google.ios.youtube","com.facebook.Facebook"],
         "ignoreNews": True
@@ -121,37 +95,6 @@ sourcesData = [
 
 alternateAppData = {
     
-    "com.microblink.PhotoMath": {
-        "name" : "Photomath++",
-        "developerName" : "Strejda603",
-        "subtitle" : "Photomath with plus activated!",
-        "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
-        "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
-        "tintColor" : "#830824",
-        "screenshotURLs" : [
-            "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
-            "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-2.jpg",
-            "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-3.jpg",
-            "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
-            "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
-        ]
-    },
-    "com.hammerandchisel.discord": {
-        "name" : "Discord (w/Enmity)",
-        "developerName" : "Enmity Team",
-        "subtitle" : "The power of addons, all in your hand.",
-        "localizedDescription" : "Add plugins and themes to Discord!\n\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
-        "iconURL" : "https://img.ipa4fun.com/87/01/a2/985746746-logo.jpg",
-        "tintColor" : "#3c45ac",
-        "screenshotURLs" : [
-            "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-1.jpg",
-            "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-2.jpg",
-            "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-3.jpg",
-            "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-4.jpg",
-            "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.jpg",
-            "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.jpg"
-        ]
-    },
     "com.google.ios.youtube": {
         "name" : "YouTube++",
         "developerName" : "qnblackcat",
