@@ -460,7 +460,7 @@
     {
       "bundleIdentifier" : "com.zhiliaoapp.musically",
       "developerName" : "CrazyMind90",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v28.4.1.+.LRD+.v2.5.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v28.9.0.+.LRD+.v2.5.ipa",
       "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.jpg",
       "localizedDescription" : "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
       "minOSVersion" : "10.0",
@@ -474,13 +474,21 @@
         "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-6.jpg",
         "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-7.jpg"
       ],
-      "size" : 202000000,
+      "size" : 208000000,
       "subtitle" : "TikTok with added features.",
       "tintColor" : "#363636",
-      "version" : "28.4.1",
-      "versionDate" : "2023-03-29",
-      "versionDescription" : "• Updated TikTok to v28.4.1\n• Updated LRD+ to v2.5\n\nOnce settings have been applied app will freeze close and relaunch app for settings to successfully apply",
+      "version" : "28.9.0",
+      "versionDate" : "2023-04-05",
+      "versionDescription" : "• Updated TikTok to v28.9.0",
       "versions" : [
+        {
+          "date" : "2023-04-05",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v28.9.0.+.LRD+.v2.5.ipa",
+          "localizedDescription" : "• Updated TikTok to v28.9.0",
+          "minOSVersion" : "10.0",
+          "size" : 208000000,
+          "version" : "28.9.0"
+        },
         {
           "date" : "2023-03-29",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v28.4.1.+.LRD+.v2.5.ipa",
@@ -960,7 +968,7 @@
     {
       "appID" : "com.zhiliaoapp.musically",
       "caption" : "TikTok has been updated to the latest version, click here for more info",
-      "date" : "2023-03-29",
+      "date" : "2023-04-05",
       "identifier" : "tiktok-updated",
       "imageURL" : "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/02/how-to-delete-tiktok-1220x683.jpg",
       "notify" : true,
