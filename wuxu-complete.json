@@ -3,22 +3,36 @@
   "name" : "WuXu's Library",
   "apps" : [
     {
-      "beta": false,
-      "bundleIdentifier": "com.supercell.magic",
-      "developerName": "Null's",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
-      "iconURL": "https://img.ipa4fun.com/cc/d5/84/529479190-logo.jpg",
-      "localizedDescription": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
-      "name": "Clash of Clans",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-1.jpg"
+      "bundleIdentifier" : "com.supercell.magic",
+      "developerName" : "Null's",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
+      "iconURL" : "https://img.ipa4fun.com/cc/d5/84/529479190-logo.jpg",
+      "localizedDescription" : "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
+      "name" : "Clash of Clans",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-1.jpg",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-2.jpg",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-3.jpg",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-4.jpg",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-5.jpg",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-6.jpg",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-7.jpg"
       ],
-      "size": 277000000,
-      "subtitle": "A modded Clash of Clans server!",
-      "tintColor": "#1f042b",
-      "version": "15.83.19",
-      "versionDate": "2023-04-04",
-      "versionDescription": "• Updated Clash of Clans to v15.83.19"
+      "size" : 277000000,
+      "subtitle" : "A modded Clash of Clans server!",
+      "tintColor" : "#1f042b",
+      "version" : "15.83.19",
+      "versionDate" : "2023-04-04",
+      "versionDescription" : "• Updated Clash of Clans to v15.83.19",
+      "versions" : [
+        {
+          "date" : "2023-04-04",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
+          "localizedDescription" : "• Updated Clash of Clans to v15.83.19",
+          "size" : 277000000,
+          "version" : "15.83.19"
+        }
+      ]
     },
     {
       "bundleIdentifier" : "com.nianticlabs.pokemongo",
@@ -55,8 +69,6 @@
       ]
     },
     {
-      "appID" : "org.coolstar.odyssey",
-      "beta" : false,
       "bundleIdentifier" : "org.coolstar.odyssey",
       "developerName" : "Odyssey Team",
       "downloadURL" : "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
@@ -323,14 +335,14 @@
   ],
   "news" : [
     {
-      "appID": "com.supercell.magic",
-      "caption": "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
-      "date": "2023-04-04",
-      "identifier": "clashofclans-added",
-      "imageURL": "https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg",
-      "notify": false,
-      "tintColor": "#1f042b",
-      "title": "Clash of Clans Added!"
+      "appID" : "com.supercell.magic",
+      "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
+      "date" : "2023-04-04",
+      "identifier" : "clashofclans-added",
+      "imageURL" : "https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg",
+      "notify" : false,
+      "tintColor" : "#123047",
+      "title" : "Clash of Clans Added!"
     },
     {
       "appID" : "com.nianticlabs.pokemongo",
