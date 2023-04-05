@@ -3,6 +3,32 @@
   "name" : "WuXu's Library++",
   "apps" : [
     {
+      "beta": false,
+      "bundleIdentifier": "com.deezer.Deezer",
+      "developerName": "iJulioVerne",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.ipa",
+      "iconURL": "https://img.ipa4fun.com/23/af/ed/292738169-logo.jpg",
+      "localizedDescription": "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.\n\nEnjoy a massive music catalog that has everything and more with in-built algorithms that learn what you like and recommend more of it. The Deezer music player is your companion across all devices, providing access to the artists, songs and communities that speak to you. Discover and create playlists in your favorite genres: hip hop, rap, rock, lofi. No WiFi needed — download songs and enjoy offline music — perfect for when at home or on the go.\n\nThis is the most personalized and intuitive listening experience, brought to you from the home of music.\n\nWith Deezer Free*, you'll get all you need in one app:\n\n• Flow, our feature for infinite, personalized mixes (on-point recommendations every time)\n• SongCatcher, for identifying any song playing around you (try singing or humming for magic results)\n• Game on with music quiz (see how fast you can guess your favorite song)\n• A ludicrously-large catalog (go on, try to find a song that isn't there)\n• The freedom to play music based on moods, niche genres and scenes\n• Personal and collaborative playlists, favorites, radio* and more\n• Dive deeper into the music with the Lyrics feature and translated lyrics\n• Sleep timer function (for those beauty Zzzzzz)\n• Sharing function for spreading the love on socials\n\n\nLooking for a level up? Switch to Deezer Premium**, Deezer Family** or Deezer Student** and you'll benefit from these added perks:\n\n• No ads, ever!\n• Offline listening (just cause the signal cuts doesn't mean the music has to)\n• Unlimited skips, unlimited listening\n• HiFi sound (High Fidelity, lossless quality at 1,411 kbps)\n• FLAC-standard quality on millions of tracks\n• High-end sound system compatibility\n\nCompatible devices:\nGet Deezer on all your connected devices — Google Nest, HomePod Mini, Amazon Alexa, Sonos and more.",
+      "name": "Deezer++",
+      "screenshotURLs": [
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-1.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-2.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-3.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-4.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-5.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-6.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-7.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-8.jpg",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-9.jpg"
+      ],
+      "size": 30600000,
+      "subtitle": "Deezer with premium activated!",
+      "tintColor": "#131313",
+      "version": "7.15.0",
+      "versionDate": "2022-04-09",
+      "versionDescription": "• Updated Deezer to v7.15.0 - Last working version with tweak."
+    },
+    {
       "bundleIdentifier" : "com.xd.mbp31",
       "developerName" : "",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
@@ -835,6 +861,16 @@
     }
   ],
   "news" : [
+    {
+      "appID": "com.deezer.Deezer",
+      "caption": "Deezer, with premium activated, has been added to the source!",
+      "date": "2022-04-09",
+      "identifier": "deezer-added",
+      "imageURL": "https://www.soda.com/wp-content/uploads/2020/03/deezer.jpg",
+      "notify": false,
+      "tintColor": "#131313",
+      "title": "Deezer++ Added!"
+    },
     {
       "appID" : "com.xd.mbp31",
       "caption" : "MovieBoxPro, the best online movie streaming platform has been added to the source!",
