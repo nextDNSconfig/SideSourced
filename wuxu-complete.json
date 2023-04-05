@@ -22,11 +22,11 @@
       "subtitle" : "A modded Clash of Clans server!",
       "tintColor" : "#1f042b",
       "version" : "15.83.19",
-      "versionDate" : "2023-04-04",
+      "versionDate" : "2023-04-05",
       "versionDescription" : "• Updated Clash of Clans to v15.83.19",
       "versions" : [
         {
-          "date" : "2023-04-04",
+          "date" : "2023-04-05",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
           "localizedDescription" : "• Updated Clash of Clans to v15.83.19",
           "size" : 277000000,
@@ -337,7 +337,7 @@
     {
       "appID" : "com.supercell.magic",
       "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
-      "date" : "2023-04-04",
+      "date" : "2023-04-05",
       "identifier" : "clashofclans-added",
       "imageURL" : "https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg",
       "notify" : false,
