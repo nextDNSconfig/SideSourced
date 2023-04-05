@@ -876,7 +876,7 @@
       "identifier" : "speedtest-added",
       "imageURL" : "https://www.speedtest.net/images/share-logo.png",
       "notify" : false,
-      "tintColor" : "8A28F7",
+      "tintColor" : "#161624",
       "title" : "Speedtest++ Added!"
     },
     {
