@@ -5,7 +5,7 @@
     {
       "bundleIdentifier" : "com.marcuszhou.NineAnimator",
       "developerName" : "SuperMarcus",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NineAnimator.v1.2.7.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NineAnimator.v1.2.7-b6.ipa",
       "iconURL" : "https://9anirepo.github.io/assets/com.marcuszhou.NineAnimator/icon.png",
       "localizedDescription" : "A simple yet elegant way of waching anime on your favorite anime websites. NineAnimator is a free and open source anime watching app for iOS and macOS. GPLv3 Licensed.\n\nFeatures:\n\n• Ads Free and no logins\n• Super-duper clean Uls + Dark Mode\n• Get notifications when new episodes come out\n• Apple's native video playback interface\n• Picture in Picture playback on iPads/iOS 14+ devices\n• Chromecast/Google Cast with lockscreen & control center support\n• Playback History & Auto Resumes\n• Support Multiple Anime Websites\n• Integration with HomeKit\n• Discord Rich Presence integration (macOS only)\n• Handoff & Siri Shortcuts\n• Download & play episodes offline\n• Third party anime listing & tracking websites (view & edit)",
       "name" : "NineAnimator",
@@ -27,7 +27,7 @@
         {
           "version" : "1.2.7-b6",
           "date" : "2021-08-17",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NineAnimator.v1.2.7.ipa",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NineAnimator.v1.2.7-b6.ipa",
           "localizedDescription" : "• The iOS app is now about 9X smaller\nFixed an issue with subscriptions loading forever\n\n• Title tracking between Anime Sources and Anime Listing\nServices is now case insensitive\n\n• Fixed tracking on MyAnimeList if the anime title is longer than 60 characters\n\n• Added support for downloading while the app is in the background\n\n• Fixed an issue where downloaded videos would get removed at random\n\n• Notifications should appear more quickly and more often\n\n• Local video playback will no longer interrupt AirPlay\n\n• Fixed UI for Recently Watched anime on larger devices\n\n• Fixed issue where Recently Watched anime would not update its artwork or other metadata\n\n• Fixed issue where the app may crash during heavy use\n\n• The mouse cursor on macOS will automatically hide during video playback\n\n• Added support for ArrayAnime\n\n• Added support for Pantsubase\n \n• Removed Aniwatch and 9anime\n\n• Updated many different sources and server",
           "size" : 8920000
         }
