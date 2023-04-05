@@ -1,6 +1,6 @@
 {
-  "name" : "WuXu's Library",
   "identifier" : "com.wuxulibs.wuxuslibrary",
+  "name" : "WuXu's Library",
   "apps" : [
     {
       "bundleIdentifier" : "com.nianticlabs.pokemongo",
@@ -28,43 +28,43 @@
       "versionDescription" : "• Updated Pokemon Go to v0.265.0",
       "versions" : [
         {
-          "version" : "0.265.0",
           "date" : "2023-04-04",
           "downloadURL" : "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
           "localizedDescription" : "• Updated Pokemon Go to v0.265.0",
-          "size" : 115000000
+          "size" : 115000000,
+          "version" : "0.265.0"
         }
       ]
     },
     {
-      "name" : "Odyssey",
+      "appID" : "org.coolstar.odyssey",
+      "beta" : false,
       "bundleIdentifier" : "org.coolstar.odyssey",
       "developerName" : "Odyssey Team",
-      "subtitle" : "A new jailbreak for a new era.",
-      "version" : "1.4.3",
-      "versionDate" : "2023-04-03",
-      "versionDescription" : "- Update Sileo to 2.3-1",
       "downloadURL" : "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-      "localizedDescription" : "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
       "iconURL" : "https://theodyssey.dev/assets/images/icon.png",
-      "tintColor" : "#9766a7",
-      "size" : 27200000,
-      "beta" : false,
+      "localizedDescription" : "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "name" : "Odyssey",
       "screenshotURLs" : [
         "https://theodyssey.dev/assets/images/ss-1.png",
         "https://theodyssey.dev/assets/images/ss-2.png",
         "https://theodyssey.dev/assets/images/ss-3.png"
       ],
+      "size" : 27200000,
+      "subtitle" : "A new jailbreak for a new era.",
+      "tintColor" : "#9766a7",
+      "version" : "1.4.3",
+      "versionDate" : "2023-04-03",
+      "versionDescription" : "- Update Sileo to 2.3-1",
       "versions" : [
         {
-          "version" : "1.4.3",
           "date" : "2023-04-03",
           "downloadURL" : "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
           "localizedDescription" : "• Update Sileo to 2.3-1",
-          "size" : 27200000
+          "size" : 27200000,
+          "version" : "1.4.3"
         }
-      ],
-      "appID" : "org.coolstar.odyssey"
+      ]
     },
     {
       "bundleIdentifier" : "org.coolstar.taurine",
@@ -86,11 +86,11 @@
       "versionDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15",
       "versions" : [
         {
-          "version" : "1.1.6",
           "date" : "2022-07-17",
           "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
           "localizedDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15",
-          "size" : 31938370
+          "size" : 31938370,
+          "version" : "1.1.6"
         }
       ]
     },
@@ -115,11 +115,11 @@
       "versionDescription" : "• Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n• Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8",
       "versions" : [
         {
-          "version" : "8.0.2",
           "date" : "2021-12-29",
           "downloadURL" : "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
           "localizedDescription" : "• Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n• Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8",
-          "size" : 54489484
+          "size" : 54489484,
+          "version" : "8.0.2"
         }
       ]
     },
@@ -264,23 +264,25 @@
       ]
     },
     {
-      "name" : "AppDB Client",
+      "appID" : "it.ned.appdb-ios",
       "bundleIdentifier" : "it.ned.appdb-ios",
       "developerName" : "ned",
-      "version" : "1.1.4",
-      "versionDate" : "2023-03-25",
-      "versionDescription" : "• Support for Free Enterprise Signing\n• Support for appdb PLUS\n• Full support for latest appdb features\n• Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n• Support for AltStore repos\n• Support for displaying link reports and link compatibility\n• Various UI and bug fixes",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
-      "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
-      "tintColor" : "#0365a0",
-      "size" : 23000000,
+      "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
+      "name" : "AppDB Client",
       "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900000538-iphone-0-1615476553.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-1-1615476554.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
       ],
+      "size" : 23000000,
+      "subtitle" : "A fully-featured iOS client for appdb.to",
+      "tintColor" : "#0365a0",
+      "version" : "1.1.4",
+      "versionDate" : "2023-03-25",
+      "versionDescription" : "• Support for Free Enterprise Signing\n• Support for appdb PLUS\n• Full support for latest appdb features\n• Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n• Support for AltStore repos\n• Support for displaying link reports and link compatibility\n• Various UI and bug fixes",
       "versions" : [
         {
           "date" : "2023-03-25",
@@ -298,9 +300,7 @@
           "size" : 24300000,
           "version" : "1.1.3"
         }
-      ],
-      "appID" : "it.ned.appdb-ios",
-      "subtitle" : "A fully-featured iOS client for appdb.to"
+      ]
     }
   ],
   "news" : [
