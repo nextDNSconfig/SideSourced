@@ -3,6 +3,35 @@
   "name" : "WuXu's Library++",
   "apps" : [
     {
+      "bundleIdentifier" : "Movie.box.pro",
+      "developerName" : "",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
+      "iconURL" : "https://static.appdb.to/images/cydia-1900000473-icon-1669498439.png",
+      "localizedDescription" : "Enjoy Movies and TV on your phone or cast to your smartTV",
+      "name" : "MovieBoxPro",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
+      ],
+      "size" : 131000000,
+      "subtitle" : "The best in-class streaming service!",
+      "tintColor" : "#1d1d20",
+      "version" : "12.3",
+      "versionDate" : "2023-03-10",
+      "versionDescription" : "• Optimize the movie list editing performance.\n• Support remember the encoding while uploading subtitle files.\n• Support set the subtitle language separate from the app language.",
+      "versions" : [
+        {
+          "date" : "2023-03-10",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
+          "localizedDescription" : "• Optimize the movie list editing performance.\n• Support remember the encoding while uploading subtitle files.\n• Support set the subtitle language separate from the app language.",
+          "size" : 131000000,
+          "version" : "12.3"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.ookla.speedtest",
       "developerName" : "Hollr2099",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Speedtest.Cracked.v4.5.2.ipa",
@@ -830,6 +859,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "Movie.box.pro",
+      "caption" : "MovieBoxPro, the best online movie streaming platform has been added to the source!",
+      "date" : "2023-04-04",
+      "identifier" : "movieboxpro-added",
+      "imageURL" : "https://i0.wp.com/lifeatthemovies.com/wp-content/uploads/2016/07/2011.png?resize=672%2C372&w=640",
+      "notify" : false,
+      "tintColor" : "#1d1d20",
+      "title" : "MovieBoxPro Added!"
+    },
     {
       "appID" : "com.ookla.speedtest",
       "caption" : "Speedtest cracked has been added to the source! With a free VPN",
