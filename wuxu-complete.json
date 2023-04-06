@@ -7,10 +7,12 @@
   "website" : "https://wuxu1.github.io/",
   "tintColor" : "#3e3e3e",
   "featuredApps" : [
-    "com.leemin.DockHider",
     "science.xnu.undecimus",
+    "com.leemin.DockHider",
     "com.supercell.magic",
-    "com.nianticlabs.pokemongo"
+    "com.nianticlabs.pokemongo",
+    "com.supercell.scroll",
+    "org.coolstar.taurine"
   ],
   "apps" : [
     {
