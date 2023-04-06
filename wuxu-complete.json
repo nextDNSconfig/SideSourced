@@ -14,11 +14,41 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.supercell.scroll",
+      "developerName" : "Null's",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v3.3074.6.ipa",
+      "iconURL" : "https://img.ipa4fun.com/e8/16/53/1053012308-logo.jpg",
+      "localizedDescription" : "Looking for free gems, gold and resources on Clash Royale? Null's Royale can make it happen for you.\n\n•Unlock all cards - You can get all cards in Clash Royale for free now, including custom cards in challenges.\n\n•Unlimited resources -  No more worries about using up all the gems and gold in Clash Royale. You can get unlimited amount of these resources now.\n\n• Battle withe real players - Have fun competing with real players online in pvp mode with stable network.",
+      "name" : "Clash Royale",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-1.jpg",
+        "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-2.jpg",
+        "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-3.jpg",
+        "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-4.jpg",
+        "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-5.jpg"
+      ],
+      "size" : 160000000,
+      "subtitle" : "A modded Clash Royale server!",
+      "tintColor" : "#193549",
+      "version" : "3.3074.6",
+      "versionDate" : "2023-04-06",
+      "versionDescription" : "• Updated Clash Royale to v3.3074.6",
+      "versions" : [
+        {
+          "date" : "2023-04-06",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v3.3074.6.ipa",
+          "localizedDescription" : "• Updated Clash Royale to v3.3074.6",
+          "size" : 160000000,
+          "version" : "3.3074.6"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.supercell.magic",
       "developerName" : "Null's",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
       "iconURL" : "https://img.ipa4fun.com/cc/d5/84/529479190-logo.jpg",
-      "localizedDescription" : "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
+      "localizedDescription" : "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
       "name" : "Clash of Clans",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-1.jpg",
@@ -353,6 +383,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "com.supercell.scroll",
+      "caption" : "Clash Royale on a modded private server has been added to the source! Unlimited gems, gold and resources etc.",
+      "date" : "2023-04-06",
+      "identifier" : "clashroyale-added",
+      "imageURL" : "https://clashroyale.com/uploaded-images-blog/158142535_1679606679.jpg?mtime=20230323212439",
+      "notify" : false,
+      "tintColor" : "#a99a6d",
+      "title" : "Clash Royale Added!"
+    },
     {
       "appID" : "com.supercell.magic",
       "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
