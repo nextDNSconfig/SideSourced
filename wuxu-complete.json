@@ -297,7 +297,7 @@
       "appID" : "it.ned.appdb-ios",
       "bundleIdentifier" : "it.ned.appdb-ios",
       "developerName" : "ned",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.5.ipa",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
       "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
       "name" : "AppDB Client",
@@ -307,13 +307,21 @@
         "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
         "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
       ],
-      "size" : 23000000,
+      "size" : 23100000,
       "subtitle" : "A fully-featured iOS client for appdb.to",
       "tintColor" : "#0365a0",
-      "version" : "1.1.4",
-      "versionDate" : "2023-03-25",
-      "versionDescription" : "• Support for Free Enterprise Signing\n• Support for appdb PLUS\n• Full support for latest appdb features\n• Support for injecting dylibs, frameworks and debs into apps - Make sure to enable \"Ask for installation options\" in Settings!\n• Support for AltStore repos\n• Support for displaying link reports and link compatibility\n• Various UI and bug fixes",
+      "version" : "1.1.5",
+      "versionDate" : "2023-04-06",
+      "versionDescription" : "• Switch between available Free Enterprise Signing certificates\n• Support for listing and deleting IPA Cache files\n• Show download statistics on app detail page\n• Fix the bug on status page not showing some values\n• Add black icon\n• Add translations for icon chooser\n• Make disabling ads easy and disabled by default\n• Completely remove old \"PRO\" stuff",
       "versions" : [
+        {
+          "date" : "2023-04-06",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.5.ipa",
+          "localizedDescription" : "• Switch between available Free Enterprise Signing certificates\n• Support for listing and deleting IPA Cache files\n• Show download statistics on app detail page\n• Fix the bug on status page not showing some values\n• Add black icon\n• Add translations for icon chooser\n• Make disabling ads easy and disabled by default\n• Completely remove old \"PRO\" stuff",
+          "minOSVersion" : "10.0",
+          "size" : 23100000,
+          "version" : "1.1.5"
+        },
         {
           "date" : "2023-03-25",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.4.ipa",
@@ -417,7 +425,7 @@
     {
       "appID" : "it.ned.appdb-ios",
       "caption" : "AppDB has been updated to the latest version, click here for more info",
-      "date" : "2023-03-25",
+      "date" : "2023-05-06",
       "identifier" : "appdb-updated",
       "imageURL" : "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
       "notify" : true,
