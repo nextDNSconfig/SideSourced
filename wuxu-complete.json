@@ -335,7 +335,6 @@
       ]
     },
     {
-      "appID" : "it.ned.appdb-ios",
       "bundleIdentifier" : "it.ned.appdb-ios",
       "developerName" : "ned",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.5.ipa",
