@@ -14,7 +14,6 @@
   ],
   "apps" : [
     {
-      "beta" : false,
       "bundleIdentifier" : "com.deezer.Deezer",
       "developerName" : "iJulioVerne",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.ipa",
