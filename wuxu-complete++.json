@@ -642,7 +642,7 @@
     {
       "bundleIdentifier" : "AlexisBarreyat.BeReal",
       "developerName" : "Avangelista",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.0.+.UnBlur.v0.0.2.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.1.+.UnBlur.v0.0.2.ipa",
       "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
       "localizedDescription" : "Unblur your friends' posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
       "minOSVersion" : "14.0",
@@ -655,12 +655,12 @@
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.jpg",
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.jpg"
       ],
-      "size" : 23800000,
+      "size" : 18800000,
       "subtitle" : "See your friends BeReals without posting anything!",
       "tintColor" : "#363636",
-      "version" : "0.36.0",
-      "versionDate" : "2023-03-30",
-      "versionDescription" : "• BeReal updated to v0.36.0\n• UnBlur remains at latest (v0.0.2)",
+      "version" : "0.36.1",
+      "versionDate" : "2023-04-08",
+      "versionDescription" : "• BeReal updated to v0.36.1",
       "versions" : [
         {
           "date" : "2023-03-30",
@@ -685,6 +685,14 @@
           "minOSVersion" : "14.0",
           "size" : 26000000,
           "version" : "0.32.0"
+        },
+        {
+          "date" : "2023-04-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.1.+.UnBlur.v0.0.2.ipa",
+          "localizedDescription" : "• BeReal updated to v0.36.1",
+          "minOSVersion" : "14.0",
+          "size" : 18800000,
+          "version" : "0.36.1"
         }
       ]
     },
@@ -1092,7 +1100,7 @@
     {
       "appID" : "AlexisBarreyat.BeReal",
       "caption" : "BeReal has been updated to latest version, click here for more info",
-      "date" : "2023-03-30",
+      "date" : "2023-04-08",
       "identifier" : "bereal-updated",
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "notify" : true,
