@@ -38,6 +38,20 @@ if app_action == '1':
     # Get the selected app
     selected_app = data['apps'][app_num - 1]
 
+    # Display the previous version data
+    print("\n")
+    print(f"\033[1mPrevious Version Data for {selected_app['name']}:\033[0m")
+    print("\n")
+    for i, version in enumerate(selected_app['versions']):
+        print(f"\n\033[1mVersion {i+1}:\033[0m")
+        print("\n")
+        print(f"\033[1;96mDate:\033[0m {version['date']}")
+        print(f"\033[1;96mVersion Number:\033[0m {version['version']}")
+        print(f"\033[1;96mDownload URL:\033[0m {version['downloadURL']}")
+        print(f"\033[1;96mChangelog:\033[0m {version['localizedDescription']}")
+        print(f"\033[1;96mSize (in bytes):\033[0m {version['size']}")
+        print("\n")
+
     # Get the version data from the user
     while True:
         print("\n")
