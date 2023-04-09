@@ -3,14 +3,28 @@ import datetime
 import re
 
 print('\n' + '--------------------------' + '\n')
-userfile = input('\033[1;96m' + 'Please enter the name of your JSON or the path following the name (include .json): ' + '\033[0m')
+
+source_action = input('\033[1;96mWhat source would you like to use:\033[0m' + "\n" + "\n" + '(\033[1;96m1\033[0m) wuxu-complete++' + "\n" '(\033[1;96m2\033[0m) wuxu-complete' + "\n" + '(\033[1;96m3\033[0m) other' + "\n" + "\n" + '\033[1;96mEnter 1, 2 or 3: ' + '\033[0m').lower()
+print("\n")
+
+if source_action == '1':
+
+    userfile = 'wuxu-complete++.json'
+
+elif source_action == '2':
+
+    userfile = 'wuxu-complete.json'
+
+elif source_action == '3':
+
+    userfile = input('\033[1;96m' + 'Please enter the name of your JSON or the path following the name (include .json): ' + '\033[0m')
 
 # Load the JSON data from a file
 with open(userfile, 'r') as f:
     data = json.load(f)
 
 print('\n' + '--------------------------' + '\n')
-app_action = input('\033[1;96m' + 'Do you want to:' + '\033[0m' + "\n" + "\n" + '(\033[1;96m1\033[0m) Update an existing app' + "\n" '(\033[1;96m2\033[0m) Add a new app' + "\n" + "\n" + '\033[1;96mEnter "1" or "2": ' + '\033[0m').lower()
+app_action = input('\033[1;96m' + 'Do you want to:' + '\033[0m' + "\n" + "\n" + '(\033[1;96m1\033[0m) Update an existing app' + "\n" '(\033[1;96m2\033[0m) Add a new app' + "\n" + "\n" + '\033[1;96mEnter 1 or 2 : ' + '\033[0m').lower()
 
 if app_action == '1':
 
