@@ -2,8 +2,11 @@ import json
 import datetime
 import re
 
+print('\n' + '--------------------------' + '\n')
+userfile = input('\033[1;96m' + 'Please enter the name of your JSON or the path following the name (include .json): ' + '\033[0m')
+
 # Load the JSON data from a file
-with open('wuxu-complete++.json', 'r') as f:
+with open(userfile, 'r') as f:
     data = json.load(f)
 
 print('\n' + '--------------------------' + '\n')
@@ -85,7 +88,7 @@ if app_action == '1':
             break
 
     # Save the updated JSON data
-    with open('wuxu-complete++.json', 'w') as f:
+    with open(userfile, 'w') as f:
         json.dump(data, f, indent=2)
 
     print("\n")
@@ -143,7 +146,7 @@ elif app_action == '2':
     data['apps'][0]['versionDescription'] = new_news['versionDescription'] + '\n' + data['apps'][0]['versionDescription']
 
     # Save the JSON file
-    with open('wuxu-complete++.json', 'w') as f:
+    with open(userfile, 'w') as f:
         json.dump(data, f, indent=4)
 else:
     print('Invalid input. Please enter either "update" or "add".')
