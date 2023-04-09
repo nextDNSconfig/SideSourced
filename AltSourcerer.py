@@ -5,7 +5,6 @@ import re
 print('\n' + '--------------------------' + '\n')
 
 source_action = input('\033[1;96mWhat source would you like to use:\033[0m' + "\n" + "\n" + '(\033[1;96m1\033[0m) wuxu-complete++' + "\n" '(\033[1;96m2\033[0m) wuxu-complete' + "\n" + '(\033[1;96m3\033[0m) other' + "\n" + "\n" + '\033[1;96mEnter 1, 2 or 3: ' + '\033[0m').lower()
-print("\n")
 
 if source_action == '1':
 
