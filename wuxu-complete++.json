@@ -695,6 +695,14 @@
       "versionDescription" : "• BeReal updated to v0.36.1",
       "versions" : [
         {
+          "date" : "2023-04-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.1.+.UnBlur.v0.0.2.ipa",
+          "localizedDescription" : "• BeReal updated to v0.36.1",
+          "minOSVersion" : "14.0",
+          "size" : 18800000,
+          "version" : "0.36.1"
+        },
+        {
           "date" : "2023-03-30",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.0.+.UnBlur.v0.0.2.ipa",
           "localizedDescription" : "• BeReal updated to v0.36.0\n• UnBlur remains at latest (v0.0.2)",
@@ -717,14 +725,6 @@
           "minOSVersion" : "14.0",
           "size" : 26000000,
           "version" : "0.32.0"
-        },
-        {
-          "date" : "2023-04-08",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.1.+.UnBlur.v0.0.2.ipa",
-          "localizedDescription" : "• BeReal updated to v0.36.1",
-          "minOSVersion" : "14.0",
-          "size" : 18800000,
-          "version" : "0.36.1"
         }
       ]
     },
