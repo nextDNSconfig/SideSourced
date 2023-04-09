@@ -15,6 +15,36 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.google.ios.youtubemusic",
+      "developerName" : "ginsudev",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.49.2.+.YTMusicUltimate.v1.2.7.ipa",
+      "iconURL" : "https://img.ipa4fun.com/d7/1a/73/1017492454-logo.jpg",
+      "localizedDescription" : "YouTube Music injected with YTMusicUltimate\n\nFeatures:\n\n• No ads\n• Play music in background\n• Show the status bar in the player\n• OLED dark theme\n• OLED dark keyboard",
+      "name" : "YouTube Music++",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-1.jpg",
+        "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-2.jpg",
+        "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-3.jpg",
+        "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-4.jpg",
+        "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-5.jpg"
+      ],
+      "size" : 7150000,
+      "subtitle" : "Youtube Music with free premium",
+      "tintColor" : "#ae0304",
+      "version" : "5.49.2",
+      "versionDate" : "2023-04-09",
+      "versionDescription" : "• Updated YouTube Music to v5.49.2",
+      "versions" : [
+        {
+          "date" : "2023-04-09",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.49.2.+.YTMusicUltimate.v1.2.7.ipa",
+          "localizedDescription" : "• Updated YouTube Music to v5.49.2",
+          "size" : 7150000,
+          "version" : "5.49.2"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "app.nicegram",
       "developerName" : "dpixel",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Nicegram.Cracked.v1.2.4.ipa",
@@ -959,6 +989,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "com.google.ios.youtubemusic",
+      "caption" : "YouTube Music with premium activated has been added to the source!",
+      "date" : "2023-04-09",
+      "identifier" : "ytmusic-added",
+      "imageURL" : "https://i.ytimg.com/vi/mrm50KbvGnk/maxresdefault.jpg",
+      "notify" : false,
+      "tintColor" : "#ae0304",
+      "title" : "YouTube Music++ Added!"
+    },
     {
       "appID" : "app.nicegram",
       "caption" : "Nicegram - a Telegram client with more features has been added to the source! Premium activated ;)",
