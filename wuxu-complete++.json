@@ -16,7 +16,7 @@
   "apps" : [
     {
       "bundleIdentifier" : "com.google.ios.youtubemusic",
-      "developerName" : "ginsudev",
+      "developerName" : "Ginsudev",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.49.2.+.YTMusicUltimate.v1.2.7.ipa",
       "iconURL" : "https://img.ipa4fun.com/d7/1a/73/1017492454-logo.jpg",
       "localizedDescription" : "YouTube Music injected with YTMusicUltimate\n\nFeatures:\n\n• No ads\n• Play music in background\n• Show the status bar in the player\n• OLED dark theme\n• OLED dark keyboard",
