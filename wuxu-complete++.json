@@ -778,7 +778,7 @@
       ],
       "size" : 59300000,
       "subtitle" : "SoundCloud with no ads and extra features.",
-      "tintColor" : "#db5b14",
+      "tintColor" : "#b03b03",
       "version" : "6.22.0",
       "versionDate" : "2023-04-04",
       "versionDescription" : "• Updated SoundCloud to v6.22.0",
@@ -1196,7 +1196,7 @@
       "identifier" : "soundcloud-updated",
       "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
       "notify" : true,
-      "tintColor" : "#db5b14",
+      "tintColor" : "#b03b03",
       "title" : "SoundCloud++ Updated!"
     },
     {
