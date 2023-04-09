@@ -126,7 +126,7 @@
       ],
       "size" : 30600000,
       "subtitle" : "Deezer with premium activated!",
-      "tintColor" : "#494949",
+      "tintColor" : "#323232",
       "version" : "7.15.0",
       "versionDate" : "2022-04-09",
       "versionDescription" : "• Updated Deezer to v7.15.0 - Last working version with tweak.",
@@ -1026,7 +1026,7 @@
       "identifier" : "deezer-added",
       "imageURL" : "https://www.soda.com/wp-content/uploads/2020/03/deezer.jpg",
       "notify" : false,
-      "tintColor" : "#494949",
+      "tintColor" : "#323232",
       "title" : "Deezer++ Added!"
     },
     {
