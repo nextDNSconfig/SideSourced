@@ -620,7 +620,7 @@
       "versionDescription" : "• Updated TikTok to v28.9.1",
       "versions" : [
         {
-          "date" : "2023-04-10",
+          "date" : "2023-04-09",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v28.9.1.+.LRD+.v2.5.ipa",
           "localizedDescription" : "• Updated TikTok to v28.9.1",
           "minOSVersion" : "10.0",
@@ -1140,7 +1140,7 @@
     {
       "appID" : "com.atebits.Tweetie2",
       "caption" : "Twitter has been updated to the latest version, click here for more info",
-      "date" : "2023-04-10",
+      "date" : "2023-04-09",
       "identifier" : "twitter-updated",
       "imageURL" : "https://globalventuring.com//content/uploads/2022/10/Twitter-horizontal.jpeg",
       "notify" : true,
@@ -1170,7 +1170,7 @@
     {
       "appID" : "com.zhiliaoapp.musically",
       "caption" : "TikTok has been updated to the latest version, click here for more info",
-      "date" : "2023-04-10",
+      "date" : "2023-04-09",
       "identifier" : "tiktok-updated",
       "imageURL" : "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/02/how-to-delete-tiktok-1220x683.jpg",
       "notify" : true,
