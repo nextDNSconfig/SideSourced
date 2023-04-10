@@ -32,11 +32,11 @@
       "subtitle" : "Youtube Music with free premium",
       "tintColor" : "ae0304",
       "version" : "5.49.2",
-      "versionDate" : "2023-04-09",
+      "versionDate" : "2023-04-08",
       "versionDescription" : "• Updated YouTube Music to v5.49.2",
       "versions" : [
         {
-          "date" : "2023-04-09",
+          "date" : "2023-04-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.49.2.+.YTMusicUltimate.v1.2.7.ipa",
           "localizedDescription" : "• Updated YouTube Music to v5.49.2",
           "size" : 7150000,
@@ -64,11 +64,11 @@
       "subtitle" : "Nicegram with premium activated!",
       "tintColor" : "932cb0",
       "version" : "1.2.4",
-      "versionDate" : "2023-04-09",
+      "versionDate" : "2023-04-08",
       "versionDescription" : "• Updated Nicegram to v1.2.4",
       "versions" : [
         {
-          "date" : "2023-04-09",
+          "date" : "2023-04-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Nicegram.Cracked.v1.2.4.ipa",
           "localizedDescription" : "• Updated Nicegram to v1.2.4",
           "size" : 188000000,
@@ -729,11 +729,11 @@
       "subtitle" : "See your friends BeReals without posting anything!",
       "tintColor" : "363636",
       "version" : "0.36.1",
-      "versionDate" : "2023-04-08",
+      "versionDate" : "2023-04-07",
       "versionDescription" : "• BeReal updated to v0.36.1",
       "versions" : [
         {
-          "date" : "2023-04-08",
+          "date" : "2023-04-07",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.1.+.UnBlur.v0.0.2.ipa",
           "localizedDescription" : "• BeReal updated to v0.36.1",
           "minOSVersion" : "14.0",
@@ -1000,7 +1000,7 @@
     {
       "appID" : "com.google.ios.youtubemusic",
       "caption" : "YouTube Music with premium activated has been added to the source!",
-      "date" : "2023-04-09",
+      "date" : "2023-04-08",
       "identifier" : "ytmusic-added",
       "imageURL" : "https://i.ytimg.com/vi/mrm50KbvGnk/maxresdefault.jpg",
       "notify" : false,
@@ -1010,7 +1010,7 @@
     {
       "appID" : "app.nicegram",
       "caption" : "Nicegram - a Telegram client with more features has been added to the source! Premium activated ;)",
-      "date" : "2023-04-09",
+      "date" : "2023-04-08",
       "identifier" : "nicegram-added",
       "imageURL" : "https://play-lh.googleusercontent.com/L1DEnShbXLlXlIjjk4yGtLai4eKhtlY7UgNqcbpZyYWzA77LBC7lyQHfr9lNlpwUJaM",
       "notify" : false,
@@ -1190,7 +1190,7 @@
     {
       "appID" : "AlexisBarreyat.BeReal",
       "caption" : "BeReal has been updated to latest version, click here for more info",
-      "date" : "2023-04-08",
+      "date" : "2023-04-07",
       "identifier" : "bereal-updated",
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "notify" : true,
