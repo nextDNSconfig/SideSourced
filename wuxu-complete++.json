@@ -1248,6 +1248,16 @@
       "title" : "Tweaks Added To Spotify!"
     },
     {
+      "caption" : "I have just launched a website where you can find all the information you need about my sources! Click here to visit",
+      "date" : "2023-04-10",
+      "identifier" : "wuxus-sources-live",
+      "imageURL" : "https://imgur.com/CUIOVqa.png",
+      "notify" : true,
+      "tintColor" : "25292d",
+      "title" : "WuXu's Sources is now live!",
+      "url" : "https://bit.ly/wuxus-sources"
+    },
+    {
       "caption" : "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
       "date" : "2023-04-07",
       "identifier" : "discord-info-plus",
