@@ -150,7 +150,10 @@
     window.open("altstore://source?URL=" + element.parentElement.getAttribute("url"));
   }
   function browseSource(element) {
-    window.open("https://altsource.by.lao.sb/browse/?source=" + encodeURIComponent(element.parentElement.getAttribute("url")));
+    window.open("https://bit.ly/wuxuslibrary-browse");
+  }
+  function browseSourcePlus(element) {
+    window.open("https://bit.ly/wuxuslibraryplus-browse");
   }
 
   document.getElementById("copyright").innerHTML = "WuXu's Library &copy; " + new Date().getFullYear() + " - All Rights Reserved";
