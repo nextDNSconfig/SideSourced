@@ -23,6 +23,7 @@ with open(userfile, 'r') as f:
     data = json.load(f)
 
 print('\n' + '--------------------------' + '\n')
+
 app_action = input('\033[1;96m' + 'Do you want to:' + '\033[0m' + "\n" + "\n" + '(\033[1;96m1\033[0m) Update an existing app' + "\n" '(\033[1;96m2\033[0m) Add a new app' + "\n" + "\n" + '\033[1;96mEnter 1 or 2 : ' + '\033[0m').lower()
 
 if app_action == '1':
