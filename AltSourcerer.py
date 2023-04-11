@@ -46,7 +46,7 @@ if app_action == '1':
                 raise ValueError
             break
         except ValueError:
-            print('\033[31mError: Invalid app number\033[0m')
+            print('\033[1;91mError: Invalid app number\033[0m')
 
     # Get the selected app
     selected_app = data['apps'][app_num - 1]
@@ -78,11 +78,11 @@ if app_action == '1':
                 if new_version_num > old_version_num:
                     break
                 else:
-                    print('\033[31mError: The updated version must be greater than the existing version.\033[0m')
+                    print('\033[1;91mError: The updated version must be greater than the existing version.\033[0m')
             else:
-                print('\033[31mError: The updated version date must be greater than the existing version date.\033[0m')
+                print('\033[1;91mError: The updated version date must be greater than the existing version date.\033[0m')
         except ValueError:
-            print('\033[31mError: Date must be in the format YYYY-MM-DD\033[0m')
+            print('\033[1;91mError: Date must be in the format YYYY-MM-DD\033[0m')
 
     new_size = input('\033[1;96mNew size in bytes (leave blank if not changed): \033[0m')
     if new_size == '':
@@ -118,7 +118,9 @@ if app_action == '1':
     with open(userfile, 'w') as f:
         json.dump(data, f, indent=2)
 
-    print("\n")
+    print('\n' + '\033[1;92m' + 'Success! ' + '\033[0m' + '\033[1m' + selected_app['name'] + '\033[0m' + ' has been updated from ' + '\033[1m' + old_version_num + ' to ' + new_version_num + '!' + '\033[0m' '\n')
+
+    exit()
 
 elif app_action == '2':
 
@@ -135,7 +137,7 @@ elif app_action == '2':
     new_app['iconURL'] = input('\033[1;96m' + 'Enter the icon URL of the new app: ' + '\033[0m')
     new_app['localizedDescription'] = input('\033[1;96m' + 'Enter the description of the new app: ' + '\033[0m')
     new_app['name'] = input('\033[1;96m' + 'Enter the name of the new app: ' + '\033[0m')
-    new_app['screenshotURLs'] = input('\033[1;96m' + 'Enter a list of screenshot URLs of the new app separated by commas: ' + '\033[0m').split(',')
+    new_app['screenshotURLs'] = input('\033[1;96m' + 'Enter a list of screenshot URLs of the new app (separated by commas): ' + '\033[0m').split(',')
     new_app['size'] = int(input('\033[1;96m' + 'Enter the size of the new app: ' + '\033[0m'))
     new_app['subtitle'] = input('\033[1;96m' + 'Enter the subtitle of the new app: ' + '\033[0m')
     new_app['tintColor'] = input('\033[1;96m' + 'Enter the hex tint color of the new app: ' + '\033[0m').strip()
@@ -144,9 +146,11 @@ elif app_action == '2':
     new_app['version'] = input('\033[1;96m' + 'Enter the version of the new app: ' + '\033[0m')
     new_app['versionDate'] = input('\033[1;96m' + 'Enter the version date of the new app (YYYY-MM-DD): ' + '\033[0m')
     while not re.match(date_pattern, new_app['versionDate']):
-        new_app['versionDate'] = input('\033[1;96m' + 'Invalid date format. Please enter the version date of the new app (YYYY-MM-DD): ' + '\033[0m')
-    new_app['versionDescription'] = input('\033[1;96m' + 'Enter the description of the version: ' + '\033[0m')
+        new_app['versionDate'] = input('\033[1;91m' + 'Invalid date format. Please enter the version date of the new app (YYYY-MM-DD): ' + '\033[0m')
+    new_app['versionDescription'] = input('\033[1;96m' + 'Enter the changelog: ' + '\033[0m')
     new_app['versions'] = []
+
+    data['apps'].insert(0, new_app)
 
     # Get user input for new app version
 
@@ -157,23 +161,27 @@ elif app_action == '2':
     new_app_version['size'] = new_app['size']
     new_app_version['version'] = new_app['version']
 
-    new_app['versions'].append(new_app_version)
+    new_app['versions'].insert(0, new_app_version)
 
     # Get user input for new news
     new_news = {}
-    new_news['version'] = new_app['version']
-    ew_news['versionDescription'] = input("Enter the version description of the new app: ")
+    new_news['appID'] = new_app['bundleIdentifier']
+    new_news['caption'] = '\033[1;96m' + new_app['name'] + ' has been added to the source! Click here for more info\033[0m'
     new_news['date'] = new_app['versionDate']
+    new_news['identifier'] = input('\033[1;96mEnter news identifier (appname-added): \033[0m')
+    new_news['imageURL'] = input('\033[1;96mEnter the news image URL: \033[0m')
+    new_news['notify'] = 'true'
+    new_news['tintColor'] = new_app['tintColor']
+    new_news['title'] = new_app['name'] + 'Added!'
 
-    # Add new app and news to the beginning of the list
-    data['apps'].insert(0, new_app)
-    data['apps'][0]['versions'][0]['date'] = new_news['date']
-    data['apps'][0]['versions'][0]['localizedDescription'] = new_news['versionDescription'] + '\n' + data['apps'][0]['versions'][0]['localizedDescription']
-    data['apps'][0]['versionDate'] = new_news['date']
-    data['apps'][0]['versionDescription'] = new_news['versionDescription'] + '\n' + data['apps'][0]['versionDescription']
+    data['news'].insert(0, new_news)
 
     # Save the JSON file
     with open(userfile, 'w') as f:
         json.dump(data, f, indent=4)
 else:
     print('Invalid input. Please enter either "update" or "add".')
+
+print('\n' + '\033[1;92m' + 'Success! ' + '\033[0m' + '\033[1m' + new_app['name'] + '\033[0m' + ' has been added to ' + '\033[1m' + userfile + '!' + '\033[0m' '\n')
+
+exit()
