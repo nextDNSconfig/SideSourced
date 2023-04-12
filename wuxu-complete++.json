@@ -1285,14 +1285,14 @@
       "title" : "Deezer++ Added! - Last working version with tweak"
     },
     {
-      "title" : "YouTube++ Updated! - Added OLED Mode!",
-      "identifier" : "youtube-updated",
-      "caption" : "YouTube has been updated to the latest version - added an OLED mode you can enable/.disable in uYou settings - If you experience problems, please mention in the discord",
-      "tintColor" : "000000",
-      "imageURL" : "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2017/08/youtube_logo_dark.jpg",
       "appID" : "com.google.ios.youtube",
+      "caption" : "YouTube has been updated to the latest version - added an OLED mode you can enable/.disable in uYou settings - If you experience problems, please mention in the discord",
       "date" : "2023-04-12",
-      "notify" : true
+      "identifier" : "youtube-updated",
+      "imageURL" : "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2017/08/youtube_logo_dark.jpg",
+      "notify" : true,
+      "tintColor" : "000000",
+      "title" : "YouTube++ Updated! - Added OLED Mode!"
     },
     {
       "appID" : "com.spotify.client",
