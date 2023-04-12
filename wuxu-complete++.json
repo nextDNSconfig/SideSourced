@@ -230,7 +230,7 @@
     {
       "bundleIdentifier" : "tv.twitch",
       "developerName" : "Hearsedev",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v14.6.0.+.Toolbox.v2.4.2.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v14.9.5.+.Toolbox.v2.4.2.ipa",
       "iconURL" : "https://img.ipa4fun.com/d7/24/dc/460177396-logo.jpg",
       "localizedDescription" : "The ultimate Twitch tweaked app with these great features: Theme support, Auto claim channel points, Adblock, and 3rd party emote support.",
       "minOSVersion" : "14.2",
@@ -243,13 +243,21 @@
         "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-5.jpg",
         "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-6.jpg"
       ],
-      "size" : 66200000,
+      "size" : 66300000,
       "subtitle" : "Theme-support, no ads and more!",
       "tintColor" : "6730af",
-      "version" : "14.6.0",
-      "versionDate" : "2023-03-30",
-      "versionDescription" : "• Bug fixes, stability fixes, and app optimizations",
+      "version" : "14.9.5",
+      "versionDate" : "2023-04-12",
+      "versionDescription" : "• Updated Twitch to v14.9.5\n• Bug fixes, stability fixes, and app optimizations",
       "versions" : [
+        {
+          "date" : "2023-04-12",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v14.9.5.+.Toolbox.v2.4.2.ipa",
+          "localizedDescription" : "• Updated Twitch to v14.9.5\n• Bug fixes, stability fixes, and app optimizations",
+          "minOSVersion" : "14.2",
+          "size" : 66300000,
+          "version" : "14.9.5"
+        },
         {
           "date" : "2023-03-30",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v14.6.0.+.Toolbox.v2.4.2.ipa",
@@ -959,12 +967,12 @@
       "tintColor" : "af0303",
       "version" : "18.08.1",
       "versionDate" : "2023-03-29",
-      "versionDescription" : "• YouTube updated to v18.08.1\n• Now you can sign-in to YouTube like normal uf389\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+      "versionDescription" : "• YouTube updated to v18.08.1\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
       "versions" : [
         {
           "date" : "2023-03-29",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
-          "localizedDescription" : "• YouTube updated to v18.08.1\n• Now you can sign-in to YouTube like normal uf389\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+          "localizedDescription" : "• YouTube updated to v18.08.1\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
           "minOSVersion" : "14.0",
           "size" : 106000000,
           "version" : "18.08.1"
@@ -1061,13 +1069,13 @@
     },
     {
       "appID" : "tv.twitch",
-      "caption" : "Twitch w/Toolbox has been added to the source!",
-      "date" : "2023-03-30",
-      "identifier" : "twitch-added",
+      "caption" : "Twitch has been updated to the latest version, click here for more info",
+      "date" : "2023-04-12",
+      "identifier" : "twitch-updated",
       "imageURL" : "https://blog.twitch.tv/assets/uploads/generic-email-header-1.jpg",
       "notify" : true,
       "tintColor" : "6730af",
-      "title" : "Twitch++ Added!"
+      "title" : "Twitch++ Updated!"
     },
     {
       "appID" : "com.hammerandchisel.discord",
@@ -1221,13 +1229,13 @@
     },
     {
       "appID" : "com.google.ios.youtube",
-      "caption" : "YouTube has been updated to the latest version - Fixed not being able to sign in to account - click here for more info",
+      "caption" : "YouTube has been updated to the latest version, logging in has been patched until next update, click here for more info - ",
       "date" : "2023-03-29",
       "identifier" : "youtube-updated",
       "imageURL" : "https://i.imgur.com/tASQmLr.png",
       "notify" : true,
       "tintColor" : "af0303",
-      "title" : "YouTube++ Updated! - Fixed signing in!"
+      "title" : "YouTube++ Updated!"
     },
     {
       "appID" : "com.spotify.client",
