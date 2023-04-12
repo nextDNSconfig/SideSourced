@@ -989,7 +989,7 @@
     {
       "bundleIdentifier" : "com.google.ios.youtube",
       "developerName" : "qnblackcat",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.13.2.+.uYou+.v2.3.1.+.OLED.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.jpg",
       "localizedDescription" : "If you're a YouTube app user then you'll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
       "minOSVersion" : "14.0",
@@ -1001,13 +1001,21 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size" : 106000000,
+      "size" : 96300000,
       "subtitle" : "All-In-One Tweak for YouTube.",
       "tintColor" : "af0303",
-      "version" : "18.08.1",
-      "versionDate" : "2023-03-29",
-      "versionDescription" : "• YouTube updated to v18.08.1\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+      "version" : "18.13.2",
+      "versionDate" : "2023-04-12",
+      "versionDescription" : "• Updated YouTube to v18.13.2\n• Added option to enable OLED in uYou settings\n• Updated Youtube Return Dislikes",
       "versions" : [
+        {
+          "date" : "2023-04-12",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.13.2.+.uYou+.v2.3.1.+.OLED.ipa",
+          "localizedDescription" : "• Updated YouTube to v18.13.2\n• Added option to enable OLED in uYou settings\n• Updated Youtube Return Dislikes",
+          "minOSVersion" : "14.0",
+          "size" : 96300000,
+          "version" : "18.13.2"
+        },
         {
           "date" : "2023-03-29",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
@@ -1277,14 +1285,14 @@
       "title" : "Deezer++ Added! - Last working version with tweak"
     },
     {
-      "appID" : "com.google.ios.youtube",
-      "caption" : "YouTube has been updated to the latest version, logging in has been patched until next update, click here for more info - ",
-      "date" : "2023-03-29",
+      "title" : "YouTube++ Updated! - Added OLED Mode!",
       "identifier" : "youtube-updated",
-      "imageURL" : "https://i.imgur.com/tASQmLr.png",
-      "notify" : true,
-      "tintColor" : "af0303",
-      "title" : "YouTube++ Updated!"
+      "caption" : "YouTube has been updated to the latest version - added an OLED mode you can enable/.disable in uYou settings - If you experience problems, please mention in the discord",
+      "tintColor" : "000000",
+      "imageURL" : "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2017/08/youtube_logo_dark.jpg",
+      "appID" : "com.google.ios.youtube",
+      "date" : "2023-04-12",
+      "notify" : true
     },
     {
       "appID" : "com.spotify.client",
