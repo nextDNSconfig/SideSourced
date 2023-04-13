@@ -237,7 +237,7 @@
     {
       "bundleIdentifier" : "net.whatsapp.WhatsApp",
       "developerName" : "Fouad Raheb",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.2.75.+.Watusi-3.v1.1.40.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.5.75.+.Watusi-3.v1.1.40.ipa",
       "iconURL" : "https://img.ipa4fun.com/8f/ac/c3/310633997-logo.jpg",
       "localizedDescription" : "TO RESTORE CHATS PLEASE COPY LINK BELOW AND READ TUTORIAL\nhttps://bit.ly/Watusi-Manpreet\n\n\nWhat's new in Watusi 3:\n\nNew Features:\n\n• Added a new statuses bar to display all your contacts current statuses on top of the chats list\n• Added option to view and display your contacts statuses on top of their profile pictures in chats list\n• Created Status Archive which will save all your uploaded statuses and their viewers\n• Added option to filter/sort the chats list, available in the new Chats List Add-ons section\n• Added option to manage WhatsApp tabs from which you can hide any tab or add custom ones like Favorites and Groups. (Removed Replace Camera Tab feature since it can now be done using this new feature)\n• Added new section to import/download custom tones to be used for your contacts notifications from their contact info page\n• Added new u201cChat Detailsu201d section inside contact and group info pages to get more details and analytics about the chat\n• Added a new section for Contacts Spoofing which allows you to hide or use a custom profile picture for your contact as well as choosing a different name inside WhatsApp\n• Re-write Auto Reply section with many new features and the option to get the message from a web request\n• Added option to automatically generate multiple broadcast lists from your WhatsApp contacts\n• Added option to disable Delivery Receipts for specific contacts only just like read receipts. (You would still have a delay in messages if you have a lot of pending messages waiting to be marked as delivered on the server)\n• Added option to hide all profile pictures from chats list (available in User Interface section)\n• Added option to hide WhatsApp Web section from settings (available in User Interface section)\n• New Share Sheet Actions\n\n• Added option to send photos & videos as documents which will allow you to send them in full quality\n• Added option to take a long screenshot for a chat (Available in share sheet actions)\nImprovements\n\n• Added whitelist option to Statuses' Disable Mark Viewed feature to allow sending viewed receipts for certain contacts\n• Added new option to mute notifications from chats locked in the archive using u201cArchive Locku201d feature\n• Audio bar will now show a progress bar of the currently playing audio\n• Swipe for Contact Info will now add a new button instead of replacing the Unread button\n• Added haptic feedback on status controls and other places\n\n• The package includes a toggle for Control Center, download CCSupport package and activate it from your Control Center settings.\n\n• The tweak is available in English, Arabic, German, Spanish, French, Italian, Portuguese, Turkish, Hebrew.\n\n• Configure options from inside WhatsApp settings.",
       "minOSVersion" : "12.0",
@@ -249,13 +249,21 @@
         "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-4.jpg",
         "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-5.jpg"
       ],
-      "size" : 78900000,
+      "size" : 82700000,
       "subtitle" : "An all-in-one tweak for WhatsApp messenger",
       "tintColor" : "168d2b",
-      "version" : "23.2.75",
-      "versionDate" : "2023-03-30",
-      "versionDescription" : "• Updated WhatsApp to v23.2.75",
+      "version" : "23.5.75",
+      "versionDate" : "2023-04-13",
+      "versionDescription" : "• Updated WhatsApp to v23.5.75",
       "versions" : [
+        {
+          "date" : "2023-04-13",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.5.75.+.Watusi-3.v1.1.40.ipa",
+          "localizedDescription" : "• Updated WhatsApp to v23.5.75",
+          "minOSVersion" : "12.0",
+          "size" : 82700000,
+          "version" : "23.5.75"
+        },
         {
           "date" : "2023-03-30",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.2.75.+.Watusi-3.v1.1.40.ipa",
@@ -308,10 +316,9 @@
       ]
     },
     {
-      "appID" : "com.hammerandchisel.discord",
       "bundleIdentifier" : "com.hammerandchisel.discord",
       "developerName" : "Enmity Team",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v164.0.+.Enmity.v2.1.4.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
       "iconURL" : "https://img.ipa4fun.com/87/01/a2/985746746-logo.jpg",
       "localizedDescription" : "Add plugins and themes to Discord!\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
       "name" : "Discord (w/ Enmity)",
@@ -323,12 +330,20 @@
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.jpg",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.jpg"
       ],
-      "size" : 114000000,
+      "size" : 9650000,
       "subtitle" : "The power of addons, all in your hand.",
       "tintColor" : "3c45ac",
-      "version" : "164.0",
-      "versionDate" : "2023-03-30",
+      "version" : "173.0",
+      "versionDate" : "2023-04-13",
       "versions" : [
+        {
+          "date" : "2023-04-13",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
+          "localizedDescription" : "• Updated Discord to v173.0",
+          "minOSVersion" : "11.0",
+          "size" : 9650000,
+          "version" : "173.0"
+        },
         {
           "date" : "2023-03-30",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v164.0.+.Enmity.v2.1.4.ipa",
@@ -1108,13 +1123,13 @@
     },
     {
       "appID" : "net.whatsapp.WhatsApp",
-      "caption" : "WhatsApp injected with Watusi 3 has been added to the source!",
-      "date" : "2023-03-30",
-      "identifier" : "whatsapp-added",
+      "caption" : "WhatsApp++ has been updated to the latest version, click here for more info",
+      "date" : "2023-04-13",
+      "identifier" : "whatsapp-updated",
       "imageURL" : "https://seuladogeek.com.br/wp-content/uploads/2022/02/WhatsApp-Logo-800x450.png",
       "notify" : true,
       "tintColor" : "168d2b",
-      "title" : "WhatsApp++ Added!"
+      "title" : "WhatsApp++ Updated!"
     },
     {
       "appID" : "tv.twitch",
@@ -1129,8 +1144,8 @@
     {
       "appID" : "com.hammerandchisel.discord",
       "caption" : "Discord (w/Enmity) has been updated to the latest version, click here for more info",
-      "date" : "2023-04-04",
-      "identifier" : "discord-added",
+      "date" : "2023-04-13",
+      "identifier" : "discord-updated",
       "imageURL" : "https://api.demarrez-votre-entreprise.com/wp-content/uploads/2021/09/discord-entreprise.jpg",
       "notify" : true,
       "tintColor" : "3c45ac",
@@ -1258,7 +1273,7 @@
     },
     {
       "appID" : "com.google.ios.youtube",
-      "caption" : "YouTube has been updated to the latest version, clck here for more info",
+      "caption" : "YouTube++ has been updated to the latest version, clck here for more info",
       "date" : "2023-03-29",
       "identifier" : "youtube-updated",
       "imageURL" : "https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg",
