@@ -534,14 +534,14 @@
       "title" : "Clash of Clans Added!"
     },
     {
-      "appID" : "com.supercell.scroll",
-      "caption" : "Clash Royale on a modded private server has been added to the source! Unlimited gems, gold and resources etc.",
-      "date" : "2023-04-06",
-      "identifier" : "clashroyale-added",
-      "imageURL" : "https://help.supercellsupport.com/images/_1000x656_crop_center-center_90_none/ArticleHero-CR-1-Path-of-Legends.png",
-      "notify" : false,
-      "tintColor" : "193549",
-      "title" : "Clash Royale Added!"
+      "appID": "com.supercell.scroll",
+      "caption": "Clash Royale on a modded private server has been added to the source! Unlimited gems, gold and resources etc.",
+      "date": "2023-04-06",
+      "identifier": "clashroyale-added",
+      "imageURL": "https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/Clash-Royale-best-decks-550x309.jpg",
+      "notify": false,
+      "tintColor": "53869d",
+      "title": "Clash Royale Added!"
     },
     {
       "appID" : "com.rovio.angrybirdsstarwarsHD",
