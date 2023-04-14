@@ -1,86 +1,72 @@
-import discord
-import json
 import os
-import time
-import asyncio
+import shutil
+import json
+import discord
+from discord.ext import commands
+from discord import Embed
 
-# Create a discord Intents object
+# Specify the channel ID where the bot will send announcements
+CHANNEL_ID = 1084229932038770708
+
+# Initialize the Discord bot with intents
 intents = discord.Intents.default()
-# Add the specific intents that your bot will require
 intents.members = True
+bot = commands.Bot(command_prefix='!', intents=intents)
 
-# initialize a Discord client object
-client = discord.Client(intents=intents)
+# Define a function to read the JSON file and return its contents as a dictionary
+def read_json_file(filename):
+    with open(filename, 'r') as file:
+        data = json.load(file)
+    return data
 
-# replace this with the ID of the Discord channel you want to send news updates to
-news_channel_id = 1084229932038770708
+# Define a function to write the dictionary to a new JSON file with a specified name
+def write_json_file(data, filename):
+    with open(filename, 'w') as file:
+        json.dump(data, file, indent=4)
 
-# replace these with the paths to your news JSON files
-news_files_path = ['wuxu-complete.json', 'wuxu-complete++.json']
+# Define a function to compare two JSON dictionaries and return True if they are different
+def compare_json(old_data, new_data):
+    return old_data != new_data
 
-# initialize a dictionary to hold the current news data for each file
-news_data = {}
+# Define a function to check for updates to the 'news' section in the JSON file
+async def check_updates():
+    # Read the old JSON file
+    old_data = read_json_file('wuxu-complete-old.json')
+    # Read the new JSON file
+    new_data = read_json_file('wuxu-complete.json')
+    # Compare the old and new JSON files
+    if compare_json(old_data, new_data):
+        # Check if there are any updates to the 'news' section
+        for old_news in old_data['news']:
+            for new_news in new_data['news']:
+                if old_news['identifier'] == new_news['identifier']:
+                    if old_news['date'] != new_news['date']:
+                        # Delete the old JSON file
+                        os.remove('wuxu-complete-old.json')
+                        shutil.copy('wuxu-complete.json','wuxu-complete-old.json')
+                        # Send an announcement in the specified Discord channel with an embedded image
+                        app_id = new_news['appID']
+                        for app in new_data['apps']:
+                            if app['bundleIdentifier'] == app_id:
+                                title = f"Added {app['name']} to WuXu's Library!" if old_news['date'] is None else f"Updated {app['name']} on WuXu's Library!"
+                                embed = Embed(title=title, description=new_news['caption'], color=int(new_news['tintColor'], 16))
+                                embed.set_image(url=new_news['imageURL'])
+                                embed.add_field(name="Browse WuXu's Library", value="[Click here](https://bit.ly/wuxuslibrary-browse)", inline=False)
+                                await bot.get_channel(CHANNEL_ID).send(embed=embed)
+                        return
+        # Write the new JSON data to the old JSON file
+        write_json_file(new_data, 'wuxu-complete-old.json')
 
-# function to read the news files and store their data in the news_data dictionary
-def read_news_files():
-    global news_data
-    for file_path in news_files_path:
-        with open(file_path, 'r') as f:
-            news_data[file_path] = json.load(f)
+# Define a command for the bot to manually check for updates
+@bot.command()
+async def check(ctx):
+    await check_updates()
 
-# function to check for updates to the news data every 5 minutes
-async def check_for_updates():
-    global news_data
-    while True:
-        try:
-            for file_path in news_files_path:
-                # open the news file and load its contents into a dictionary
-                with open(file_path, 'r') as f:
-                    new_data = json.load(f)
-
-                    # check if the news data has changed since the last time we checked
-                    if new_data != news_data[file_path]:
-                        # find any new news items that have been added or updated
-                        new_news = []
-                        for n in new_data['news']:
-                            if n not in news_data[file_path]['news']:
-                                new_news.append(n)
-                            else:
-                                for old_n in news_data[file_path]['news']:
-                                    if n['id'] == old_n['id'] and n['date'] != old_n['date']:
-                                        new_news.append(n)
-                        if new_news:
-                            # get the Discord channel object where we want to send news updates
-                            news_channel = client.get_channel(news_channel_id)
-                            for n in new_news:
-                                # find the name of the app that has been updated
-                                app_name = None
-                                for app in new_data['apps']:
-                                    if app['bundleIdentifier'] == n['appID']:
-                                        app_name = app['name']
-                                        break
-                                # create a message to send to the Discord channel
-                                message = f'{app_name} has been updated on {file_path}!'
-                                # create an embed object with the news item details
-                                embed = discord.Embed(title=n['title'], description=n['caption'], color=int(n['tintColor'], 16))
-                                # set the image of the embed to the news item's imageURL
-                                embed.set_image(url=n['imageURL'])
-                                # send the message and embed to the Discord channel
-                                await news_channel.send(message, embed=embed)
-                        # update the stored news data with the new data
-                        news_data[file_path] = new_data
-        except Exception as e:
-            # print any errors that occur while checking for updates
-            print(f'Error checking for updates: {e}')
-        # wait 5 minutes before checking for updates again
-        await asyncio.sleep(300)
-
-# log in the bot and start the update checking loop
-@client.event
+# Define a background task to continuously check for updates to the JSON file
+@bot.event
 async def on_ready():
-    print(f'Logged in as {client.user}')
-    read_news_files()
-    client.loop.create_task(check_for_updates())
+    print('Bot is ready')
+    bot.loop.create_task(check_updates())
 
-# start the bot by passing your Discord bot token to the client object
-client.run('MTA5NjUxODk0MTkwOTcyMTIyOA.GVJq7L.99cAG8_Mzdl7wwWzlAnfd9hRcCIHtXwo_1EnnM')
+# Start the bot with the specified Discord bot token
+bot.run('MTA5NjUxODk0MTkwOTcyMTIyOA.G8fPLn.r4NTFdJVt3Ip6c-DWcQU2HQdcPxFMmc5grLf1g')
