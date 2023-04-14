@@ -514,16 +514,6 @@
       "title" : "AppDB Updated!"
     },
     {
-      "appID" : "com.rovio.AngryBirdsSpaceHD",
-      "caption" : "Relive your childhood with the nostalgic, Angry Birds Space game!",
-      "date" : "2023-04-14",
-      "identifier" : "abshd-added",
-      "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2014/06/Angry-Bird-Space.jpg",
-      "notify" : false,
-      "tintColor" : "091323",
-      "title" : "Angry Birds Space HD Added!"
-    },
-    {
       "appID" : "com.supercell.magic",
       "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
       "date" : "2023-04-05",
@@ -534,14 +524,24 @@
       "title" : "Clash of Clans Added!"
     },
     {
-      "appID": "com.supercell.scroll",
-      "caption": "Clash Royale on a modded private server has been added to the source! Unlimited gems, gold and resources etc.",
-      "date": "2023-04-06",
-      "identifier": "clashroyale-added",
-      "imageURL": "https://clashroyale.com/uploaded-images-blog/CR_facebook_share_02_180403_175322.jpg",
-      "notify": false,
-      "tintColor": "134771",
-      "title": "Clash Royale Added!"
+      "appID" : "com.supercell.scroll",
+      "caption" : "Clash Royale on a modded private server has been added to the source! Unlimited gems, gold and resources etc.",
+      "date" : "2023-04-06",
+      "identifier" : "clashroyale-added",
+      "imageURL" : "https://clashroyale.com/uploaded-images-blog/CR_facebook_share_02_180403_175322.jpg",
+      "notify" : false,
+      "tintColor" : "134771",
+      "title" : "Clash Royale Added!"
+    },
+    {
+      "appID" : "com.rovio.AngryBirdsSpaceHD",
+      "caption" : "Relive your childhood with the nostalgic, Angry Birds Space game!",
+      "date" : "2023-04-14",
+      "identifier" : "abshd-added",
+      "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2014/06/Angry-Bird-Space.jpg",
+      "notify" : false,
+      "tintColor" : "091323",
+      "title" : "Angry Birds Space HD Added!"
     },
     {
       "appID" : "com.rovio.angrybirdsstarwarsHD",
