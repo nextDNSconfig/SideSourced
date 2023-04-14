@@ -318,10 +318,10 @@
     {
       "bundleIdentifier" : "com.hammerandchisel.discord",
       "developerName" : "Enmity Team",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v175.0.+.Enmity.v2.1.5.+.ScrollToTop.v1.0.0.ipa",
       "iconURL" : "https://img.ipa4fun.com/87/01/a2/985746746-logo.jpg",
       "localizedDescription" : "Add plugins and themes to Discord!\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
-      "name" : "Discord (w/ Enmity)",
+      "name" : "Discord++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-1.jpg",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-2.jpg",
@@ -330,12 +330,21 @@
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.jpg",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.jpg"
       ],
-      "size" : 9650000,
+      "size" : 8190000,
       "subtitle" : "The power of addons, all in your hand.",
       "tintColor" : "3c45ac",
-      "version" : "173.0",
-      "versionDate" : "2023-04-13",
+      "version" : "175.0",
+      "versionDate" : "2023-04-14",
+      "versionDescription" : "• Updated Discord to v175.0\n• Added ScrollToTop.v1.0.0",
       "versions" : [
+        {
+          "date" : "2023-04-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v175.0.+.Enmity.v2.1.5.+.ScrollToTop.v1.0.0.ipa",
+          "localizedDescription" : "• Updated Discord to v175.0\n• Added ScrollToTop.v1.0.0",
+          "minOSVersion" : "11.0",
+          "size" : 8190000,
+          "version" : "175.0"
+        },
         {
           "date" : "2023-04-13",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
@@ -692,7 +701,7 @@
     {
       "bundleIdentifier" : "com.burbn.instagram",
       "developerName" : "Majd Alfhaily",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v273.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v278.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
       "iconURL" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.jpg",
       "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
       "minOSVersion" : "13.4",
@@ -704,13 +713,21 @@
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-4.jpg",
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-5.jpg"
       ],
-      "size" : 105000000,
+      "size" : 106020000,
       "subtitle" : "A must-have tweak for Instagram users!",
       "tintColor" : "930a5b",
-      "version" : "273.0",
-      "versionDate" : "2023-03-26",
-      "versionDescription" : "• Updated Instagram to v273.0\n• Updated Rocket+ to v3.8.6",
+      "version" : "275.0",
+      "versionDate" : "2023-04-13",
+      "versionDescription" : "• Updated Instagram to v275.0",
       "versions" : [
+        {
+          "date" : "2023-04-13",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v278.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
+          "localizedDescription" : "• Updated Instagram to v275.0",
+          "minOSVersion" : "13.4",
+          "size" : 106020000,
+          "version" : "275.0"
+        },
         {
           "date" : "2023-03-26",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v273.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
@@ -1151,13 +1168,13 @@
     },
     {
       "appID" : "com.hammerandchisel.discord",
-      "caption" : "Discord (w/Enmity) has been updated to the latest version, click here for more info",
-      "date" : "2023-04-13",
+      "caption" : "Discord has been updated and new tweaks have been added! click here for more info",
+      "date" : "2023-04-14",
       "identifier" : "discord-updated",
       "imageURL" : "https://api.demarrez-votre-entreprise.com/wp-content/uploads/2021/09/discord-entreprise.jpg",
       "notify" : true,
       "tintColor" : "3c45ac",
-      "title" : "Discord (w/ Enmity) Updated!"
+      "title" : "Discord++ Updated!"
     },
     {
       "appID" : "jb.zini.tevi",
@@ -1241,8 +1258,8 @@
     },
     {
       "appID" : "com.burbn.instagram",
-      "caption" : "Instagram++ has been updated to the latest version, click here for more info",
-      "date" : "2023-03-26",
+      "caption" : "Instagram has been updated to the latest version, click here for more info",
+      "date" : "2023-04-14",
       "identifier" : "instagram-updated",
       "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Instagram-logo-1200x900.jpg",
       "notify" : true,
