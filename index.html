@@ -84,7 +84,7 @@
       <div class="btn-group justify-content-center" url="https://bit.ly/wuxuslibraryplus">
         <button onclick="addToAltStore(this)" type="button" class="btn btn-sm btn-outline-secondary">Install</button>
         <button onclick="copyToClipboard(this)" type="button" class="btn btn-sm btn-outline-secondary">Copy link</button>
-        <button onclick="browseSourcePlus(this)" type="button" class="btn btn-sm btn-outline-secondary">Browse</button>
+        <button onclick="browseSource(this)" type="button" class="btn btn-sm btn-outline-secondary">Browse</button>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@
           <p class="font-weight-bold">AltStore Complete</p>
           <p class="card-text">This automatically updates from the official AltStore Sources and combines them all into one complete source!</p>
           <div class="d-flex justify-content-center align-items-center">
-            <div class="btn-group text-center" url="https://bit.ly/Altstore-complete">
+            <div class="btn-group text-center" url="https://bit.ly/altstore-complete">
               <button onclick="addToAltStore(this)" type="button" class="btn btn-sm btn-outline-secondary">Install</button>
               <button onclick="copyToClipboard(this)" type="button" class="btn btn-sm btn-outline-secondary">Copy link</button>
               <button onclick="browseSource(this)" type="button" class="btn btn-sm btn-outline-secondary">Browse</button>
@@ -151,10 +151,7 @@
     window.open("altstore://source?URL=" + element.parentElement.getAttribute("url"));
   }
   function browseSource(element) {
-    window.open("https://bit.ly/wuxuslibrary-browse");
-  }
-  function browseSourcePlus(element) {
-    window.open("https://bit.ly/wuxuslibraryplus-browse");
+    window.open("https://altsource.by.lao.sb/browse/?source=" + encodeURIComponent(element.parentElement.getAttribute("url")));
   }
 
   document.getElementById("copyright").innerHTML = "WuXu's Library &copy; " + new Date().getFullYear() + " - All Rights Reserved";
