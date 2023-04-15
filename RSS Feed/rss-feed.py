@@ -38,4 +38,4 @@ for news_item in data['news']:
             new_item.attrib['notify'] = str(news_item['notify'])
 
 # Save the updated XML file
-tree.write('wuxu-complete.xml')
+tree.write('RSS Feed/wuxu-complete.xml')
