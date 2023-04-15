@@ -77,11 +77,11 @@ except Exception as e:
 
 try:
     # read the JSON file
-    with open('wuxu-complete++.json', 'r') as f:
+    with open('wuxu-complete-plus.json', 'r') as f:
         data = json.load(f)
 
     # read the XML file
-    tree = ET.parse('RSS Feed/wuxu-complete++.xml')
+    tree = ET.parse('RSS Feed/wuxu-complete-plus.xml')
     root = tree.getroot()
 
     # get the current date and time in the desired format
@@ -126,7 +126,7 @@ try:
 
     # if any news item was updated or added, save the XML file
     if updated:
-        tree.write('RSS Feed/wuxu-complete++.xml')
+        tree.write('RSS Feed/wuxu-complete-plus.xml')
         print("XML file updated")
     else:
         print("No updates or additions made to XML file")
