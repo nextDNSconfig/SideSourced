@@ -1,4 +1,5 @@
 import json
+import xml.dom.minidom as minidom
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
@@ -51,13 +52,14 @@ try:
             pub_date_element = ET.Element('pubDate')
             pub_date_element.text = pub_date.strftime('%a, %d %b %Y %H:%M:%S %Z')
             item.append(pub_date_element)
-            root.find('channel').insert(0, item)
+            root.find('channel').insert(3, item)
             updated = True
             print(f"{news_item['title'].replace('Added!', '').replace('Updated', '').strip()} added to XML file")
 
     # if any news item was updated or added, save the XML file
     if updated:
         tree.write('RSS Feed/wuxu-complete.xml')
+        ET.indent(tree, space="\t")  # add this line to format the XML
         print("XML file updated")
     else:
         print("No updates or additions made to XML file")
@@ -120,7 +122,7 @@ try:
             pub_date_element = ET.Element('pubDate')
             pub_date_element.text = pub_date.strftime('%a, %d %b %Y %H:%M:%S %Z')
             item.append(pub_date_element)
-            root.find('channel').insert(0, item)
+            root.find('channel').insert(3, item)
             updated = True
             print(f"{news_item['title'].replace('Added!', '').replace('Updated', '').strip()} added to XML file")
 
