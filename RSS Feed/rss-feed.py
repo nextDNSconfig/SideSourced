@@ -7,7 +7,7 @@ with open('wuxu-complete.json') as f:
     data = json.load(f)
 
 # Load the XML file
-tree = ET.parse('wuxu-complete.xml')
+tree = ET.parse('RSS Feed/wuxu-complete.xml')
 root = tree.getroot()
 
 # Check for updates in the news section
