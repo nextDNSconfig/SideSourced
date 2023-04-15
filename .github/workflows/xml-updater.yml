@@ -14,5 +14,5 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Run XML Updater
-      run: python RSS Feed/xml-updater.py
+      run: python 'RSS Feed/xml-updater.py'
 
