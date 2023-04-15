@@ -31,9 +31,9 @@ def compare_json(old_data, new_data):
 # Define a function to check for updates to the 'news' section in the JSON file
 async def check_updates():
     # Read the old JSON file
-    old_data = read_json_file('wuxu-complete-old.json')
+    old_data = read_json_file('/Discord Bot/wuxu-complete-old.json')
     # Read the new JSON file
-    new_data = read_json_file('wuxu-complete.json')
+    new_data = read_json_file('/wuxu-complete.json')
     # Compare the old and new JSON files
     if compare_json(old_data, new_data):
         # Check if there are any updates to the 'news' section
