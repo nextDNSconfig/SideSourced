@@ -3,7 +3,6 @@ name: XML Updater
 on:
   push:
     paths:
-      - 'wuxu-complete.json'
       - 'wuxu-complete-plus.json'
   workflow_dispatch:
 
