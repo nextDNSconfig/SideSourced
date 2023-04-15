@@ -5,6 +5,7 @@ on:
     paths:
       - 'wuxu-complete.json'
       - 'wuxu-complete++.json'
+  workflow_dispatch:
 
 jobs:
   update-xml:
