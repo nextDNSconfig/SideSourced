@@ -25,7 +25,7 @@ try:
                 pub_date = item.find('pubDate').text
                 item_date = datetime.strptime(news_item['date'], '%Y-%m-%d')
                 if pub_date != item_date.strftime('%a, %d %b %Y %H:%M:%S %Z'):
-                    item.find('pubDate').text = item_date.strftime('%a, %d %b %Y %H:%M:%S %Z')
+                    item.find('pubDate').text = item_date.strftime('%a, %d %b %Y %H:%M:%S %Z' + 'GMT')
                     updated = True
                     print(f"{news_item['title'].replace('Added!', '').replace('Updated!', '').strip()} pubDate updated in XML file")
                 item_found = True
