@@ -1,17 +1,51 @@
-<WuXuLibrary>
-	<NewsItem title="Odyssey Added!" caption="The Odyssey jailbreak tool has been added to the source! " date="2023-04-04" />
-	<NewsItem title="Taurine Added!" caption="The Taurine jailbreak tool has been added to the source!" date="2023-04-04" />
-	<NewsItem title="Unc0ver Added!" caption="The unc0ver jailbreaking tool has been added to the source! " date="2023-04-04" />
-	<NewsItem title="iTorrent Added!" caption="iTorrent has been added to the library! A torrent client for iOS with Files app support. " date="2023-02-13" />
-	<NewsItem title="Cowabunga Updated!" caption="Cowabunga has been updated to the latest version - You can now remove the three app limit within the app! - click here for more info" date="2023-04-01" />
-	<NewsItem title="ESign Updated!" caption="ESign has been updated to the latest version, click here for more info." date="2023-03-19" />
-	<NewsItem title="AppDB Updated!" caption="AppDB has been updated to the latest version, click here for more info" date="2023-04-06" />
-	<NewsItem title="Clash of Clans Added!" caption="Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! " date="2023-04-05" />
-	<NewsItem title="Clash Royale Added!" caption="Clash Royale on a modded private server has been added to the source! Unlimited gems, gold and resources etc." date="2023-04-06" />
-	<NewsItem title="Angry Birds Space Added!" caption="Relive your childhood with the nostalgic, Angry Birds Space game!" date="2023-04-14" />
-	<NewsItem title="Angry Birds Star Wars Added!" caption="Relive your childhood with the nostalgic, Angry Birds Star Wars game!" date="2023-04-14" />
-	<NewsItem title="Pokemon Go (w/ SpooferPro) Added!" caption="Pokemon Go injected with SpooferPro has been added to the source!" date="2023-04-04" />
-	<NewsItem title="WDBRemoveThreeAppLimit Removed!" caption="This app has been removed, please use Cowabunga as they now offer this tweak" date="2023-04-01" />
-	<NewsItem title="Join the Discord!" caption="Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!" date="2023-03-20" />
-	<NewsItem title="Welcome to WuXu's Library!" caption="Welcome to WuXu's Library! This source contains all of your favourite emulators, games, jailbreaks, utilities, and more Updated Daily ;)" date="2023-02-08" />
-</WuXuLibrary>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My RSS Feed</title>
+    <link>http://example.com/rss</link>
+    <description>Latest news and updates</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Apr 2023 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Odyssey Added!</title>
+      <description>The Odyssey jailbreak tool has been added to the source!</description>
+      <enclosure url="https://theodyssey.dev/assets/images/meta.png" type="image/png" />
+    </item>
+    <item>
+      <title>Taurine Added!</title>
+      <description>The Taurine jailbreak tool has been added to the source!</description>
+      <enclosure url="https://taurine.app/assets/images/meta.png" type="image/png" />
+    </item>
+    <item>
+      <title>Unc0ver Added!</title>
+      <description>The unc0ver jailbreaking tool has been added to the source!</description>
+      <enclosure url="https://www.iclarified.com/images/news/70442/70442/70442-1280.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>iTorrent Added!</title>
+      <description>iTorrent has been added to the library! A torrent client for iOS with Files app support.</description>
+      <enclosure url="https://i.imgur.com/jnvDDpx.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cowabunga Updated!</title>
+      <description>Cowabunga has been updated to the latest version - You can now remove the three app limit within the app! - click here for more info</description>
+      <enclosure url="https://i.imgur.com/4IT5NhG.png" type="image/png" />
+    </item>
+    <item>
+      <title>ESign Updated!</title>
+      <description>ESign has been updated to the latest version, click here for more info.</description>
+      <enclosure url="https://www.omtk.vip/assets/imgs/esign-ipa.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>AppDB Updated!</title>
+      <description>AppDB has been updated to the latest version, click here for more info</description>
+      <enclosure url="https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png" type="image/png" />
+    </item>
+    <item>
+      <title>Clash of Clans Added!</title>
+      <description>Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold!</description>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg" type="image/jpeg" />
+    </item>
+    <item>
+  </channel>
+</rss>
