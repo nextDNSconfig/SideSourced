@@ -451,7 +451,8 @@
       "imageURL" : "https://theodyssey.dev/assets/images/meta.png",
       "notify" : false,
       "tintColor" : "9766a7",
-      "title" : "Odyssey Added!"
+      "title" : "Odyssey Added!",
+      "url" : ""
     },
     {
       "appID" : "org.coolstar.taurine",
@@ -461,7 +462,8 @@
       "imageURL" : "https://taurine.app/assets/images/meta.png",
       "notify" : false,
       "tintColor" : "9e3a47",
-      "title" : "Taurine Added!"
+      "title" : "Taurine Added!",
+      "url" : ""
     },
     {
       "appID" : "science.xnu.undecimus",
@@ -471,7 +473,8 @@
       "imageURL" : "https://www.iclarified.com/images/news/70442/70442/70442-1280.jpg",
       "notify" : false,
       "tintColor" : "515151",
-      "title" : "Unc0ver Added!"
+      "title" : "Unc0ver Added!",
+      "url" : ""
     },
     {
       "appID" : "ru.nonamedude.iTorrent",
@@ -481,7 +484,8 @@
       "imageURL" : "https://i.imgur.com/jnvDDpx.jpg",
       "notify" : false,
       "tintColor" : "b31c29",
-      "title" : "iTorrent Added!"
+      "title" : "iTorrent Added!",
+      "url" : ""
     },
     {
       "appID" : "com.leemin.DockHider",
@@ -491,7 +495,8 @@
       "imageURL" : "https://i.imgur.com/4IT5NhG.png",
       "notify" : true,
       "tintColor" : "0d6425",
-      "title" : "Cowabunga Updated!"
+      "title" : "Cowabunga Updated!",
+      "url" : ""
     },
     {
       "appID" : "p3.xyz.yyyue.esign",
@@ -501,7 +506,8 @@
       "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
       "notify" : true,
       "tintColor" : "356ead",
-      "title" : "ESign Updated!"
+      "title" : "ESign Updated!",
+      "url" : ""
     },
     {
       "appID" : "it.ned.appdb-ios",
@@ -511,7 +517,8 @@
       "imageURL" : "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
       "notify" : true,
       "tintColor" : "0365a0",
-      "title" : "AppDB Updated!"
+      "title" : "AppDB Updated!",
+      "url" : ""
     },
     {
       "appID" : "com.supercell.magic",
@@ -521,7 +528,8 @@
       "imageURL" : "https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg",
       "notify" : false,
       "tintColor" : "123047",
-      "title" : "Clash of Clans Added!"
+      "title" : "Clash of Clans Added!",
+      "url" : ""
     },
     {
       "appID" : "com.supercell.scroll",
@@ -531,7 +539,8 @@
       "imageURL" : "https://clashroyale.com/uploaded-images-blog/CR_facebook_share_02_180403_175322.jpg",
       "notify" : false,
       "tintColor" : "134771",
-      "title" : "Clash Royale Added!"
+      "title" : "Clash Royale Added!",
+      "url" : ""
     },
     {
       "appID" : "com.rovio.AngryBirdsSpace",
@@ -541,7 +550,8 @@
       "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2014/06/Angry-Bird-Space.jpg",
       "notify" : false,
       "tintColor" : "091323",
-      "title" : "Angry Birds Space Added!"
+      "title" : "Angry Birds Space Added!",
+      "url" : ""
     },
     {
       "appID" : "com.rovio.angrybirdsstarwars",
@@ -551,7 +561,8 @@
       "imageURL" : "https://www.gannett-cdn.com/media/USATODAY/GenericImages/2012/10/08/angry-birds-star-wars-splash_wide-16_9.jpg",
       "notify" : false,
       "tintColor" : "080814",
-      "title" : "Angry Birds Star Wars Added!"
+      "title" : "Angry Birds Star Wars Added!",
+      "url" : ""
     },
     {
       "appID" : "com.nianticlabs.pokemongo",
@@ -561,7 +572,8 @@
       "imageURL" : "https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg",
       "notify" : false,
       "tintColor" : "184f99",
-      "title" : "Pokemon Go (w/ SpooferPro) Added!"
+      "title" : "Pokemon Go (w/ SpooferPro) Added!",
+      "url" : ""
     },
     {
       "appID" : "com.leemin.DockHider",
@@ -571,7 +583,8 @@
       "imageURL" : "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
       "notify" : true,
       "tintColor" : "404040",
-      "title" : "WDBRemoveThreeAppLimit Removed!"
+      "title" : "WDBRemoveThreeAppLimit Removed!",
+      "url" : ""
     },
     {
       "caption" : "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
@@ -589,7 +602,8 @@
       "identifier" : "welcome-message",
       "notify" : true,
       "tintColor" : "fe0002",
-      "title" : "Welcome to WuXu's Library!"
+      "title" : "Welcome to WuXu's Library!",
+      "url" : ""
     }
   ],
   "version" : 2
