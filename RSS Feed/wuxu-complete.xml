@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
 		<title>WuXu's Library</title>
@@ -9,34 +8,40 @@
 			<title>Odyssey Added!</title>
 			<description>The Odyssey jailbreak tool has been added to the source!</description>
 			<enclosure url="https://theodyssey.dev/assets/images/meta.png" type="image/png" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Taurine Added!</title>
 			<description>The Taurine jailbreak tool has been added to the source!</description>
 			<enclosure url="https://taurine.app/assets/images/meta.png" type="image/png" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Unc0ver Added!</title>
 			<description>The unc0ver jailbreaking tool has been added to the source!</description>
 			<enclosure url="https://www.iclarified.com/images/news/70442/70442/70442-1280.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>iTorrent Added!</title>
 			<description>iTorrent has been added to the library! A torrent client for iOS with Files
 				app support.</description>
 			<enclosure url="https://i.imgur.com/jnvDDpx.jpg" type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Cowabunga Updated!</title>
 			<description>Cowabunga has been updated to the latest version - You can now remove the
 				three app limit within the app! - click here for more info</description>
 			<enclosure url="https://i.imgur.com/4IT5NhG.png" type="image/png" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>ESign Updated!</title>
 			<description>ESign has been updated to the latest version!</description>
 			<enclosure url="https://www.omtk.vip/assets/imgs/esign-ipa.jpeg" type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>AppDB Updated!</title>
@@ -44,6 +49,7 @@
 			<enclosure
 				url="https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png"
 				type="image/png" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Clash of Clans Added!</title>
@@ -52,6 +58,7 @@
 			<enclosure
 				url="https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Clash Royale Added!</title>
@@ -60,37 +67,38 @@
 			<enclosure
 				url="https://clashroyale.com/uploaded-images-blog/CR_facebook_share_02_180403_175322.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
-
 		<item>
 			<title>Angry Birds Space Added!</title>
 			<description>Relive your childhood with the nostalgic, Angry Birds Space game!</description>
 			<enclosure
 				url="https://www.91-cdn.com/hub/wp-content/uploads/2014/06/Angry-Bird-Space.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
-
 		<item>
 			<title>Angry Birds Star Wars Added!</title>
 			<description>Relive your childhood with the nostalgic, Angry Birds Star Wars game!</description>
 			<enclosure
 				url="https://www.gannett-cdn.com/media/USATODAY/GenericImages/2012/10/08/angry-birds-star-wars-splash_wide-16_9.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
-
 		<item>
 			<title>Pokemon Go (w/ SpooferPro) Added!</title>
 			<description>Pokemon Go injected with SpooferPro has been added to the source!</description>
 			<enclosure url="https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
-
 		<item>
 			<title>WDBRemoveThreeAppLimit Removed!</title>
 			<description>This app has been removed, please use Cowabunga as they now offer this
 				tweak</description>
 			<enclosure url="https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg"
 				type="image/jpeg" />
+			<pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
