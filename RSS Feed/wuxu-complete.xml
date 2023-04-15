@@ -87,5 +87,17 @@
 			<enclosure url="https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg" type="image/jpeg" />
 			<pubDate>Sat, 01 Apr 2023 00:00:00 UTC</pubDate>
 		</item>
+		<item>
+			<title>Join the Discord!</title>
+			<description>Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!</description>
+			<enclosure url="https://imgur.com/A4d8bGv.png" type="image/png" length="0" />
+			<pubDate>Sun, 20 Mar 2023 00:00:00 GMT</pubDate>
+			<link>https://bit.ly/wuxuslibrary-discord</link>
+		  </item>
+		<item>
+			<title>Welcome to WuXu's Library!</title>
+			<description>Welcome to WuXu's Library! This source contains all of your favourite emulators, games, jailbreaks, utilities, and more Updated Daily ;)</description>
+			<pubDate>Mon, 08 Feb 2023 00:00:00 GMT</pubDate>
+		</item>
 	</channel>
 </rss>
