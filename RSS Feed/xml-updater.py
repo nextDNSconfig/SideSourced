@@ -1,41 +1,53 @@
 import json
 import xml.etree.ElementTree as ET
-import datetime
+from datetime import datetime
 
-# Load the JSON file
-with open('wuxu-complete.json') as f:
+# read the JSON file
+with open('wuxu-complete.json', 'r') as f:
     data = json.load(f)
 
-# Load the XML file
+# read the XML file
 tree = ET.parse('RSS Feed/wuxu-complete.xml')
 root = tree.getroot()
 
-# Check for updates in the news section
-for news_item in data['news']:
-    # Get the date of the news item
-    news_date = datetime.datetime.strptime(news_item['date'], '%Y-%m-%d').date()
-    # Check if the news item is already in the XML file
-    news_item_exists = False
-    for item in root.findall('NewsItem'):
-        if item.attrib['title'] == news_item['title']:
-            # Check if the date of the news item has been updated
-            item_date = datetime.datetime.strptime(item.attrib['date'], '%Y-%m-%d').date()
-            if news_date > item_date:
-                # Update the date of the news item in the XML file
-                item.attrib['date'] = news_item['date']
-            news_item_exists = True
-            break
-    # Add the news item to the XML file if it doesn't exist
-    if not news_item_exists:
-        new_item = ET.SubElement(root, 'NewsItem', title=news_item['title'], caption=news_item['caption'], date=news_item['date'])
-        if 'tintColor' in news_item:
-            new_item.attrib['tintColor'] = news_item['tintColor']
-        if 'imageURL' in news_item:
-            new_item.attrib['imageURL'] = news_item['imageURL']
-        if 'appID' in news_item:
-            new_item.attrib['appID'] = news_item['appID']
-        if 'notify' in news_item:
-            new_item.attrib['notify'] = str(news_item['notify'])
+# get the current date and time in the desired format
+current_date = datetime.now().strftime('%a, %d %b %Y %H:%M:%S %Z')
 
-# Save the updated XML file
-tree.write('RSS Feed/wuxu-complete.xml')
+# check if any news item has been updated or added
+updated = False
+for news_item in data['news']:
+    # check if the news item is already in the XML file
+    item_found = False
+    for item in root.findall('channel/item'):
+        if item.find('title').text == news_item['title']:
+            # check if the pubDate element needs to be updated
+            pub_date = item.find('pubDate').text
+            item_date = datetime.strptime(news_item['date'], '%Y-%m-%d')
+            if pub_date != item_date.strftime('%a, %d %b %Y %H:%M:%S %Z'):
+                item.find('pubDate').text = item_date.strftime('%a, %d %b %Y %H:%M:%S %Z')
+                updated = True
+            item_found = True
+            break
+    # if the news item is not in the XML file, add it to the top
+    if not item_found:
+        item = ET.Element('item')
+        title = ET.Element('title')
+        title.text = news_item['title']
+        item.append(title)
+        description = ET.Element('description')
+        description.text = news_item['caption']
+        item.append(description)
+        enclosure = ET.Element('enclosure')
+        enclosure.set('url', news_item.get("imageURL", ""))
+        enclosure.set('type', 'image/png')
+        item.append(enclosure)
+        pub_date = datetime.strptime(news_item['date'], '%Y-%m-%d')
+        pub_date_element = ET.Element('pubDate')
+        pub_date_element.text = pub_date.strftime('%a, %d %b %Y %H:%M:%S %Z')
+        item.append(pub_date_element)
+        root.find('channel').insert(0, item)
+        updated = True
+
+# if any news item was updated or added, save the XML file
+if updated:
+    tree.write('RSS Feed/wuxu-complete.xml')
