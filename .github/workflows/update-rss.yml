@@ -1,20 +1,16 @@
-name: Update XML on JSON changes
+name: Update XML on Commit
 
 on:
   push:
     paths:
       - 'wuxu-complete.json'
+      - 'wuxu-complete++.json'
 
 jobs:
   update-xml:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-    - name: Install dependencies
-      run: pip install requests
-    - name: Run Python script
-      run: python xml-updater.py
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run XML updater
+        run: python xml-updater.py
