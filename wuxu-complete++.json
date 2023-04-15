@@ -15,6 +15,38 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.facebook.Messenger",
+      "developerName" : "Michael Lema",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v390.0.+.Shark.v2.2.1.ipa",
+      "iconURL" : "https://img.ipa4fun.com/f6/02/6e/454638411-logo.webp",
+      "localizedDescription" : "Shark is the ultimate Facebook Messenger tweak. It is the first and only tweak to add additional security to the app. You can access the tweak settings on the Messenger's settings page.\n\nFeatures\n•  Disable Marking Messages\n•  Disable Marking Stories\n•  Disable Typing Status\n•  Save Story images and videos\n\nAuthentication\n\n•  Shark adds an extra layer of security with Face ID/Touch ID to view the Messenger App\n\nNote: There is a bug where nothing loads when you first sign in. Simply relaunch the app to fix this issue.",
+      "name" : "Messenger++",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-1.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-2.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-3.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-4.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-5.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-6.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-7.webp"
+      ],
+      "size" : 53100000,
+      "subtitle" : "The ultimate Facebook Messenger tweak",
+      "tintColor" : "8b328b",
+      "version" : "390.0",
+      "versionDate" : "2023-01-12",
+      "versionDescription" : "• Updated Messenger to v390.0",
+      "versions" : [
+        {
+          "date" : "2023-01-12",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v390.0.+.Shark.v2.2.1.ipa",
+          "localizedDescription" : "• Updated Messenger to v390.0",
+          "size" : 53100000,
+          "version" : "390.0"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.ookla.speedtest",
       "developerName" : "Hollr2099",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Speedtest.Cracked.v4.5.3.ipa",
@@ -1067,6 +1099,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "com.facebook.Messenger",
+      "caption" : "Messenge++ Has been added to the source! Click here for more info",
+      "date" : "2023-04-15",
+      "identifier" : "messenger-added",
+      "imageURL" : "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/yvbOx5two0W.png",
+      "notify" : false,
+      "tintColor" : "8b328b",
+      "title" : "Messenger++ Added!"
+    },
     {
       "appID" : "com.ookla.speedtest",
       "caption" : "Speedtest cracked has been added to the source! Free premium includes a free VPN!",
