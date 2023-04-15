@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'wuxu-complete.json'
-      - 'wuxu-complete\+\+.json'
+      - 'wuxu-complete**.json'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,5 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Run XML Updater
-      run: python 'RSS Feed/xml-updater.py'
+      run: python RSS Feed/xml-updater.py
+
