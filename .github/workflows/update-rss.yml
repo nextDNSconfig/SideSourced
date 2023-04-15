@@ -2,8 +2,6 @@ name: XML Updater
 
 on:
   push:
-    branches:
-      - main
     paths:
       - 'wuxu-complete.json'
       - 'wuxu-complete++.json'
@@ -14,12 +12,5 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y python3
-      shell: bash
-    - name: Update XML
-      run: |
-        python3 xml-updater.py
-      shell: bash
+    - name: Run XML Updater
+      run: python RSS Feed/xml-updater.py
