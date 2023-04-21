@@ -8,7 +8,7 @@
   "tintColor" : "3e3e3e",
   "featuredApps" : [
     "science.xnu.undecimus",
-    "com.leemin.DockHider",
+    "com.leemin.Cowabunga",
     "com.supercell.magic",
     "com.nianticlabs.pokemongo",
     "com.rovio.angrybirdsstarwarsHD",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.leemin.DockHider",
+      "bundleIdentifier" : "com.leemin.Cowabunga",
       "developerName" : "Leminlimez",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
       "iconURL" : "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
@@ -564,7 +564,7 @@
       "title" : "Pokemon Go (w/ SpooferPro) Added!"
     },
     {
-      "appID" : "com.leemin.DockHider",
+      "appID" : "com.leemin.Cowabunga",
       "caption" : "This app has been removed, please use Cowabunga as they now offer this tweak",
       "date" : "2023-04-01",
       "identifier" : "nolimit-removed",
