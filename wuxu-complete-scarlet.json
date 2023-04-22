@@ -631,7 +631,7 @@
       }
     }
   ],
-  "Games" : [
+  "Hack Games" : [
     {
       "name" : "Clash of Clans",
       "version" : "15.83.19",
@@ -905,5 +905,6 @@
       }
     }
   ],
-  "Emulators" : []
+  "Emulators" : [],
+  "Other" : []
 }
