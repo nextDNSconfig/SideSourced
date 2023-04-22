@@ -3,14 +3,39 @@
     "repoName" : "WuXu's Library++",
     "repoIcon" : "https://i.imgur.com/FSXr72V.png"
   },
-  "Tweaked" : [
+  "Tweaked Apps" : [
+    {
+      "name" : "Messenger++",
+      "version" : "390.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v390.0.+.Shark.v2.2.1.ipa",
+      "dev" : "Michael Lema",
+      "icon" : "https://img.ipa4fun.com/f6/02/6e/454638411-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Messenger to v390.0",
+      "description" : "Shark is the ultimate Facebook Messenger tweak. It is the first and only tweak to add additional security to the app. You can access the tweak settings on the Messenger's settings page.\n\nFeatures\n•  Disable Marking Messages\n•  Disable Marking Stories\n•  Disable Typing Status\n•  Save Story images and videos\n\nAuthentication\n\n•  Shark adds an extra layer of security with Face ID/Touch ID to view the Messenger App\n\nNote: There is a bug where nothing loads when you first sign in. Simply relaunch the app to fix this issue.",
+      "bundleID" : "com.facebook.Messenger",
+      "appstore" : "com.facebook.Messenger",
+      "screenshots" : [
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-1.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-2.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-3.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-4.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-5.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-6.webp",
+        "https://img.ipa4fun.com/f6/02/6e/454638411-screenshot-7.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
     {
       "name" : "YouTube Music++",
       "version" : "5.49.2",
       "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.49.2.+.YTMusicUltimate.v1.2.7.ipa",
       "dev" : "Ginsudev",
       "icon" : "https://img.ipa4fun.com/d7/1a/73/1017492454-logo.jpg",
-      "category" : "Tweaked",
+      "category" : "Tweaked Apps",
       "changelog" : "• Updated YouTube Music to v5.49.2",
       "description" : "YouTube Music injected with YTMusicUltimate\n\nFeatures:\n\n• No ads\n• Play music in background\n• Show the status bar in the player\n• OLED dark theme\n• OLED dark keyboard",
       "bundleID" : "com.google.ios.youtubemusic",
@@ -21,6 +46,347 @@
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-3.webp",
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-4.webp",
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-5.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Reddit++",
+      "version" : "2023.10.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.Tweaked.v2023.10.0.ipa",
+      "dev" : "Level3tjg ",
+      "icon" : "https://img.ipa4fun.com/03/55/72/1064216828-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Reddit to 2023.10.0\n\nAdded:\n\n• RedditOldDiscovery by level3tjg (Disable the new Reddit discovery tab)\n• RedditUndoScrollUp by Aleksi Lassila (Double tap the status bar to return back to where you were)\n• RedditCache by Wh0ba (Show cache size in settings)\n• RedditCacheClearer by level3tjg (Clears Reddit cache every time you open the app)",
+      "description" : "Injected Tweaks:\n\n• RedditFilter by level3tjg - Filter out unwated content from your Reddit feed\n\n• RedditSideloadFix by level3tjg - Fix crash on start when sideloading Reddit app\n\n• RedditOldDiscovery by level3tjg - Disable the new Reddit discovery tab\n\n• Riskkit by AppleCraxkhead - Unblurs NSFW and Spoiler posts on Reddit and Apollo\n\n• RedditCache by Wh0ba - Diplays the cache size on the clear cache label on the official reddit app\n\n• RedditCacheClearer by level3tjg - Clear the reddit video cache every time you open the app to save space\n\n• RedditUndoScrollUp by aleksilassila - Second status bar tap scrolls you back where you were",
+      "bundleID" : "com.reddit.Reddit",
+      "appstore" : "com.reddit.Reddit",
+      "screenshots" : [
+        "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-1.webp",
+        "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-2.webp",
+        "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-3.webp",
+        "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-4.webp",
+        "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-5.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "WhatsApp++",
+      "version" : "23.5.75",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.5.75.+.Watusi-3.v1.1.40.ipa",
+      "dev" : "Fouad Raheb",
+      "icon" : "https://img.ipa4fun.com/8f/ac/c3/310633997-logo.jpg",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated WhatsApp to v23.5.75",
+      "description" : "TO RESTORE CHATS PLEASE COPY LINK BELOW AND READ TUTORIAL\nhttps://bit.ly/Watusi-Manpreet\n\n\nWhat's new in Watusi 3:\n\nNew Features:\n\n• Added a new statuses bar to display all your contacts current statuses on top of the chats list\n• Added option to view and display your contacts statuses on top of their profile pictures in chats list\n• Created Status Archive which will save all your uploaded statuses and their viewers\n• Added option to filter/sort the chats list, available in the new Chats List Add-ons section\n• Added option to manage WhatsApp tabs from which you can hide any tab or add custom ones like Favorites and Groups. (Removed Replace Camera Tab feature since it can now be done using this new feature)\n• Added new section to import/download custom tones to be used for your contacts notifications from their contact info page\n• Added new u201cChat Detailsu201d section inside contact and group info pages to get more details and analytics about the chat\n• Added a new section for Contacts Spoofing which allows you to hide or use a custom profile picture for your contact as well as choosing a different name inside WhatsApp\n• Re-write Auto Reply section with many new features and the option to get the message from a web request\n• Added option to automatically generate multiple broadcast lists from your WhatsApp contacts\n• Added option to disable Delivery Receipts for specific contacts only just like read receipts. (You would still have a delay in messages if you have a lot of pending messages waiting to be marked as delivered on the server)\n• Added option to hide all profile pictures from chats list (available in User Interface section)\n• Added option to hide WhatsApp Web section from settings (available in User Interface section)\n• New Share Sheet Actions\n\n• Added option to send photos & videos as documents which will allow you to send them in full quality\n• Added option to take a long screenshot for a chat (Available in share sheet actions)\nImprovements\n\n• Added whitelist option to Statuses' Disable Mark Viewed feature to allow sending viewed receipts for certain contacts\n• Added new option to mute notifications from chats locked in the archive using u201cArchive Locku201d feature\n• Audio bar will now show a progress bar of the currently playing audio\n• Swipe for Contact Info will now add a new button instead of replacing the Unread button\n• Added haptic feedback on status controls and other places\n\n• The package includes a toggle for Control Center, download CCSupport package and activate it from your Control Center settings.\n\n• The tweak is available in English, Arabic, German, Spanish, French, Italian, Portuguese, Turkish, Hebrew.\n\n• Configure options from inside WhatsApp settings.",
+      "bundleID" : "net.whatsapp.WhatsApp",
+      "appstore" : "net.whatsapp.WhatsApp",
+      "screenshots" : [
+        "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-1.webp",
+        "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-2.webp",
+        "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-3.webp",
+        "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-4.webp",
+        "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-5.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Twitch++",
+      "version" : "14.9.5",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v14.9.5.+.Toolbox.v2.4.2.ipa",
+      "dev" : "Hearsedev",
+      "icon" : "https://img.ipa4fun.com/d7/24/dc/460177396-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Twitch to v14.9.5\n• Bug fixes, stability fixes, and app optimizations",
+      "description" : "The ultimate Twitch tweaked app with these great features: Theme support, Auto claim channel points, Adblock, and 3rd party emote support.",
+      "bundleID" : "tv.twitch",
+      "appstore" : "tv.twitch",
+      "screenshots" : [
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-1.webp",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-2.webp",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-3.webp",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-4.webp",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-5.webp",
+        "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-6.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Discord++",
+      "version" : "173.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
+      "dev" : "Enmity Team",
+      "icon" : "https://img.ipa4fun.com/87/01/a2/985746746-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Discord to v173.0",
+      "description" : "Add plugins and themes to Discord!\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
+      "bundleID" : "com.hammerandchisel.discord",
+      "appstore" : "com.hammerandchisel.discord",
+      "screenshots" : [
+        "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-1.webp",
+        "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-2.webp",
+        "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-3.webp",
+        "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-4.webp",
+        "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.webp",
+        "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Twitter++",
+      "version" : "9.49",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.49.+.BHT.v3.9.1.ipa",
+      "dev" : "BandarHL",
+      "icon" : "https://img.ipa4fun.com/fe/b5/38/333903271-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Twitter to v9.49\n• Updated BHTwitter to v3.9.1",
+      "description" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.",
+      "bundleID" : "com.atebits.Tweetie2",
+      "appstore" : "com.atebits.Tweetie2",
+      "screenshots" : [
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.webp",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-2.webp",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-3.webp",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
+        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Facebook++",
+      "version" : "404.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v404.0.+.Wolf.v2.1.ipa",
+      "dev" : "Michael Lema",
+      "icon" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Facebook to v404.0",
+      "description" : "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n• Disable marking messages as seen\n• Disable typing status in messages\n• No feed ads\n\nStory\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• No story ads\n\nFeed\n• Save Feed videos by long-pressing the video\n\nAnd more!",
+      "bundleID" : "com.facebook.Facebook",
+      "appstore" : "com.facebook.Facebook",
+      "screenshots" : [
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-2.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-3.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-4.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Snapchat++",
+      "version" : "11.80.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
+      "dev" : "Kanji",
+      "icon" : "https://img.ipa4fun.com/5f/b5/79/447188370-logo.jpg",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
+      "description" : "Note: Notifications may not work for some devices\n\nFeatures:\n\n•Screenshot Supression - Screenshotting will no longer send a notification.\n\n• Keep Snaps In Chat - Delivered and open snaps will temporarily be saved in chat.\n\n• Story Ghost - View stories anonymously.\n\n• Snap Ghost - Snaps and messages will appear unviewed/unopened.\n\n• Spoof Story Views\n\n• Spoof Story Screenshots\n\n• Save To Camera Roll - Tap and hold while viewing a snap to bring up the UI press \"Save Snap\"\n\n• Hide Subtitle - Hide the subtitle containing an MOTD or something from the devs\n\n• Upload From Camera Roll - Press the upload button to select an image and then press the button to take a picture.\n\n• Hide Call Buttons - Hide the call buttons on recent Ul versions.\n\n• Video Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Audio Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Hide New Chat Button - Hide the blue button on the bottom on recent Ul versions.\n\n• Remove Highlights (Not Working) - Remove the stupid TikTok knock-off tab (requires app restart).\n\n• Hide Friendmoji - Hide the \"Friendmojis\" next to people's names (requires pull-refresh).\n\n• Randomize Best Friends - Randomly change the order off the best friends list.\n\n• Keep Normal Title - Enable this to hide the \"Shadow X\" label\n\n• Cool RGB Animation - Makes the shadow header RBG (think chromahomebarx).",
+      "bundleID" : "com.toyopagroup.picaboo",
+      "appstore" : "com.toyopagroup.picaboo",
+      "screenshots" : [
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-1.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-2.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-3.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-4.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-5.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-6.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-7.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-8.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "TikTok++",
+      "version" : "29.0.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v29.0.0.+.LRD+.v2.5.ipa",
+      "dev" : "CrazyMind90",
+      "icon" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated TikTok to v29.0.0",
+      "description" : "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
+      "bundleID" : "com.zhiliaoapp.musically",
+      "appstore" : "com.zhiliaoapp.musically",
+      "screenshots" : [
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-1.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-2.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-3.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-4.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-5.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Instagram++",
+      "version" : "278.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v278.0.+.Rocket+.v3.8.6.+.Plus+.v2.5.0.ipa",
+      "dev" : "Majd Alfhaily",
+      "icon" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Instagram to v275.0",
+      "description" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
+      "bundleID" : "com.burbn.instagram",
+      "appstore" : "com.burbn.instagram",
+      "screenshots" : [
+        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-1.webp",
+        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-2.webp",
+        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-3.webp",
+        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-4.webp",
+        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-5.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "BeReal++",
+      "version" : "0.36.1",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.1.+.UnBlur.v0.0.2.ipa",
+      "dev" : "Avangelista",
+      "icon" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• BeReal updated to v0.36.1",
+      "description" : "Unblur your friends' posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
+      "bundleID" : "AlexisBarreyat.BeReal",
+      "appstore" : "AlexisBarreyat.BeReal",
+      "screenshots" : [
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "SoundCloud++",
+      "version" : "6.22.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v6.22.0.+.DarkCloud.v1.4.ipa",
+      "dev" : "Codey Moore",
+      "icon" : "https://img.ipa4fun.com/b1/62/d8/336353151-logo.jpg",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated SoundCloud to v6.22.0",
+      "description" : "SoundCloud Injected with DarkCloud - A Tweak that disables Ads and enables the developer menu.\n\nThe developer menu includes a wide range of adjustmets the user can make to the app, some include:\n\n• Block audio and video ads\n• Enable developer menu\n• Hide Go+ tab\n\nDon't worry, the tweaks you would expect (such as no ads) are enabled in the dev menu by default. So just install and enjoy.",
+      "bundleID" : "com.soundcloud.TouchApp",
+      "appstore" : "com.soundcloud.TouchApp",
+      "screenshots" : [
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.jpg",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.jpg"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "YouTube++",
+      "version" : "18.08.1",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
+      "dev" : "qnblackcat",
+      "icon" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
+      "category" : "Tweaked Apps",
+      "changelog" : "• YouTube updated to v18.08.1\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+      "description" : "Known issue - Signing in may/may not work, if it doesn’t, the next update from the dev may fix this.\n\n\nIf you're a YouTube app user then you'll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
+      "bundleID" : "com.google.ios.youtube",
+      "appstore" : "com.google.ios.youtube",
+      "screenshots" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/0a/8d/540a8daf-4cc2-397a-e1b1-90b859947b44/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/2048x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/e3/e8/a1e3e81c-94e1-9bc2-c5f6-f5efe2814230/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/2048x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Spotify++",
+      "version" : "8.6.42-0.1",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
+      "dev" : "iJulioVerne",
+      "icon" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Added SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n• Added SpotifyHighQuality - Enables 'Very High' Quality\n• Added SpotifyAllowSettings - Enable all settings that are disabled when connected to another device\n• Added Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n• Added TrueShuffle - Enables true random shuffling",
+      "description" : "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables 'Very High' Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n\n\n\nNOTE\n\nThe ‘Car’ setting has been replaced with the sposify tweak settings so unfortunatley you cannot change car settings - all good tho, nobody use that shi anyways, and when car view enables when u in the car, just click ‘turn off car view’ at the top right corner.\n\n\nAll tweaks are injected by myself, WuXu, and ensured to be working perfectly ;)\n",
+      "bundleID" : "com.spotify.client",
+      "appstore" : "com.spotify.client",
+      "screenshots" : [
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Deezer++",
+      "version" : "7.15.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.ipa",
+      "dev" : "iJulioVerne",
+      "icon" : "https://img.ipa4fun.com/23/af/ed/292738169-logo.jpg",
+      "category" : "Tweaked Apps",
+      "changelog" : "• Updated Deezer to v7.15.0 - Last working version with tweak.",
+      "description" : "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.\n\nEnjoy a massive music catalog that has everything and more with in-built algorithms that learn what you like and recommend more of it. The Deezer music player is your companion across all devices, providing access to the artists, songs and communities that speak to you. Discover and create playlists in your favorite genres: hip hop, rap, rock, lofi. No WiFi needed — download songs and enjoy offline music — perfect for when at home or on the go.\n\nThis is the most personalized and intuitive listening experience, brought to you from the home of music.\n\nWith Deezer Free*, you'll get all you need in one app:\n\n• Flow, our feature for infinite, personalized mixes (on-point recommendations every time)\n• SongCatcher, for identifying any song playing around you (try singing or humming for magic results)\n• Game on with music quiz (see how fast you can guess your favorite song)\n• A ludicrously-large catalog (go on, try to find a song that isn't there)\n• The freedom to play music based on moods, niche genres and scenes\n• Personal and collaborative playlists, favorites, radio* and more\n• Dive deeper into the music with the Lyrics feature and translated lyrics\n• Sleep timer function (for those beauty Zzzzzz)\n• Sharing function for spreading the love on socials\n\n\nLooking for a level up? Switch to Deezer Premium**, Deezer Family** or Deezer Student** and you'll benefit from these added perks:\n\n• No ads, ever!\n• Offline listening (just cause the signal cuts doesn't mean the music has to)\n• Unlimited skips, unlimited listening\n• HiFi sound (High Fidelity, lossless quality at 1,411 kbps)\n• FLAC-standard quality on millions of tracks\n• High-end sound system compatibility\n\nCompatible devices:\nGet Deezer on all your connected devices — Google Nest, HomePod Mini, Amazon Alexa, Sonos and more.",
+      "bundleID" : "com.deezer.Deezer",
+      "appstore" : "com.deezer.Deezer",
+      "screenshots" : [
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-1.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-2.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-3.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-4.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-5.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-6.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-7.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-8.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-9.webp"
       ],
       "contact" : {
         "web" : "https://bit.ly/wuxus-sources",
