@@ -104,38 +104,8 @@
     }
   ],
   "Games" : [
-    {
-      "name" : "",
-      "version" : "",
-      "icon" : "",
-      "down" : "",
-      "dev" : "",
-      "category" : "",
-      "changelog" : "",
-      "description" : "",
-      "bundleID" : "",
-      "appstore" : "",
-      "screenshots" : [
-        ""
-      ]
-    }
   ],
   "Jailbreaks" : [
-    {
-      "name" : "",
-      "version" : "",
-      "icon" : "",
-      "down" : "",
-      "dev" : "",
-      "category" : "",
-      "changelog" : "",
-      "description" : "",
-      "bundleID" : "",
-      "appstore" : "",
-      "screenshots" : [
-        ""
-      ]
-    }
   ],
   "Utilities" : [
     {
