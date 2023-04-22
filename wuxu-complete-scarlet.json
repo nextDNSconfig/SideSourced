@@ -16,16 +16,16 @@
       "bundleID" : "com.spotify.client",
       "appstore" : "com.spotify.client",
       "screenshots" : [
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.jpg",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.jpg"
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
       ],
       "debs" : [
         "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/PlayNextorPlayLast.dylib",
