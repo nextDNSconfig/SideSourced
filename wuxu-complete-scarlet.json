@@ -753,7 +753,70 @@
       }
     }
   ],
-  "Utilities" : [],
+  "Utilities" : [
+    {
+      "name" : "iTorrent",
+      "version" : "1.9",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/iTorrent.v1.9.ipa",
+      "dev" : "XITRIX",
+      "icon" : "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
+      "category" : "Utilities",
+      "changelog" : "• iTorrent updated to v1.9",
+      "description" : "iTorrent - a torrent client for iOS with Files app support.\n\nWhat this app can do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• WebDAV Server\n• Select files to download or not\n• Change UI to dark theme\n• RSS Feed",
+      "bundleID" : "ru.nonamedude.iTorrent",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900000455-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-2.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "ESign",
+      "version" : "4.8.1",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.8.1.ipa",
+      "dev" : "esign.yyyue.xyz",
+      "icon" : "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
+      "category" : "Utilities",
+      "changelog" : "• ESign updated to v4.8.1\n• The list of installed applications supports filtering",
+      "description" : "Easy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
+      "bundleID" : "p3.xyz.yyyue.esign",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900000897-iphone-0-1670149926.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-1-1670149926.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-2-1670149927.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-3-1670149927.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "AppDB Client",
+      "version" : "1.1.5",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.5.ipa",
+      "dev" : "ned",
+      "icon" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
+      "category" : "Utilities",
+      "changelog" : "• Switch between available Free Enterprise Signing certificates\n• Support for listing and deleting IPA Cache files\n• Show download statistics on app detail page\n• Fix the bug on status page not showing some values\n• Add black icon\n• Add translations for icon chooser\n• Make disabling ads easy and disabled by default\n• Completely remove old \"PRO\" stuff",
+      "description" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
+      "bundleID" : "it.ned.appdb-ios",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900000538-iphone-0-1615476553.png",
+        "https://static.appdb.to/images/cydia-1900000538-iphone-1-1615476554.png",
+        "https://static.appdb.to/images/cydia-1900000538-iphone-2-1615476554.png",
+        "https://static.appdb.to/images/cydia-1900000538-iphone-3-1615476555.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    }
+  ],
   "Jailbreaks" : [],
   "Emulators" : []
 }
