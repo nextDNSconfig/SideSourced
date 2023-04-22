@@ -394,7 +394,93 @@
       }
     }
   ],
-  "Free Streaming" : [],
+  "Free Streaming" : [
+    {
+      "name" : "MovieBoxPro",
+      "version" : "12.3",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
+      "dev" : "",
+      "icon" : "https://bestforandroid.com/apk/wp-content/uploads/2021/03/moviebox-pro-featured-image.png",
+      "category" : "Free Streaming",
+      "changelog" : "• Optimize the movie list editing performance.\n• Support remember the encoding while uploading subtitle files.\n• Support set the subtitle language separate from the app language.",
+      "description" : "Enjoy Movies and TV on your phone or cast to your smartTV",
+      "bundleID" : "com.xd.mbp31",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "NineAnimator",
+      "version" : "1.2.7-b6",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NineAnimator.v1.2.7-b6.ipa",
+      "dev" : "SuperMarcus",
+      "icon" : "https://9anirepo.github.io/assets/com.marcuszhou.NineAnimator/icon.png",
+      "category" : "Free Streaming",
+      "changelog" : "• The iOS app is now about 9X smaller\nFixed an issue with subscriptions loading forever\n\n• Title tracking between Anime Sources and Anime Listing\nServices is now case insensitive\n\n• Fixed tracking on MyAnimeList if the anime title is longer than 60 characters\n\n• Added support for downloading while the app is in the background\n\n• Fixed an issue where downloaded videos would get removed at random\n\n• Notifications should appear more quickly and more often\n\n• Local video playback will no longer interrupt AirPlay\n\n• Fixed UI for Recently Watched anime on larger devices\n\n• Fixed issue where Recently Watched anime would not update its artwork or other metadata\n\n• Fixed issue where the app may crash during heavy use\n\n• The mouse cursor on macOS will automatically hide during video playback\n\n• Added support for ArrayAnime\n\n• Added support for Pantsubase\n \n• Removed Aniwatch and 9anime\n\n• Updated many different sources and server",
+      "description" : "A simple yet elegant way of waching anime on your favorite anime websites. NineAnimator is a free and open source anime watching app for iOS and macOS. GPLv3 Licensed.\n\nFeatures:\n\n• Ads Free and no logins\n• Super-duper clean Uls + Dark Mode\n• Get notifications when new episodes come out\n• Apple's native video playback interface\n• Picture in Picture playback on iPads/iOS 14+ devices\n• Chromecast/Google Cast with lockscreen & control center support\n• Playback History & Auto Resumes\n• Support Multiple Anime Websites\n• Integration with HomeKit\n• Discord Rich Presence integration (macOS only)\n• Handoff & Siri Shortcuts\n• Download & play episodes offline\n• Third party anime listing & tracking websites (view & edit)",
+      "bundleID" : "com.marcuszhou.NineAnimator",
+      "screenshots" : [
+        "https://github.com/SuperMarcus/NineAnimator/blob/master/Misc/Media/Demo/Dark/watch_next.dark.png?raw=true",
+        "https://github.com/SuperMarcus/NineAnimator/blob/master/Misc/Media/Demo/Dark/library.dark.png?raw=true",
+        "https://github.com/SuperMarcus/NineAnimator/blob/master/Misc/Media/Demo/Dark/search.png?raw=true",
+        "https://github.com/SuperMarcus/NineAnimator/blob/master/Misc/Media/Demo/Dark/listing_edit.dark.png?raw=true",
+        "https://github.com/SuperMarcus/NineAnimator/blob/master/Misc/Media/Demo/Dark/browse_episodes.png?raw=true",
+        "https://github.com/SuperMarcus/NineAnimator/blob/master/Misc/Media/Demo/Dark/downloads.png?raw=true"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "ZiniTevi++",
+      "version" : "1.5.0",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ZiniTevi+.v1.5.0.ipa",
+      "dev" : "Syto203",
+      "icon" : "https://i.imgur.com/rgL5qrB.png",
+      "category" : "Free Streaming",
+      "changelog" : "• Updated ZiniTevi to v1.5.0",
+      "description" : "Tweaked version of ZiniTevi - Ads disabled\n\nApp for Streaming Movies and TV Shows for free on your phone.\n\nApp features:\n\n• Play video online and offline.\n• Download multiple videos in background mode.\n• Stream video to Google's Chromecast, Airplay, Smart TV,\n• Android TV Box, Web Browser, UPnP, DLNA.\n• Add to favorites list.\n• Save to watched list.\n• Caption in video with all languages on over the world.\n• Trakt.tv to sync history and favorites list to the cloud.\n\nEnjoy!",
+      "bundleID" : "jb.zini.tevi",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Anime Now!",
+      "version" : "1.0.0-b3",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Anime.Now.v1.0.0-b3.ipa",
+      "dev" : "AnimeNow Team",
+      "icon" : "https://static.appdb.to/images/cydia-1900001008-icon-1669968478.png",
+      "category" : "Free Streaming",
+      "changelog" : "• Updated Anime Now to v1.0.0-b3",
+      "description" : "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
+      "bundleID" : "com.errorerrorerror.animenow",
+      "screenshots" : [
+        "https://static.appdb.to/images/cydia-1900001008-iphone-0-1669964060.png",
+        "https://static.appdb.to/images/cydia-1900001008-iphone-1-1669964061.png",
+        "https://static.appdb.to/images/cydia-1900001008-iphone-2-1669964061.png",
+        "https://static.appdb.to/images/cydia-1900001008-iphone-3-1669964061.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    }
+  ],
   "Cracked/Paid" : [],
   "Emulators" : [],
   "Games" : [],
