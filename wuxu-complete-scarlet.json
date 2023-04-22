@@ -28,11 +28,7 @@
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
       ],
       "debs" : [
-        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Spotilife.dylib",
-        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Sposify.dylib",
-        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/SposifyFix.dylib",
-        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/PlayNextorPlayLast.dylib",
-        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Volify.dylib"
+        "https://github.com/WuXu1/WuXu1.github.io/releases/download/Spotify-Dylibs/Spotilife.dylib"
       ]
     }
   ],
