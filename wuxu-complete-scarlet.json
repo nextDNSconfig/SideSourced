@@ -817,6 +817,93 @@
       }
     }
   ],
-  "Jailbreaks" : [],
+  "Jailbreaks/Tweaks" : [
+    {
+      "name" : "Cowabunga",
+      "version" : "10.1.1",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
+      "dev" : "Leminlimez",
+      "icon" : "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "category" : "Jailbreaks/Tweaks",
+      "changelog" : "• Added remove 3 app limit (WDBRemoveThreeAppLimit)\n• Added ability to edit secondary carrier name separately\n• Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n• Fixed generate padding button not showing up on file path operations",
+      "description" : "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689\n\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\n\nWarning: Some changes are permanent on iOS 14.0-14.8.1\n\n\nFeatures:\n\n• Running in the background to keep some changes from reverting\n\t- From running tests, battery loss is negligible (~1% per day on frequent), but that may vary \n\nSpringboard\n\n• Hide dock\n• Hide home bar\n• Hide folder backgrounds\n• Disable folder background blur\n• Disable app switcher blur\n• Hide CC Module Backgrounds\n• Hide Notification Banner Background\n\nApp Icon Themes\n\n• Importing folders of app icons\n• No WebClips!\n\nAudio\n\n• Custom sound effects\n• Upload your own sounds (nearly every audio format allowed!)\n• Max upload audio size of 150 kb, but will not apply for audio if too big!\n\nPasscode\n\n• Customize passcode keys\n• Import passcode keys files (.passthm) from TrollTools\n\nLocks\n\n• Importing locks from TrollLock\n• Custom number of frames + custom animation speeds (see below)\n\nExplore\n\n• Find and download themes for passcodes, locks, and app icons!\n• If you would like to submit your own works, please join the discord\n\nStatus Bar\n\n• Change carrier name\n• Change battery display detail\n• Change time text\n• Change breadcrumb text\n• Show numeric WiFi/Cellular strength\n• Hide many icons in the status bar\n\nOther Tools\n\n• Custom Fonts\n• Lock Screen Footnote\n• Notification Badges Changer (iOS 14-15 ONLY)\n• Springboard Colors\n• Settings App Customizer\n• Calculator Error Message\n\nMisc\n\n• Disable shortcut banners\n• Turn shortcuts into app clips\n• Supervise Device Warning: Use the features below at your own risk!\n• Change system version (shows in settings, iOS 15+)\n• Enable iPhone X Gestures\n• Enable Dynamic Island (iOS 16+)\n\nExtra Tools\n\n• Lock Screen Footnote\n• No Lock On Respring\n• Disable Low Power Alert",
+      "bundleID" : "com.leemin.Cowabunga",
+      "screenshots" : [
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Home.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Tools.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/SpringboardTools.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Audio_Changer.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Passcode_Editor.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/LS_Footnote.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Misc.PNG",
+        "https://github.com/leminlimez/Cowabunga/raw/main/Images/Extra_Tools.PNG"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Odyssey",
+      "version" : "1.4.3",
+      "down" : "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+      "dev" : "Odyssey Team",
+      "icon" : "https://theodyssey.dev/assets/images/icon.png",
+      "category" : "Jailbreaks/Tweaks",
+      "changelog" : "- Update Sileo to 2.3-1",
+      "description" : "Supporting iOS Versions: 13.0 - 13.7.\n\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "bundleID" : "org.coolstar.odyssey",
+      "screenshots" : [
+        "https://theodyssey.dev/assets/images/ss-1.png",
+        "https://theodyssey.dev/assets/images/ss-2.png",
+        "https://theodyssey.dev/assets/images/ss-3.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "Taurine",
+      "version" : "1.1.6",
+      "down" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+      "dev" : "Odyssey Team",
+      "icon" : "https://taurine.app/assets/images/icon.png",
+      "category" : "Jailbreaks/Tweaks",
+      "changelog" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15",
+      "description" : "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+      "bundleID" : "org.coolstar.taurine",
+      "screenshots" : [
+        "https://taurine.app/assets/images/ss-1.png",
+        "https://taurine.app/assets/images/ss-2.png",
+        "https://taurine.app/assets/images/ss-3.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    },
+    {
+      "name" : "unc0ver",
+      "version" : "8.0.2",
+      "down" : "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "dev" : "Pwn20wnd",
+      "icon" : "https://i.imgur.com/5aehDxj.png",
+      "category" : "Jailbreaks/Tweaks",
+      "changelog" : "• Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n• Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8",
+      "description" : "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n• unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n• Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n• Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
+      "bundleID" : "science.xnu.undecimus",
+      "screenshots" : [
+        "https://i.imgur.com/ItMaRRV.png",
+        "https://i.imgur.com/bjzyqpY.png",
+        "https://i.imgur.com/3TMGkaO.png",
+        "https://i.imgur.com/gTYfncm.png"
+      ],
+      "contact" : {
+        "web" : "https://bit.ly/wuxus-sources",
+        "discord" : "https://bit.ly/wuxuslibrary-discord"
+      }
+    }
+  ],
   "Emulators" : []
 }
