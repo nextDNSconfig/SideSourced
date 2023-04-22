@@ -1367,14 +1367,14 @@
       "title" : "Tweaks Added To Spotify!"
     },
     {
-      "caption": "I have created both of my sources in one for scarlet! Copy this link - https://bit.ly/wuxuslibrary-scarlet - and paste it into the app!",
+      "caption": "I have created both of my sources in one for scarlet! Copy this link - https://bit.ly/wuxuslibrary-scarlet - and paste it into the app! Or click here and copy it from the search bar",
       "date": "2023-04-22",
       "identifier": "scarlet-now-live",
       "imageURL": "https://zappfree.com/scarlet-ios/img/scarlet-ios.png",
       "notify": true,
       "tintColor": "8d2129",
       "title": "The 2-in-1 Scarlet Source is now live!",
-      "url": "scarlet://repo=https://bit.ly/wuxuslibrary-scarlet"
+      "url": "https://wuxu1.github.io/wuxu-complete-scarlet.json"
     },
     {
       "caption" : "I have just launched a website where you can find all the information you need about my sources! Click here to visit",
