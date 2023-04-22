@@ -1367,6 +1367,17 @@
       "title" : "Tweaks Added To Spotify!"
     },
     {
+      "appID": "",
+      "caption": "Click here to add both sources in one to scarlet! Or just copy this link - https://bit.ly/wuxuslibrary-scarlet - and paste it into scarlet!",
+      "date": "2023-04-22",
+      "identifier": "scarlet-now-live",
+      "imageURL": "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
+      "notify": true,
+      "tintColor": "8d2129",
+      "title": "Scarlet Now Supported!",
+      "url": "scarlet://repo=https://bit.ly/wuxuslibrary-scarlet"
+    },
+    {
       "caption" : "I have just launched a website where you can find all the information you need about my sources! Click here to visit",
       "date" : "2023-04-10",
       "identifier" : "wuxus-sources-live",
