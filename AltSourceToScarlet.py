@@ -1,7 +1,7 @@
 import json
 
 # Load the existing "wuxu-complete-scarlet.json" file
-with open('wuxu-complete-scarlet.json', 'r') as f:
+with open('wuxu-complete-scarlet-test.json', 'r') as f:
     existing_data = json.load(f)
 
 # Load the "wuxu-complete-plus.json" file
