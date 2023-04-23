@@ -350,7 +350,7 @@
     {
       "bundleIdentifier" : "com.hammerandchisel.discord",
       "developerName" : "Enmity Team",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v174.0.+.Emnity.v2.2.5.ipa",
       "iconURL" : "https://img.ipa4fun.com/87/01/a2/985746746-logo.webp",
       "localizedDescription" : "Add plugins and themes to Discord!\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
       "name" : "Discord++",
@@ -362,13 +362,20 @@
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.webp",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.webp"
       ],
-      "size" : 9650000,
+      "size" : 7820000,
       "subtitle" : "The power of addons, all in your hand.",
       "tintColor" : "3c45ac",
-      "version" : "173.0",
-      "versionDate" : "2023-04-13",
-      "versionDescription" : "• Updated Discord to v173.0",
+      "version" : "174.0",
+      "versionDate" : "2023-04-24",
+      "versionDescription" : "• Updated Discord to v174.0\n• Updated Emnity to v2.2.5\n\n• Fix BUNDLE_PATH and horrible lag when using themes with Image BGs (#22)\n• Uses the BUNDLE_PATH constant instead of the ENMITY_PATH constant which fixes the tweak not building through the Action.\n• Add a different Package Identifier to the Rootless Dev tweak as I forgot to do that beforehand\n• Fix the extreme lag when having a theme with an Image Background.",
       "versions" : [
+        {
+          "date" : "2023-04-24",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v174.0.+.Emnity.v2.2.5.ipa",
+          "localizedDescription" : "• Updated Discord to v174.0\n• Updated Emnity to v2.2.5\n\n• Fix BUNDLE_PATH and horrible lag when using themes with Image BGs (#22)\n• Uses the BUNDLE_PATH constant instead of the ENMITY_PATH constant which fixes the tweak not building through the Action.\n• Add a different Package Identifier to the Rootless Dev tweak as I forgot to do that beforehand\n• Fix the extreme lag when having a theme with an Image Background.",
+          "size" : 7820000,
+          "version" : "174.0"
+        },
         {
           "date" : "2023-04-13",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v173.0.+.Enmity.v2.1.4.ipa",
@@ -1199,7 +1206,7 @@
     {
       "appID" : "com.hammerandchisel.discord",
       "caption" : "Discord has been updated to the latest version, click here for more info",
-      "date" : "2023-04-13",
+      "date" : "2023-04-24",
       "identifier" : "discord-updated",
       "imageURL" : "https://api.demarrez-votre-entreprise.com/wp-content/uploads/2021/09/discord-entreprise.jpg",
       "notify" : true,
@@ -1367,14 +1374,14 @@
       "title" : "Tweaks Added To Spotify!"
     },
     {
-      "caption": "I have created both of my sources in one for scarlet! Copy this link - https://bit.ly/wuxuslibrary-scarlet - and paste it into the app! Or click here, click share, copy, then paste into scarlet!",
-      "date": "2023-04-22",
-      "identifier": "scarlet-now-live",
-      "imageURL": "https://onejailbreak.com/site/assets/files/1478/scarlet.766x0.jpg",
-      "notify": true,
-      "tintColor": "8d2129",
-      "title": "The 2-in-1 Scarlet Source is now live!",
-      "url": "https://wuxu1.github.io/wuxu-complete-scarlet.json"
+      "caption" : "I have created both of my sources in one for scarlet! Copy this link - https://bit.ly/wuxuslibrary-scarlet - and paste it into the app! Or click here, click share, copy, then paste into scarlet!",
+      "date" : "2023-04-22",
+      "identifier" : "scarlet-now-live",
+      "imageURL" : "https://onejailbreak.com/site/assets/files/1478/scarlet.766x0.jpg",
+      "notify" : true,
+      "tintColor" : "8d2129",
+      "title" : "The 2-in-1 Scarlet Source is now live!",
+      "url" : "https://wuxu1.github.io/wuxu-complete-scarlet.json"
     },
     {
       "caption" : "I have just launched a website where you can find all the information you need about my sources! Click here to visit",
