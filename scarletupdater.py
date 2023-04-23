@@ -19,7 +19,7 @@ with open('wuxu-complete-scarlet.json') as f3:
 for app in updated_apps:
     app_found = False
     for old_app in old_data:
-        if updated_apps[app['bundleIdentifier']] == old_app['bundleID']:
+        if app['bundleIdentifier'] == old_app['bundleID']:
             app_found = True
             old_app['name'] = app['name']
             old_app['version'] = app['version']
