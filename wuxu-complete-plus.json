@@ -118,7 +118,7 @@
     {
       "bundleIdentifier" : "app.nicegram",
       "developerName" : "dpixel",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Nicegram.Cracked.v1.2.4.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NiceGram.Cracked.v1.2.6.ipa",
       "iconURL" : "https://img.ipa4fun.com/77/44/cc/1608870673-logo.jpg",
       "localizedDescription" : "Nicegram with premium enabled!\n\nHOW TO ACTIVATE PREMIUM\n\nGo to Nicegram settings and click on buy Nicegram Premium. Click cancel when it asks for Face ID/ Touch ID\n\n\nFrom the original app:\n\nThe future of messaging is closer than you think!\n\nAt the forefront of innovation stands Nicegram, a multifaceted Telegram client designed to level up your messaging experience. We prioritize your privacy and security, hence we have adopted Telegram’s data encryption technologies and made them an integral part of our messaging app. Nicegram grants you an opportunity to enjoy everything Telegram has to offer without any restrictions and spices it up with a bundle of exclusive features for advanced users. Here’s a sneak peek at those that stand out the most:\n\n\n• Unlimited Access: freely set up dozens and even hundreds of accounts for your convenience!\n\n• Built-in Translator: instantly translate both incoming and outgoing messages without having to leave the chat! This unmissable feature supports all languages!\n\n• Quick Replies: get a handful of ready-to-use message templates that will swiftly let your interlocutor know you’re occupied and will provide an extended reply later!\n\n• Double Bottom: conceal your accounts from prying eyes without having to subscribe or make any payments!\n\n• Select All: bulk-select up to 100 incoming messages from another Telegram user in a single tap and decide what to do with them next – copy, forward, delete, or add to your Saved Messages!\n\n• Without Name: safely forward other Telegram users’ messages without revealing their identities!\n\n• Instant Forward: add all important information to your Saved Messages with minimum effort and keep it close at hand at all times!\n\n• View Registration Date: go to any user’s profile and instantly find out when they joined Telegram!\n\n• Advanced Cache: make use of our flexible cache settings options by adjusting its maximum size to 1, 2, 16, 32 GB or bidding farewell to limits altogether! Moreover, now it’s YOU who decides for how long you wish to preserve the downloaded media files in your Telegram chats!\n\n• Nicegram Folders: tailor the look of Telegram to your personal preferences by placing all your folder tabs at the bottom of the screen!\n\n• Hide Reactions: give your Telegram chats a more businesslike look by hiding other users’ reactions to messages! Achieving a razor-sharp concentration has now become much easier!\n\n• Show ID: open Telegram chat descriptions and users’ profiles to view their unique IDs! This feature will help you identify a Telegram account even after its owner alters its @username!\n\n• Mention All: mention all the members of a group chat in just one tap and make sure everyone reads your important message!\n\n• Speech2Text: easily and accurately transcribe any voice message and come back to reread it anytime!\n\n\nNicegram is more than just a messaging app. It’s a cross-cultural community where you can participate in discussions, connect with like-minded people, explore educational content, and impact the messenger’s future.\n\nIf you have any questions or suggestions regarding the app’s functionality, please don’t hesitate to reach out to us at nicegram@appvillis.com.\n\nPrivacy Policy: https://appvillis.com/nicegram-privacy.html\nTerms of Use: https://appvillis.com/eula.html\nDevelopers Website: https://nicegram.app/",
       "name" : "Nicegram++",
@@ -131,13 +131,20 @@
         "https://img.ipa4fun.com/77/44/cc/1608870673-screenshot-6.jpg",
         "https://img.ipa4fun.com/77/44/cc/1608870673-screenshot-7.jpg"
       ],
-      "size" : 196000000,
+      "size" : 123000000,
       "subtitle" : "Nicegram with premium activated!",
       "tintColor" : "932cb0",
-      "version" : "1.2.4",
-      "versionDate" : "2023-04-08",
-      "versionDescription" : "• Updated Nicegram to v1.2.4",
+      "version" : "1.2.6",
+      "versionDate" : "2023-04-24",
+      "versionDescription" : "• Updated Nicegram to v1.2.4\n\n• Refined design for the GPT-4 chatbot: We've made some improvements to the design of our GPT-4 chatbot to make it even more visually appealing and user-friendly.\n• Added the GPT-4 chatbot to the onboarding process: We've added the GPT-4 chatbot to our onboarding process to help users get started with the app more quickly and easily.\n• Bug fixes: We've fixed some issues that were reported by users, which should improve the overall stability and performance of the app.\n• Improved speed: We've made some optimizations to the app's code to make it run faster and smoother.",
       "versions" : [
+        {
+          "date" : "2023-04-24",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/NiceGram.Cracked.v1.2.6.ipa",
+          "localizedDescription" : "• Updated Nicegram to v1.2.4\n\n• Refined design for the GPT-4 chatbot: We've made some improvements to the design of our GPT-4 chatbot to make it even more visually appealing and user-friendly.\n• Added the GPT-4 chatbot to the onboarding process: We've added the GPT-4 chatbot to our onboarding process to help users get started with the app more quickly and easily.\n• Bug fixes: We've fixed some issues that were reported by users, which should improve the overall stability and performance of the app.\n• Improved speed: We've made some optimizations to the app's code to make it run faster and smoother.",
+          "size" : 123000000,
+          "version" : "1.2.6"
+        },
         {
           "date" : "2023-04-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Nicegram.Cracked.v1.2.4.ipa",
@@ -1135,13 +1142,13 @@
     },
     {
       "appID" : "app.nicegram",
-      "caption" : "Nicegram - a Telegram client with more features has been added to the source! Premium activated ;)",
-      "date" : "2023-04-08",
-      "identifier" : "nicegram-added",
+      "caption" : "Nicegram has been updated to the latest version, click here for more info",
+      "date" : "2023-04-24",
+      "identifier" : "nicegram-updated",
       "imageURL" : "https://i.imgur.com/0QEarI4.png",
       "notify" : false,
       "tintColor" : "101010",
-      "title" : "Nicegram++ Added!"
+      "title" : "Nicegram++ Updated!"
     },
     {
       "appID" : "com.reddit.Reddit",
