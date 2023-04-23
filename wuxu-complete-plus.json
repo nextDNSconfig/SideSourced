@@ -1039,7 +1039,7 @@
     {
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "iJulioVerne",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
       "localizedDescription" : "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables 'Very High' Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n\n\n\nNOTE\n\nThe ‘Car’ setting has been replaced with the sposify tweak settings so unfortunatley you cannot change car settings - all good tho, nobody use that shi anyways, and when car view enables when u in the car, just click ‘turn off car view’ at the top right corner.\n\n\nAll tweaks are injected by myself, WuXu, and ensured to be working perfectly ;)\n",
       "minOSVersion" : "12.0",
@@ -1056,13 +1056,21 @@
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
       ],
-      "size" : 47000000,
+      "size" : 58000000,
       "subtitle" : "Spotify with free premium, and extra UI features",
       "tintColor" : "1c843c",
-      "version" : "8.6.42-0.1",
-      "versionDate" : "2023-03-19",
-      "versionDescription" : "• Added SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n• Added SpotifyHighQuality - Enables 'Very High' Quality\n• Added SpotifyAllowSettings - Enable all settings that are disabled when connected to another device\n• Added Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n• Added TrueShuffle - Enables true random shuffling",
+      "version" : "8.6.42-0.2",
+      "versionDate" : "2023-04-24",
+      "versionDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
       "versions" : [
+        {
+          "date" : "2023-04-24",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
+          "localizedDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
+          "minOSVersion" : "12.0",
+          "size" : 58000000,
+          "version" : "8.6.42-0.2"
+        },
         {
           "date" : "2023-03-19",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
@@ -1379,9 +1387,9 @@
     },
     {
       "appID" : "com.spotify.client",
-      "caption" : "Some new tweaks have been added to Spotify! Click here for more info",
-      "date" : "2023-03-19",
-      "identifier" : "tweaks-added-spotify",
+      "caption" : "A new tweak that may fix premium not activating has been added to Spotify! Click here for more info",
+      "date" : "2023-04-24",
+      "identifier" : "tweak-added-spotify",
       "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
       "notify" : true,
       "tintColor" : "1c843c",
