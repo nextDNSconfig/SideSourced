@@ -6,7 +6,8 @@ with open('wuxu-complete-plus.json', 'r') as plus_file:
     # Extract the "apps" list from the dictionary and assign it to a variable
     plus_apps = []
     for key in plus_data:
-        plus_apps.extend(plus_data[key])
+        if isinstance(plus_data[key], list):  # check if value is a list
+            plus_apps.extend(plus_data[key])
 
 # Open the "wuxu-complete-scarlet.json" file and load its contents into a dictionary
 with open('wuxu-complete-scarlet.json', 'r') as scarlet_file:
@@ -14,7 +15,8 @@ with open('wuxu-complete-scarlet.json', 'r') as scarlet_file:
     # Extract the "apps" list from each key in the dictionary and combine them into one list
     scarlet_apps = []
     for key in scarlet_data:
-        scarlet_apps.extend(scarlet_data[key])
+        if isinstance(scarlet_data[key], list):  # check if value is a list
+            scarlet_apps.extend(scarlet_data[key])
 
 # Iterate over each app in the "applications" list of the scarlet_data dictionary
 for scarlet_app in scarlet_apps:
