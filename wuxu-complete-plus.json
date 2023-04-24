@@ -999,7 +999,7 @@
     {
       "bundleIdentifier" : "com.google.ios.youtube",
       "developerName" : "qnblackcat",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.15.1.+.uYou+.v3.0.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
       "localizedDescription" : "Known issue - Signing in may/may not work, if it doesn’t, the next update from the dev may fix this.\n\n\nIf you're a YouTube app user then you'll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
       "minOSVersion" : "14.0",
@@ -1011,13 +1011,21 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size" : 106000000,
+      "size" : 116000000,
       "subtitle" : "All-In-One Tweak for YouTube.",
       "tintColor" : "af0303",
-      "version" : "18.08.1",
-      "versionDate" : "2023-03-29",
-      "versionDescription" : "• YouTube updated to v18.08.1\n• Fixed missing \"iPhone layout\" option on iPad (#965).\n• Added an option to hide uYou's buttons in Shorts (#969).\n• Added an option to enable YouTube startup animation.",
+      "version" : "18.15.1",
+      "versionDate" : "2023-04-24",
+      "versionDescription" : "• YouTube updated to v18.15.1\n•  uYouPlus Updated to v3.0\n\n\nAdded:\n\n• Support for rootless jailbreaks\n• Default playback speed.\n• Removed ads from search results.\n• Auto fullscreen in YT player.\n• Hide upgrade dialog.\n• Disabled captions in the muted player.\n• Download original thumbnails.\n• Ability to hide uYou button in Shorts.\n• Ability to hide title and channel name in Shorts.\n• Ability to hide channel avatar in Shorts.\n• Ability to hide like button in Shorts.\n• Ability to hide dislike button in Shorts.\n• Ability to hide comment button in Shorts.\n• Ability to hide remix button in Shorts.\n• Ability to hide share button in Shorts.\n• Ability to fullscreen in Shorts.\n• Reserved speed rate when changing it until closing YouTube.\n\nFixed:\n\n• Rewrote downloading class for faster downloads.\n• Fixed downloading errors in sideloaded versions.\n• Fixed login issues for sideloaded version.\n• Fixed cast button not hiding.\n• Fixed uYou's tab bar button.\n• Fixed all uYou's player bugs.\n• Fixed sorting downloaded media.\n• Fixed uYou player UI in RTL languages.\n• Fixed downloading Shorts.\n• Removed playlist download.\n• Removed uPIP.\n\nKnown Issues:\n\n• Red progress bar in dark mode not working.\n• Oled dark mode not working.",
       "versions" : [
+        {
+          "date" : "2023-04-24",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.15.1.+.uYou+.v3.0.ipa",
+          "localizedDescription" : "• YouTube updated to v18.15.1\n•  uYouPlus Updated to v3.0\n\n\nAdded:\n\n• Support for rootless jailbreaks\n• Default playback speed.\n• Removed ads from search results.\n• Auto fullscreen in YT player.\n• Hide upgrade dialog.\n• Disabled captions in the muted player.\n• Download original thumbnails.\n• Ability to hide uYou button in Shorts.\n• Ability to hide title and channel name in Shorts.\n• Ability to hide channel avatar in Shorts.\n• Ability to hide like button in Shorts.\n• Ability to hide dislike button in Shorts.\n• Ability to hide comment button in Shorts.\n• Ability to hide remix button in Shorts.\n• Ability to hide share button in Shorts.\n• Ability to fullscreen in Shorts.\n• Reserved speed rate when changing it until closing YouTube.\n\nFixed:\n\n• Rewrote downloading class for faster downloads.\n• Fixed downloading errors in sideloaded versions.\n• Fixed login issues for sideloaded version.\n• Fixed cast button not hiding.\n• Fixed uYou's tab bar button.\n• Fixed all uYou's player bugs.\n• Fixed sorting downloaded media.\n• Fixed uYou player UI in RTL languages.\n• Fixed downloading Shorts.\n• Removed playlist download.\n• Removed uPIP.\n\nKnown Issues:\n\n• Red progress bar in dark mode not working.\n• Oled dark mode not working.",
+          "minOSVersion" : "14.0",
+          "size" : 116000000,
+          "version" : "18.15.1"
+        },
         {
           "date" : "2023-03-29",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.08.1.+.uYou+.v2.3.1.ipa",
@@ -1366,12 +1374,12 @@
     {
       "appID" : "com.google.ios.youtube",
       "caption" : "YouTube++ has been updated to the latest version, clck here for more info",
-      "date" : "2023-03-29",
+      "date" : "2023-04-24",
       "identifier" : "youtube-updated",
       "imageURL" : "https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg",
       "notify" : true,
       "tintColor" : "af0303",
-      "title" : "YouTube++ Updated!"
+      "title" : "YouTube++ Updated - uYouPlus v3.0 Released!"
     },
     {
       "appID" : "com.spotify.client",
