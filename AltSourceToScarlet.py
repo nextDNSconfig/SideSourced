@@ -1,7 +1,7 @@
 import json
 
 # Open the file
-with open("wuxu-complete.json", "r") as f:
+with open("wuxu-complete-plus.json", "r") as f:
     data = json.load(f)
 
 # Convert each app's data to the new format
@@ -51,5 +51,5 @@ new_data = {
 }
 
 # Write the new data to a file
-with open("wuxu-complete-scarlet-test2.json", "w") as f:
+with open("wuxu-complete-scarlet-updated.json", "w") as f:
     json.dump(new_data, f)
