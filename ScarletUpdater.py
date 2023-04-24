@@ -1,24 +1,24 @@
 import json
 
-# Load the contents of the JSON files into variables
+# Load the plus app data from file
 with open('wuxu-complete-plus.json', 'r') as f:
-    plus_apps = json.load(f)
-    
+    plus_data = json.load(f)
+
+# Load the scarlet app data from file
 with open('wuxu-complete-scarlet.json', 'r') as f:
-    scarlet_apps = json.load(f)
+    scarlet_data = json.load(f)
 
-# Create a dictionary to store the updated app information
-updated_apps = {}
-
-# Loop through each app in the 'wuxu-complete-plus.json' file
-for plus_app in plus_apps:
+# Loop through each app in plus data
+for plus_app in plus_data:
+    # Get the bundle identifier for the plus app
     plus_bundle_id = plus_app['bundleIdentifier']
-    
-    # Loop through each app in the 'wuxu-complete-scarlet.json' file
-    for scarlet_app in scarlet_apps:
+
+    # Loop through each app in scarlet data
+    for scarlet_app in scarlet_data:
+        # Get the bundle identifier for the scarlet app
         scarlet_bundle_id = scarlet_app['bundleID']
-        
-        # Compare the bundle identifiers to see if they match
+
+        # Compare bundle identifiers
         if plus_bundle_id == scarlet_bundle_id:
             
             # Compare the app version numbers to see if there is an update
