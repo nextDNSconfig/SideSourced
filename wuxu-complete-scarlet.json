@@ -267,13 +267,13 @@
     },
     {
       "name" : "BeReal++",
-      "version" : "1.0.1",
-      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.0.1.+.Bea.v1.1.ipa",
+      "version" : "0.36.3",
+      "down" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v0.36.3.+.Bea.v1.1.ipa",
       "dev" : "Avangelista",
       "icon" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
       "category" : "Tweaked Apps",
-      "changelog" : "• BeReal updated to v1.0.1\n• Removed UnBlur v0.0.2\n• Added Bea v1.1",
-      "description" : "Unblur your friends' posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
+      "changelog" : "• BeReal updated to v0.36.3\n• Removed UnBlur v0.0.2\n• Added Bea v1.1",
+      "description" : "Bea adds small enhancements to the BeReal app.\n\nHere are the included features:\n\n• View BeReals without posting your own.\n• Unrestricted BeReal countdown\n• Show camera close button by default\n• Screenshot detection bypass (use with caution, this has not been extensively tested yet)\n• No options to configure",
       "bundleID" : "AlexisBarreyat.BeReal",
       "appstore" : "AlexisBarreyat.BeReal",
       "screenshots" : [
