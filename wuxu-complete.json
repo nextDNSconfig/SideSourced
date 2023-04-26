@@ -8,12 +8,12 @@
   "website" : "https://wuxu1.github.io/",
   "tintColor" : "a9120c",
   "featuredApps" : [
+    "org.coolstar.taurine",
     "science.xnu.undecimus",
     "com.leemin.Cowabunga",
     "com.supercell.magic",
     "com.nianticlabs.pokemongo",
-    "com.rovio.angrybirdsstarwarsHD",
-    "org.coolstar.taurine"
+    "com.rovio.angrybirdsstarwars"
   ],
   "apps" : [
     {
