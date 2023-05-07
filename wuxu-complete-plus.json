@@ -1430,6 +1430,17 @@
       "title" : "Deezer++ Added! - Last working version with tweak"
     },
     {
+      "appID": "",
+      "caption": "Hello everyone! I am currently doing my exams, so I am unable to add/update apps as much. I am aware some apps are not working and images are missing, I'll fix this as soon as I can. I'll be back properly on the 25th! Click here to join the discord for news!",
+      "date": "2023-05-07",
+      "identifier": "",
+      "imageURL": "",
+      "notify": false,
+      "tintColor": "8A28F7",
+      "title": "Temporarily Inactive",
+      "url": "https://bit.ly/wuxuslibrary-discord"
+    },
+    {
       "appID" : "com.spotify.client",
       "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
       "date" : "2023-04-24",
