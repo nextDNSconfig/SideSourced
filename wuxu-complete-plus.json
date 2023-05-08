@@ -176,7 +176,7 @@
     {
       "bundleIdentifier" : "com.xd.mbp31",
       "developerName" : "",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.4.ipa",
       "iconURL" : "https://bestforandroid.com/apk/wp-content/uploads/2021/03/moviebox-pro-featured-image.png",
       "localizedDescription" : "Enjoy Movies and TV on your phone or cast to your smartTV",
       "name" : "MovieBoxPro",
@@ -189,10 +189,17 @@
       "size" : 131000000,
       "subtitle" : "The best in-class streaming service!",
       "tintColor" : "3f3e43",
-      "version" : "12.3",
-      "versionDate" : "2023-03-10",
-      "versionDescription" : "• Optimize the movie list editing performance.\n• Support remember the encoding while uploading subtitle files.\n• Support set the subtitle language separate from the app language.",
+      "version" : "12.4",
+      "versionDate" : "2023-05-08",
+      "versionDescription" : "• Updated MovieBoxPro to v12.4",
       "versions" : [
+        {
+          "date" : "2023-05-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.4.ipa",
+          "localizedDescription" : "• Updated MovieBoxPro to v12.4",
+          "size" : 131000000,
+          "version" : "12.4"
+        },
         {
           "date" : "2023-03-10",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.3.ipa",
@@ -1228,13 +1235,13 @@
     },
     {
       "appID" : "com.xd.mbp31",
-      "caption" : "MovieBoxPro, the best online movie streaming platform has been added to the source!",
-      "date" : "2023-04-04",
-      "identifier" : "movieboxpro-added",
+      "caption" : "MovieBoxPro has been updated to the latest version, click here for more info",
+      "date" : "2023-05-08",
+      "identifier" : "movieboxpro-updated",
       "imageURL" : "https://i0.wp.com/lifeatthemovies.com/wp-content/uploads/2016/07/2011.png?resize=672%2C372&w=640",
-      "notify" : false,
+      "notify" : true,
       "tintColor" : "3f3e43",
-      "title" : "MovieBoxPro Added!"
+      "title" : "MovieBoxPro Updated!"
     },
     {
       "appID" : "com.marcuszhou.NineAnimator",
