@@ -250,7 +250,7 @@
     {
       "bundleIdentifier" : "ch.b-eng.tor",
       "developerName" : "Syto203",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TOR.Browser.Cracked.v3.2.10.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TOR.Browser.Cracked.v3.2.15.ipa",
       "iconURL" : "https://img.ipa4fun.com/f7/af/eb/1336941722-logo.webp",
       "localizedDescription" : "Tweak Features: Premium Features Enabled\n\nOrNET Browser is the best FREE app featuring a high performance TOR powered browser. OrNET Browser has been engineered on the latest technology of tor network which has been designed for faster and more secure access to dark web as well as unblock any website.\n\nCharacteristic to TOR, your browsing history or search terms are not archived/saved or indexed by search engines (DuckDuckGo.com). The TOR Network protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your browsing history as well as your physical location. A must app to use on public Wifi networks.",
       "name" : "TOR Browser++",
@@ -259,13 +259,20 @@
         "https://img.ipa4fun.com/f7/af/eb/1336941722-screenshot-2.webp",
         "https://img.ipa4fun.com/f7/af/eb/1336941722-screenshot-3.webp"
       ],
-      "size" : 68900000,
+      "size" : 111000000,
       "subtitle" : "Premium Features ",
       "tintColor" : "693982",
-      "version" : "3.2.10",
-      "versionDate" : "2023-04-04",
-      "versionDescription" : "• Updated TOR Browser to v3.2.10",
+      "version" : "3.2.15",
+      "versionDate" : "2023-05-08",
+      "versionDescription" : "• Updated TOR Browser to v3.2.15",
       "versions" : [
+        {
+          "date" : "2023-05-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TOR.Browser.Cracked.v3.2.15.ipa",
+          "localizedDescription" : "• Updated TOR Browser to v3.2.15",
+          "size" : 111000000,
+          "version" : "3.2.15"
+        },
         {
           "date" : "2023-04-04",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TOR.Browser.Cracked.v3.2.10.ipa",
@@ -1286,13 +1293,13 @@
     },
     {
       "appID" : "ch.b-eng.tor",
-      "caption" : "TOR Browser with premium features enabled has been added to the source!",
-      "date" : "2023-04-04",
-      "identifier" : "torbrowser-added",
+      "caption" : "TOR Browser has been updated to the latest version, click here for more info",
+      "date" : "2023-05-08",
+      "identifier" : "torbrowser-updated",
       "imageURL" : "https://www.bleepstatic.com/content/hl-images/2022/07/15/white.png",
       "notify" : false,
       "tintColor" : "693982",
-      "title" : "Tor Browser++ Added!"
+      "title" : "Tor Browser++ Updated!"
     },
     {
       "appID" : "net.whatsapp.WhatsApp",
