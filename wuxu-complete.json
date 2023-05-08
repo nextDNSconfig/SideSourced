@@ -4,7 +4,7 @@
   "subtitle" : "The Most Up-To-Date IPA Library on AltStore.",
   "description" : "Welcome to WuXu’s Library!\n\nThis source contains all your favourite emulators, games, jailbreaks, utilities, and more!\n\nThis highly organised AltSource is made up of many different tweaked apps that I, myself, inject each and every deb/dylib (tweak) into. While making sure everything is working perfectly and to my standards.\n\nThis source is updated 2-3 times a week, or more depending on the urgency. But I am working on automating updates through a python bot which I am close to completing.\n\nIf you enjoy my source please spread the word, this is essentially an updated QuarkSources, and I would like it to be as big, if not, bigger!\n\nTo make requests, get support or chat with other users, join the discord server! https://discord.gg/nKXsSdbEDc\n\nWuXu’s Sources Official Website: https://wuxu1.github.io/",
   "iconURL" : "https://i.imgur.com/g17kMl9.png",
-  "headerURL": "https://i.pinimg.com/736x/2e/4c/7c/2e4c7cc6b2a52a3113b6f1328d9d1e97.jpg",
+  "headerURL" : "https://i.pinimg.com/736x/2e/4c/7c/2e4c7cc6b2a52a3113b6f1328d9d1e97.jpg",
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
   "featuredApps" : [
@@ -16,25 +16,25 @@
   ],
   "apps" : [
     {
-      "beta": false,
-      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
-      "developerName": "DebianArch",
-      "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-      "iconURL": "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
-      "localizedDescription": "NOTE: The developer does not change the version (1.0), so if you see new features online or if the app stops working, uninstall and reinstall the app. The download link on AltStore is from the official website so what you download here will always be the latest.\n\nAlso, getting scarlet from AltStore means that you will never lose the app if you keep refreshing - downloading it from the official website will likely result in the certificate being revoked and you have to wait for it to be resigned.\n\n\nWhy Us?\n\nScarlet offers a new community for developers to submit their paid apps, allowing users to seamlessly protect themselves from revokes. Our goal getting into Scarlet is to give everybody access to a store that doesn't tell people to do the workarounds. Instead, we created an app with every user in mind to bring a smooth experience.\n\n\nTrue repo system\n\nScarlet offers the first ever true repo system for all users.\nWhat is a true repo system ? - Our repo system supports jailbreak repos and jailed users can make use of some features added to the side.\nThese include 1. Force install jailbroken apps while jailed\n2. Automatically/Manually injects the tweak into the app it's meant for(no jailbreak required)\n\nWe include native repos specifically designed for Scarlet. Developers have the ability to choose a dylibs/debs to inject into the specificed app.\n \n\nMade by Pros\n\nScarlet's GUI was designed by Xeviks.\nHe has brought color, vibrancy, movement, and modernity - yet keeping the look simplistic.\nDebianArch is the solo-dev of the Scarlet app and is bringing innovative features to reshape the community that was left unchanged. ",
-      "name": "Scarlet",
-      "screenshotURLs": [
+      "beta" : false,
+      "bundleIdentifier" : "com.DebianArch.ScarletPersonalXYZZZZ",
+      "developerName" : "DebianArch",
+      "downloadURL" : "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+      "iconURL" : "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
+      "localizedDescription" : "NOTE: The developer does not change the version (1.0), so if you see new features online or if the app stops working, uninstall and reinstall the app. The download link on AltStore is from the official website so what you download here will always be the latest.\n\nAlso, getting scarlet from AltStore means that you will never lose the app if you keep refreshing - downloading it from the official website will likely result in the certificate being revoked and you have to wait for it to be resigned.\n\n\nWhy Us?\n\nScarlet offers a new community for developers to submit their paid apps, allowing users to seamlessly protect themselves from revokes. Our goal getting into Scarlet is to give everybody access to a store that doesn't tell people to do the workarounds. Instead, we created an app with every user in mind to bring a smooth experience.\n\n\nTrue repo system\n\nScarlet offers the first ever true repo system for all users.\nWhat is a true repo system ? - Our repo system supports jailbreak repos and jailed users can make use of some features added to the side.\nThese include 1. Force install jailbroken apps while jailed\n2. Automatically/Manually injects the tweak into the app it's meant for(no jailbreak required)\n\nWe include native repos specifically designed for Scarlet. Developers have the ability to choose a dylibs/debs to inject into the specificed app.\n \n\nMade by Pros\n\nScarlet's GUI was designed by Xeviks.\nHe has brought color, vibrancy, movement, and modernity - yet keeping the look simplistic.\nDebianArch is the solo-dev of the Scarlet app and is bringing innovative features to reshape the community that was left unchanged. ",
+      "name" : "Scarlet",
+      "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900001033-iphone-0-1669967899.png",
         "https://static.appdb.to/images/cydia-1900001033-iphone-1-1669967899.png",
         "https://static.appdb.to/images/cydia-1900001033-iphone-2-1669967900.png",
         "https://static.appdb.to/images/cydia-1900001033-iphone-3-1669967900.png"
       ],
-      "size": 15500000,
-      "subtitle": "Get more than an app store. Get Scarlet.",
-      "tintColor": "8d2229",
-      "version": "1.0",
-      "versionDate": "2023-04-24",
-      "versionDescription": "• Added Ability to import/Export app backups.\n• Added ability to modify IPA (Add/Remove Tweaks etc.)"
+      "size" : 15500000,
+      "subtitle" : "Get more than an app store. Get Scarlet.",
+      "tintColor" : "8d2229",
+      "version" : "1.0",
+      "versionDate" : "2023-04-24",
+      "versionDescription" : "• Added Ability to import/Export app backups.\n• Added ability to modify IPA (Add/Remove Tweaks etc.)"
     },
     {
       "bundleIdentifier" : "org.coolstar.odyssey",
@@ -464,14 +464,14 @@
   ],
   "news" : [
     {
-      "appID": "com.DebianArch.ScarletPersonalXYZZZ",
-      "caption": "Scarlet, a popular 3rd party App Store, has been added to the source! Don't forget to add my source ;)",
-      "date": "2023-04-24",
-      "identifier": "scarlet-added",
-      "imageURL": "https://onejailbreak.com/site/assets/files/1478/scarlet.766x0.jpg",
-      "notify": false,
-      "tintColor": "8d2229",
-      "title": "Scarlet Added!"
+      "appID" : "com.DebianArch.ScarletPersonalXYZZZ",
+      "caption" : "Scarlet, a popular 3rd party App Store, has been added to the source! Don't forget to add my source ;)",
+      "date" : "2023-04-24",
+      "identifier" : "scarlet-added",
+      "imageURL" : "https://onejailbreak.com/site/assets/files/1478/scarlet.766x0.jpg",
+      "notify" : false,
+      "tintColor" : "8d2229",
+      "title" : "Scarlet Added!"
     },
     {
       "appID" : "org.coolstar.odyssey",
