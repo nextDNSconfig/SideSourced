@@ -607,7 +607,7 @@
     {
       "bundleIdentifier" : "com.facebook.Facebook",
       "developerName" : "Michael Lema",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v404.0.+.Wolf.v2.1.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v411.0.+.Wolf.v2.1.ipa",
       "iconURL" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.webp",
       "localizedDescription" : "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n• Disable marking messages as seen\n• Disable typing status in messages\n• No feed ads\n\nStory\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• No story ads\n\nFeed\n• Save Feed videos by long-pressing the video\n\nAnd more!",
       "minOSVersion" : "13.4",
@@ -620,13 +620,21 @@
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
       ],
-      "size" : 133000000,
+      "size" : 121000000,
       "subtitle" : "Facebook with a number of new features!",
       "tintColor" : "034ea0",
-      "version" : "404.0",
-      "versionDate" : "2023-03-29",
-      "versionDescription" : "• Updated Facebook to v404.0",
+      "version" : "411.0",
+      "versionDate" : "2023-05-08",
+      "versionDescription" : "• Updated Facebook to v411.0",
       "versions" : [
+        {
+          "date" : "2023-05-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v411.0.+.Wolf.v2.1.ipa",
+          "localizedDescription" : "• Updated Facebook to v411.0",
+          "minOSVersion" : "13.4",
+          "size" : 121000000,
+          "version" : "411.0"
+        },
         {
           "date" : "2023-03-29",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v404.0.+.Wolf.v2.1.ipa",
@@ -1331,7 +1339,7 @@
     {
       "appID" : "com.facebook.Facebook",
       "caption" : "Facebook has been updated to the latest version, click here for more info",
-      "date" : "2023-03-29",
+      "date" : "2023-05-08",
       "identifier" : "facebook-updated",
       "imageURL" : "https://malmo.se/images/18.d3f124617dc8953686e20d/1648651425712/FB_ikon2.png",
       "notify" : true,
