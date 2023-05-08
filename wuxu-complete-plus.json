@@ -50,10 +50,9 @@
     {
       "bundleIdentifier" : "com.google.ios.youtubemusic",
       "developerName" : "Ginsudev",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.54.2.+.YTMusicUltimate.v1.3.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v6.01.2.+.YTMusicUltimate.v1.3.6.ipa",
       "iconURL" : "https://img.ipa4fun.com/d7/1a/73/1017492454-logo.webp",
       "localizedDescription" : "YouTube Music injected with YTMusicUltimate\n\nFeatures:\n\n• No ads\n• Play music in background\n• Show the status bar in the player\n• OLED dark theme\n• OLED dark keyboard",
-      "minOSVersion" : "10.0",
       "name" : "YouTube Music++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-1.webp",
@@ -62,13 +61,20 @@
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-4.webp",
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-5.webp"
       ],
-      "size" : 6180000,
+      "size" : 5680000,
       "subtitle" : "Youtube Music with free premium",
       "tintColor" : "ae0304",
-      "version" : "5.54.2",
-      "versionDate" : "2023-04-27",
-      "versionDescription" : "• Updated YouTube Music to v5.54.2\n• Updated YTMusicUltimate to v1.3",
+      "version" : "6.01.2",
+      "versionDate" : "2023-05-08",
+      "versionDescription" : "• Updated YouTube Music to v6.01.2\n• Updated YTMusicUltimate to v1.3.6",
       "versions" : [
+        {
+          "date" : "2023-05-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v6.01.2.+.YTMusicUltimate.v1.3.6.ipa",
+          "localizedDescription" : "• Updated YouTube Music to v6.01.2\n• Updated YTMusicUltimate to v1.3.6",
+          "size" : 5680000,
+          "version" : "6.01.2"
+        },
         {
           "date" : "2023-04-27",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v5.54.2.+.YTMusicUltimate.v1.3.ipa",
@@ -1231,7 +1237,7 @@
     {
       "appID" : "com.google.ios.youtubemusic",
       "caption" : "YouTube Music has been updated to the latest version, click here fore more info",
-      "date" : "2023-04-27",
+      "date" : "2023-05-08",
       "identifier" : "ytmusic-updated",
       "imageURL" : "https://ichef.bbci.co.uk/news/976/cpsprodpb/12CF0/production/_113804077_ytm.png",
       "notify" : true,
