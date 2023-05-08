@@ -327,12 +327,11 @@
     },
     {
       "bundleIdentifier" : "tv.twitch",
-      "developerName" : "Hearsedev",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v15.0.+.TwitchAdBlock.v0.0.9-3.+.TwitchLoginFix.v0.0.3.ipa",
+      "developerName" : "dvntm",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v15.1.+.TwitchAdBlock.v0.0.9-3.+.TwitchLoginFix.v0.0.3.ipa",
       "iconURL" : "https://img.ipa4fun.com/d7/24/dc/460177396-logo.webp",
       "localizedDescription" : "NOTE: The AdBlocker only works if you select Ad Block Proxy under the TwitchAdBlock Settings Panel!\n\n\n\nExperience the games you love like never before! Watch live streams and chat with devoted gamers around the world.\n\nCatch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.\n\n\nTwitch: TOP 3 FEATURES\n\n1. Watch live videos of your favorite games, from blockbuster titles like Minecraft and League of Legends to little-known indie gems.\n\n2. Connect with other gamers in real time with full-featured live chat.\n\n3. Go live with a touch and share your passion with the world!\n\n\nBe a part of the leading social gaming platform on iPhone and iPad! With esports events, art, cooking, music and much more on demand, there’s something for everyone on Twitch.\n\n+ Watch interactive live shows from the likes of Sony, Microsoft, Blizzard and Riot Games.\n\n+ Tune into unique programming, from music festival live streams to exclusive video game events.\n\n+ Discover new content with ease thanks to simple and intuitive navigation.\n\n+ Switch to Dark Mode for those late night viewing sessions.\n\nJoin the millions of hardcore and casual gamers who have found a place to connect over the games they love. Take your passion to the next level with Twitch!\n\n\nFor feedback and assistance, please visit our Support Center: https://help.twitch.tv\n\nPlease note: This app features Nielsen’s proprietary measurement software which contributes to market research, like Nielsen’s TV Ratings. Please see http://priv-policy.imrworldwide.com/priv/mobile/us/en/optout.html for more information",
-      "minOSVersion" : "10.0",
-      "name" : "Twitch++ (No Ads)",
+      "name" : "Twitch++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-1.webp",
         "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-2.webp",
@@ -341,13 +340,20 @@
         "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-5.webp",
         "https://img.ipa4fun.com/d7/24/dc/460177396-screenshot-6.webp"
       ],
-      "size" : 20200000,
+      "size" : 58900000,
       "subtitle" : "Ad-Free Twitch!",
       "tintColor" : "6730af",
-      "version" : "15.0",
-      "versionDate" : "2023-04-27",
-      "versionDescription" : "• Updated Twitch to v15.0\n• TwitchAdBlock v0.0.9-3\n• Added TwitchLoginFix v0.0.3\n• Removed Toolbox v2.4.2 (Crashing)",
+      "version" : "15.1",
+      "versionDate" : "2023-05-08",
+      "versionDescription" : "• Updated Twitch to v15.1",
       "versions" : [
+        {
+          "date" : "2023-05-08",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v15.1.+.TwitchAdBlock.v0.0.9-3.+.TwitchLoginFix.v0.0.3.ipa",
+          "localizedDescription" : "• Updated Twitch to v15.1",
+          "size" : 58900000,
+          "version" : "15.1"
+        },
         {
           "date" : "2023-04-27",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v15.0.+.TwitchAdBlock.v0.0.9-3.+.TwitchLoginFix.v0.0.3.ipa",
@@ -1281,13 +1287,13 @@
     },
     {
       "appID" : "tv.twitch",
-      "caption" : "Twitch is now injected with a single tweak that bliocks ads, the previous tweak (toolbox) has been removed due to crashing. Click here for more info",
-      "date" : "2023-04-27",
+      "caption" : "Twitch has been updated to the latest version, click here for more info",
+      "date" : "2023-05-08",
       "identifier" : "twitch-updated",
       "imageURL" : "https://blog.twitch.tv/assets/uploads/generic-email-header-1.jpg",
       "notify" : true,
       "tintColor" : "6730af",
-      "title" : "Twitch++ (No Ads) Updated!"
+      "title" : "Twitch++ Updated!"
     },
     {
       "appID" : "com.hammerandchisel.discord",
