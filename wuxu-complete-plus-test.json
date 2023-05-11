@@ -1,6 +1,6 @@
 {
   "name": "WuXu's Library++",
-  "identifier": "com.wuxulibs.wuxuslibrary++",
+  "identifier": "com.wuxulibs.wuxuslibraryplus",
   "apps": [
         {
             "bundleIdentifier": "com.facebook.Messenger",
