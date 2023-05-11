@@ -67,7 +67,7 @@
     {
       "bundleIdentifier" : "org.coolstar.taurine",
       "developerName" : "Odyssey Team",
-      "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Taurine.Jailbreak.v1.1.6.ipa",
       "iconURL" : "https://taurine.app/assets/images/icon.png",
       "localizedDescription" : "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
       "name" : "Taurine",
@@ -85,7 +85,7 @@
       "versions" : [
         {
           "date" : "2022-07-17",
-          "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Taurine.Jailbreak.v1.1.6.ipa",
           "localizedDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15",
           "size" : 31938370,
           "version" : "1.1.6"
