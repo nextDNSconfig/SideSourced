@@ -437,7 +437,7 @@
     {
       "bundleIdentifier" : "com.nianticlabs.pokemongo",
       "developerName" : "SpooferPro Team",
-      "downloadURL" : "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Pokemon.Go.v0.269.1.+.SpooferPro.v0.148.ipa",
       "iconURL" : "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/8f/0e/5e8f0e6c-3478-3bff-c4ad-03f543322688/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "localizedDescription" : "SpooferPro for POGO - iOS GPS Spoofer\n\nWith the tools from our Tweak, you can level up faster and catch the best Pokemon anywhere in the World.",
       "name" : "Pokemon Go (w/ SpooferPro)",
@@ -452,13 +452,20 @@
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-8.webp",
         "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-9.webp"
       ],
-      "size" : 115000000,
+      "size" : 118000000,
       "subtitle" : "Pokemon Go injected with SpooferPro",
       "tintColor" : "184f99",
-      "version" : "0.265.0",
-      "versionDate" : "2023-04-04",
-      "versionDescription" : "• Updated Pokemon Go to v0.265.0",
+      "version" : "0.269.1",
+      "versionDate" : "2023-05-11",
+      "versionDescription" : "• Updated Pokemon Go to v0.269.1",
       "versions" : [
+        {
+          "date" : "2023-05-11",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Pokemon.Go.v0.269.1.+.SpooferPro.v0.148.ipa",
+          "localizedDescription" : "• Updated Pokemon Go to v0.269.1",
+          "size" : 118000000,
+          "version" : "0.269.1"
+        },
         {
           "date" : "2023-04-04",
           "downloadURL" : "https://cdn.spooferpro.com/SpooferPro-0.265.0-0.137.ipa",
@@ -592,13 +599,13 @@
     },
     {
       "appID" : "com.nianticlabs.pokemongo",
-      "caption" : "Pokemon Go injected with SpooferPro has been added to the source!",
-      "date" : "2023-04-04",
-      "identifier" : "pokemongo-added",
+      "caption" : "Pokemon Go has been updated to the latest version, click here for more info",
+      "date" : "2023-05-11",
+      "identifier" : "pokemongo-updated",
       "imageURL" : "https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg",
-      "notify" : false,
+      "notify" : true,
       "tintColor" : "184f99",
-      "title" : "Pokemon Go (w/ SpooferPro) Added!"
+      "title" : "Pokemon Go (w/ SpooferPro) Updated!"
     },
     {
       "appID" : "com.leemin.Cowabunga",
