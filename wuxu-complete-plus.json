@@ -285,7 +285,7 @@
     {
       "bundleIdentifier" : "net.whatsapp.WhatsApp",
       "developerName" : "Fouad Raheb",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.Tweaked.v23.8.78.Restore.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.9.77.+.Watusi-3.v1.1.55.+.Stalky.v4.1.19.+.OnlineNotify.v3.4.1.ipa",
       "iconURL" : "https://img.ipa4fun.com/8f/ac/c3/310633997-logo.webp",
       "localizedDescription" : "TO RESTORE CHATS PLEASE COPY LINK BELOW AND READ TUTORIAL\nhttps://bit.ly/Watusi-Manpreet\n\nTweaks:\n\n• Watusi 3 v1.1.55 - The all-in-one tweak for WhatsApp Messenger!\n• OnlineNotify v3.4.0 - Track your friends on WhatsApp Messenger\n• Stalky v4.1 - Track & download your contacts latest profile & statuses updates on WhatsApp\n\n\nWhat's new in Watusi 3:\n\nNew Features:\n\n• Added a new statuses bar to display all your contacts current statuses on top of the chats list\n• Added option to view and display your contacts statuses on top of their profile pictures in chats list\n• Created Status Archive which will save all your uploaded statuses and their viewers\n• Added option to filter/sort the chats list, available in the new Chats List Add-ons section\n• Added option to manage WhatsApp tabs from which you can hide any tab or add custom ones like Favorites and Groups. (Removed Replace Camera Tab feature since it can now be done using this new feature)\n• Added new section to import/download custom tones to be used for your contacts notifications from their contact info page\n• Added new u201cChat Detailsu201d section inside contact and group info pages to get more details and analytics about the chat\n• Added a new section for Contacts Spoofing which allows you to hide or use a custom profile picture for your contact as well as choosing a different name inside WhatsApp\n• Re-write Auto Reply section with many new features and the option to get the message from a web request\n• Added option to automatically generate multiple broadcast lists from your WhatsApp contacts\n• Added option to disable Delivery Receipts for specific contacts only just like read receipts. (You would still have a delay in messages if you have a lot of pending messages waiting to be marked as delivered on the server)\n• Added option to hide all profile pictures from chats list (available in User Interface section)\n• Added option to hide WhatsApp Web section from settings (available in User Interface section)\n• New Share Sheet Actions\n\n• Added option to send photos & videos as documents which will allow you to send them in full quality\n• Added option to take a long screenshot for a chat (Available in share sheet actions)\nImprovements\n\n• Added whitelist option to Statuses' Disable Mark Viewed feature to allow sending viewed receipts for certain contacts\n• Added new option to mute notifications from chats locked in the archive using u201cArchive Locku201d feature\n• Audio bar will now show a progress bar of the currently playing audio\n• Swipe for Contact Info will now add a new button instead of replacing the Unread button\n• Added haptic feedback on status controls and other places\n\n• The package includes a toggle for Control Center, download CCSupport package and activate it from your Control Center settings.\n\n• The tweak is available in English, Arabic, German, Spanish, French, Italian, Portuguese, Turkish, Hebrew.\n\n• Configure options from inside WhatsApp settings.",
       "name" : "WhatsApp++",
@@ -296,13 +296,20 @@
         "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-4.webp",
         "https://img.ipa4fun.com/8f/ac/c3/310633997-screenshot-5.webp"
       ],
-      "size" : 68000000,
+      "size" : 87400000,
       "subtitle" : "An all-in-one tweak for WhatsApp messenger",
       "tintColor" : "168d2b",
-      "version" : "23.8.78",
-      "versionDate" : "2023-05-08",
-      "versionDescription" : "• Updated WhatsApp to v23.8.78",
+      "version" : "23.9.77",
+      "versionDate" : "2023-05-11",
+      "versionDescription" : "• Updated WhatsApp to v23.9.77",
       "versions" : [
+        {
+          "date" : "2023-05-11",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.v23.9.77.+.Watusi-3.v1.1.55.+.Stalky.v4.1.19.+.OnlineNotify.v3.4.1.ipa",
+          "localizedDescription" : "• Updated WhatsApp to v23.9.77",
+          "size" : 87400000,
+          "version" : "23.9.77"
+        },
         {
           "date" : "2023-05-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/WhatsApp.Tweaked.v23.8.78.Restore.ipa",
@@ -1304,7 +1311,7 @@
     {
       "appID" : "net.whatsapp.WhatsApp",
       "caption" : "WhatsApp has been updated to the latest version, click here for more info",
-      "date" : "2023-05-08",
+      "date" : "2023-05-11",
       "identifier" : "whatsapp-updated",
       "imageURL" : "https://seuladogeek.com.br/wp-content/uploads/2022/02/WhatsApp-Logo-800x450.png",
       "notify" : true,
