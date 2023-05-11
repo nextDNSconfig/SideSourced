@@ -1482,6 +1482,16 @@
       "title" : "Deezer++ Added! - Last working version with tweak"
     },
     {
+      "appID" : "com.spotify.client",
+      "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
+      "date" : "2023-04-24",
+      "identifier" : "tweak-added-spotify",
+      "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
+      "notify" : true,
+      "tintColor" : "1c843c",
+      "title" : "New Tweak Added To Spotify!"
+    },
+    {
       "appID" : "",
       "caption" : "Hello everyone! I am currently doing my exams, so I am unable to add/update apps as much. I am aware some apps are not working and images are missing, I'll fix this as soon as I can. I'll be back properly on the 25th! Click here to join the discord for news!",
       "date" : "2023-05-07",
@@ -1491,16 +1501,6 @@
       "tintColor" : "8A28F7",
       "title" : "Temporarily Inactive",
       "url" : "https://bit.ly/wuxuslibrary-discord"
-    },
-    {
-      "appID" : "com.spotify.client",
-      "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
-      "date" : "2023-04-24",
-      "identifier" : "tweak-added-spotify",
-      "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
-      "notify" : true,
-      "tintColor" : "1c843c",
-      "title" : "New Tweak Added To Spotify!"
     },
     {
       "caption" : "I have created both of my sources in one for scarlet! Copy this link - https://bit.ly/wuxuslibrary-scarlet - and paste it into the app! Or click here, click share, copy, then paste into scarlet!",
