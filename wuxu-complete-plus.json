@@ -136,10 +136,9 @@
     {
       "bundleIdentifier" : "com.reddit.Reddit",
       "developerName" : "Level3tjg ",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.Tweaked.v2023.16.0.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.Tweaked.v2023.18.0.ipa",
       "iconURL" : "https://img.ipa4fun.com/03/55/72/1064216828-logo.webp",
       "localizedDescription" : "Injected Tweaks:\n\n• RedditFilter by level3tjg - Filter out unwated content from your Reddit feed\n\n• RedditSideloadFix by level3tjg - Fix crash on start when sideloading Reddit app\n\n• RedditOldDiscovery by level3tjg - Disable the new Reddit discovery tab\n\n• Riskkit by AppleCraxkhead - Unblurs NSFW and Spoiler posts on Reddit and Apollo\n\n• RedditCache by Wh0ba - Diplays the cache size on the clear cache label on the official reddit app\n\n• RedditCacheClearer by level3tjg - Clear the reddit video cache every time you open the app to save space\n\n• RedditUndoScrollUp by aleksilassila - Second status bar tap scrolls you back where you were",
-      "minOSVersion" : "10.0",
       "name" : "Reddit++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-1.webp",
@@ -148,13 +147,20 @@
         "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-4.webp",
         "https://img.ipa4fun.com/03/55/72/1064216828-screenshot-5.webp"
       ],
-      "size" : 107000000,
+      "size" : 117000000,
       "subtitle" : "Reddit with a number of tweaks!",
       "tintColor" : "b03003",
-      "version" : "2023.16.0",
-      "versionDate" : "2023-04-27",
-      "versionDescription" : "• Updated Reddit to 2023.16.0\n\nAdded:\n\n• RedditUndoScrollUp by Aleksi Lassila (Double tap the status bar to return back to where you were)\n• RedditCache by Wh0ba (Show cache size in settings)\n• RedditCacheClearer by level3tjg (Clears Reddit cache every time you open the app)",
+      "version" : "2023.18.0",
+      "versionDate" : "2023-05-12",
+      "versionDescription" : "• Updated Reddit to 2023.18.0",
       "versions" : [
+        {
+          "date" : "2023-05-12",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.Tweaked.v2023.18.0.ipa",
+          "localizedDescription" : "• Updated Reddit to 2023.18.0",
+          "size" : 117000000,
+          "version" : "2023.18.0"
+        },
         {
           "date" : "2023-04-27",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.Tweaked.v2023.16.0.ipa",
@@ -1303,7 +1309,7 @@
     {
       "appID" : "com.reddit.Reddit",
       "caption" : "Reddit has been updated to the latest version, click here for more info",
-      "date" : "2023-04-27",
+      "date" : "2023-05-12",
       "identifier" : "reddit-updated",
       "imageURL" : "https://media.wired.com/photos/5954a1b2be605811a2fdd8e7/191:100/w_1280,c_limit/reddit-alien-red.jpg",
       "notify" : true,
