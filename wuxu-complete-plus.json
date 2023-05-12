@@ -9,7 +9,7 @@
   "tintColor" : "d81a14",
   "featuredApps" : [
     "com.spotify.client",
-    "com.google.ios.youtube-uyou+",
+    "com.wuxulibs.uyouplus",
     "com.zhiliaoapp.musically",
     "com.burbn.instagram",
     "jb.zini.tevi"
@@ -1111,13 +1111,12 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.wuxulibs.ytkillerplus",
+      "bundleIdentifier" : "com.wuxulibs.ytkiller",
       "developerName" : "iKarwan",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTK+.v2.2.11.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.01.2.+.YTKiller+.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "localizedDescription" : "Features:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• oled mode better experiance dark mode\n• Customize tab bar layout\n• AppLock Settings\n• and many more settings..\n• supporting iPadOS ..",
-      "minOSVersion" : "10.0",
-      "name" : "YouTube (w/ YTKiller+)",
+      "localizedDescription" : "This is a cracked version of YouTube Killer. I’m only using this until I find a free YouTube tweak that isn’t uYouPlus and is actually updated.\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
+      "name" : "YouTube (w/ YTKiller)",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/0a/8d/540a8daf-4cc2-397a-e1b1-90b859947b44/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/2048x0w.jpg",
@@ -1125,13 +1124,20 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size" : 87300000,
+      "size" : 92500000,
       "subtitle" : "A whole new YouTube experience!",
       "tintColor" : "af0303",
-      "version" : "18.17.2",
-      "versionDate" : "2023-05-11",
-      "versionDescription" : "• YouTube updated to v18.17.2",
+      "version" : "18.01.2",
+      "versionDate" : "2023-05-12",
+      "versionDescription" : "• YouTube updated to v18.01.2",
       "versions" : [
+        {
+          "date" : "2023-05-12",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.01.2.+.YTKiller+.ipa",
+          "localizedDescription" : "• YouTube updated to v18.01.2",
+          "size" : 92500000,
+          "version" : "18.01.2"
+        },
         {
           "date" : "2023-05-11",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTK+.v2.2.11.ipa",
@@ -1508,14 +1514,14 @@
       "title" : "New Tweak Added to SouncCloud++!"
     },
     {
-      "appID" : "com.wuxulibs.ytkillerplus",
-      "caption" : "YTKillerPlus, a more up-to-date YouTube tweak, has been added to the source!",
+      "appID" : "com.wuxulibs.ytkiller",
+      "caption" : "A cracked version of YouTube Killer has been added to the source!",
       "date" : "2023-05-11",
       "identifier" : "youtube-ytkplus-updated",
-      "imageURL" : "https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg",
+      "imageURL" : "https://static.toiimg.com/thumb/msid-98394478,width-400,resizemode-4/98394478.jpg",
       "notify" : true,
       "tintColor" : "af0303",
-      "title" : "YouTube (w/YTKiller+) Added!"
+      "title" : "YouTube (w/ YTKiller) Added!"
     },
     {
       "appID" : "com.wuxulibs.uyouplus",
