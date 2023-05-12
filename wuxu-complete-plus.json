@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.google.ios.youtube-ytk+",
+      "bundleIdentifier" : "com.wuxulibs.ytkillerplus",
       "developerName" : "iKarwan",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTK+.v2.2.11.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
@@ -1126,7 +1126,7 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.google.ios.youtube-uyou+",
+      "bundleIdentifier" : "com.wuxulibs.uyouplus",
       "developerName" : "qnblackcat",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.14.1.+.uYouPlus.v3.0.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
@@ -1491,7 +1491,7 @@
       "title" : "New Tweak Added to SouncCloud++!"
     },
     {
-      "appID" : "com.google.ios.youtube-ytk+",
+      "appID" : "com.wuxulibs.ytkillerplus",
       "caption" : "YTKillerPlus, a more up-to-date YouTube tweak, has been added to the source!",
       "date" : "2023-05-11",
       "identifier" : "youtube-ytkplus-updated",
@@ -1501,7 +1501,7 @@
       "title" : "YouTube (w/YTKiller+) Added!"
     },
     {
-      "appID" : "com.google.ios.youtube-uyou+",
+      "appID" : "com.wuxulibs.uyouplus",
       "caption" : "If you have installed a later version, it is broken and you will not be able to update - delete original and reinstall",
       "date" : "2023-05-08",
       "identifier" : "youtube-updated",
