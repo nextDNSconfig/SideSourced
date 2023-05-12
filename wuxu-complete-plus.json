@@ -1198,7 +1198,7 @@
     },
     {
       "bundleIdentifier" : "com.wuxulibs.ytkiller",
-      "developerName" : "iKarwan",
+      "developerName" : "Haidar Phantom",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.01.2.+.YTKiller+.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
       "localizedDescription" : "This is a cracked version of YouTube Killer. I’m only using this until I find a free YouTube tweak that isn’t uYouPlus and is actually updated.\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
@@ -1550,7 +1550,7 @@
       "identifier" : "youtube-ytmurderer-added",
       "imageURL" : "https://i.imgur.com/tH7nH2r.png",
       "notify" : true,
-      "tintColor" : "af0303",
+      "tintColor" : "040404",
       "title" : "YouTube (w/ YTMurderer) Added!"
     },
     {
@@ -1570,7 +1570,7 @@
       "identifier" : "youtube-ytk-added",
       "imageURL" : "https://static.toiimg.com/thumb/msid-98394478,width-400,resizemode-4/98394478.jpg",
       "notify" : true,
-      "tintColor" : "af0303",
+      "tintColor" : "181c3b",
       "title" : "YouTube (w/ YTKiller) Added!"
     },
     {
