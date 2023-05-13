@@ -1576,14 +1576,14 @@
       "title" : "YouTube (w/ uYou+) Updated - uYouPlus v3.0 Released!"
     },
     {
-      "appID" : "com.wuxulibs.ytkiller",
-      "caption" : "A cracked version of YouTube Killer has been added to the source!",
+      "appID" : "com.wuxulibs.ytkillerplus",
+      "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
       "date" : "2023-05-12",
-      "identifier" : "youtube-ytk-added",
+      "identifier" : "youtube-ytkplus-added",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
       "notify" : true,
       "tintColor" : "131313",
-      "title" : "YouTube (w/ YTKiller) Added!"
+      "title" : "YouTube (w/ YTKillerPlus+) Added!"
     },
     {
       "appID" : "com.spotify.client",
