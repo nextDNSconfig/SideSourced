@@ -16,6 +16,38 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.antique.emuThreeDS",
+      "developerName" : "Antique",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/emuThreeDS.v1.0.5.2.ipa",
+      "iconURL" : "https://i.imgur.com/5wBkakf.png",
+      "localizedDescription" : "Nintendo 3DS emulator for Apple devices based on Citra.",
+      "name" : "emuThreeDS",
+      "screenshotURLs" : [
+        "https://play-lh.googleusercontent.com/6pv18OLDP58bZLWH0RZMw5ZcYAYyEFmlA1sqX0BlrevPLWhTO7C0ua0X3sNiOlrkM1ZQ=w1052-h592-rw",
+        "https://play-lh.googleusercontent.com/doTVi2IWLPKGVCz2EeZKNEDOkjxIgbridWQiKqVgw7yhc0OQXNR7CvmcglgNv1M4kAQ=w1052-h592-rw",
+        "https://play-lh.googleusercontent.com/FZakW5LiR3dJen206_ZlIoxfICxFNX-f5lpxcYtouA5VShZtsZvCi5bEicSN_dLeUQ=w1052-h592-rw",
+        "https://play-lh.googleusercontent.com/i3Fdd7SIrXYH_RIsypS8bwKnqq808h8XxO4fg3eYIrIqLg2bkf-Vm7LfBNDKOnLENQ=w1052-h592-rw",
+        "https://play-lh.googleusercontent.com/UhUl8DQRlWiITbsrYEYb89rrvpALAUn7Wgyb6PKCjgiG5gF2WHL7piRBf2enCZZWwQ=w1052-h592-rw",
+        "https://play-lh.googleusercontent.com/uxwledxQN-64HfwyfbUFXa7pcgHTy_78iiKXZwArALZqhpR1PjWZfOGjdgwRCTgwnjY=w1052-h592-rw"
+      ],
+      "size" : 30300000,
+      "subtitle" : "A Nintendo 3DS emulator for IOS",
+      "tintColor" : "acaea8",
+      "version" : "1.0.5.2",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "Added:\n\n• Emulation menu to the in-game options button.\n• Pause and resume emulation option to the Emulation menu.\n• Preload textures by default to improve performance.\n• Portrait touch and drag support.\nReimplemented landscape mode for testing (screens will not be side-by-side yet).\n\nChanged:\n\n• Layout of the emulation to display below the status bar.\n• Increased priority of the emulation thread to squeeze out more performance.\n\nFixed:\n\n• Issue where the status bar would display black text on a black background.",
+      "versions" : [
+        {
+          "version" : "1.0.5.2",
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/emuThreeDS.v1.0.5.2.ipa",
+          "localizedDescription" : "Added:\n\n• Emulation menu to the in-game options button.\n• Pause and resume emulation option to the Emulation menu.\n• Preload textures by default to improve performance.\n• Portrait touch and drag support.\nReimplemented landscape mode for testing (screens will not be side-by-side yet).\n\nChanged:\n\n• Layout of the emulation to display below the status bar.\n• Increased priority of the emulation thread to squeeze out more performance.\n\nFixed:\n\n• Issue where the status bar would display black text on a black background.",
+          "size" : 30300000,
+          "absoluteVersion" : "1.0.5.2"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "org.ppsspp.ppsspp",
       "developerName" : "Henrik Rydgård",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PPSSPP.v1.15.3.ipa",
@@ -831,6 +863,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "com.antique.emuThreeDS",
+      "caption" : "emuThreeDS - A Nintendo 3DS emulator for IOS - Has been added to the source! Click here for more info",
+      "date" : "2023-05-14",
+      "identifier" : "emuthreeds-added",
+      "imageURL" : "https://4.bp.blogspot.com/-zABvcegZKew/XtFB_QkSdOI/AAAAAAAACzU/RoxaVZI6MFUn571uN_MxbngO3JuqIf5-wCLcBGAsYHQ/s1600/How-to-play-Nintendo-3ds-on-Android-using-citra.jpg",
+      "notify" : false,
+      "tintColor" : "acaea8",
+      "title" : "emuThreeDS Added!"
+    },
     {
       "appID" : "org.ppsspp.ppsspp",
       "caption" : "PPSSPP - the best and only PSP emulator for iOS - has been added to the source! Click here for more info",
