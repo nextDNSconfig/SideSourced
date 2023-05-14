@@ -8,7 +8,7 @@
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
   "featuredApps" : [
-    "com.spotify.client",
+    "com.wuxulibs.spotifyplus",
     "com.wuxulibs.uyouplus",
     "com.zhiliaoapp.musically",
     "com.burbn.instagram",
@@ -1138,12 +1138,11 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.spotify.client",
+      "bundleIdentifier" : "com.wuxulibs.spotifyplus",
       "developerName" : "iJulioVerne",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
       "localizedDescription" : "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables 'Very High' Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n\n\n\nNOTE\n\nThe ‘Car’ setting has been replaced with the sposify tweak settings so unfortunatley you cannot change car settings - all good tho, nobody use that shi anyways, and when car view enables when u in the car, just click ‘turn off car view’ at the top right corner.\n\n\nAll tweaks are injected by myself, WuXu, and ensured to be working perfectly ;)\n",
-      "minOSVersion" : "12.0",
       "name" : "Spotify++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
@@ -1168,7 +1167,6 @@
           "date" : "2023-04-24",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
           "localizedDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
-          "minOSVersion" : "12.0",
           "size" : 58000000,
           "version" : "8.6.42-0.2"
         },
@@ -1176,7 +1174,6 @@
           "date" : "2023-03-19",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
           "localizedDescription" : "• Added SpotifyNoPodcasts\n• Added SpotifyHighQuality\n• Added Spoticentre\n• Added TrueShuffle",
-          "minOSVersion" : "12.0",
           "size" : 47000000,
           "version" : "8.6.42-0.1"
         },
@@ -1184,7 +1181,6 @@
           "date" : "2023-02-13",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.6.42.+.Spotilife.v1.8.+.Sposify.v8.5.52.+.Volify.v2.0.2.+.SpotifyAllowSetting.v1.0.ipa",
           "localizedDescription" : "• Spotify Updated to v8.6.42\n• Spotilife Updated to v1.8\n• Sposify Updated to v8.5.52\n• Volify Updated to v2.0.2",
-          "minOSVersion" : "12.0",
           "size" : 47000000,
           "version" : "8.6.42"
         }
@@ -1539,7 +1535,7 @@
       "title" : "New Tweak For SouncCloud++!"
     },
     {
-      "appID" : "com.spotify.client",
+      "appID" : "com.wuxulibs.spotifyplus",
       "caption" : "Spotify has been updated to v8.6.42, along with all of its tweaks. Sadly, Spotify has patched Spotilife on all later versions - so this is the last version enabling premium.",
       "date" : "2023-02-12",
       "identifier" : "spotify-last-update",
@@ -1579,7 +1575,7 @@
       "title" : "YouTube (w/ YTKillerPlus+) Added!"
     },
     {
-      "appID" : "com.spotify.client",
+      "appID" : "com.wuxulibs.spotifyplus",
       "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
       "date" : "2023-04-24",
       "identifier" : "tweak-added-spotify",
