@@ -16,6 +16,37 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "mega.ios",
+      "developerName" : "Qamishlo",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Mega.Cracked.v9.8.ipa",
+      "iconURL" : "https://img.ipa4fun.com/d8/1b/83/706857885-icon.webp",
+      "localizedDescription" : "This is a cracked version of Mega, with no download/transfer limits enabled.\n\n\nMEGA provides user-controlled encrypted cloud storage that’s accessed with web browsers and dedicated apps for mobile devices. Unlike other cloud storage providers, your data is encrypted and decrypted by your client devices only and never by us.\n\n\nUpload files from your smartphone or tablet, then search, store, download, stream, view, share, rename or delete them any time, from any device, anywhere. Share folders with your contacts and see their updates in real time.\n\n\nMEGA’s strong and secure end-to-end encryption means we cannot access or reset your password. You MUST remember your password and make sure to back up your account Recovery Key. Losing your password and the account Recovery Key will result in lost access to your files.\n\n\nUse the included MEGA Secure Chat for end-to-end-encrypted communications, including video and audio calls, with total privacy. Chat history synchronises automatically across multiple devices and you can also easily add files to, and from your MEGA Cloud Drive.",
+      "name" : "Mega++",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/d8/1b/83/706857885-screenshot-1.webp",
+        "https://img.ipa4fun.com/d8/1b/83/706857885-screenshot-2.webp",
+        "https://img.ipa4fun.com/d8/1b/83/706857885-screenshot-3.webp",
+        "https://img.ipa4fun.com/d8/1b/83/706857885-screenshot-4.webp",
+        "https://img.ipa4fun.com/d8/1b/83/706857885-screenshot-5.webp",
+        "https://img.ipa4fun.com/d8/1b/83/706857885-screenshot-6.webp"
+      ],
+      "size" : 84700000,
+      "subtitle" : "MEGA Cracked with the pro features enabled",
+      "tintColor" : "a0151a",
+      "version" : "9.8",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Added Mega v9.8",
+      "versions" : [
+        {
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Mega.Cracked.v9.8.ipa",
+          "localizedDescription" : "• Added Mega v9.8",
+          "size" : 84700000,
+          "version" : "9.8"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.calm.calmapp",
       "developerName" : "Syto203",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Calm.Cracked.v6.14.ipa",
@@ -1336,6 +1367,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "mega.ios",
+      "caption" : "A cracked version of mega, with no download/transfer limits enabled, has been added to the source! Click here for more info",
+      "date" : "2023-05-14",
+      "identifier" : "mega-added",
+      "imageURL" : "https://gplshub.com/wp-content/uploads/2022/09/Mega-cloud-storage.png",
+      "notify" : false,
+      "tintColor" : "a0151a",
+      "title" : "Mega++ Added!"
+    },
     {
       "appID" : "com.calm.calmapp",
       "caption" : "A cracked version of Calm has been added to the source! Click here for more info",
