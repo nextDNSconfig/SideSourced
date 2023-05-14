@@ -428,6 +428,7 @@
       ]
     },
     {
+      "beta" : true,
       "bundleIdentifier" : "com.DebianArch.ScarletPersonalXYZZZZ",
       "developerName" : "DebianArch",
       "downloadURL" : "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
