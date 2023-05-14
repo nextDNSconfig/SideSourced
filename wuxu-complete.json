@@ -16,6 +16,36 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "org.ppsspp.ppsspp",
+      "developerName" : "Henrik Rydgård",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PPSSPP.v1.15.3.ipa",
+      "iconURL" : "https://i.imgur.com/JP0Fncv.png",
+      "localizedDescription" : "PPSSPP is the best and only PSP emulator for iOS written in C++. It is capable of running a lot of original games but, depending on the power of your device, not all may run at full speed due to restrictions on non-jailbroken devices.\n\nThe app was originally created by Henrik Rydgård in November 2012; however, iOS builds are mostly managed by talented developer, Karen Tsai (aka @angelxwind) and a large group of contributors that submit issue reports and fixes. Several versions of PPSSPP can be played on numerous devices such as Android, Windows, Mac, Linux and Blackberry 10. The iOS version can be found on both Jailbreak and non-Jailbreak devices.\n\nPPSSPP supports all versions of iPad, iPhone, iPod touch running iOS 5 and above; this includes iPhone 5 and other retina-enabled devices. The emulator does not require bios to play, PPSSPP is - in many ways - a “HLE” emulator. PPSSPP requires ROM images, specifically .ISO or .CSO files, to play. No ROMs are included in this copy of the emulator. If you own any games, add them through iTunes Sharing or other programs like 'iExplorer.' Keep in mind these files are extremely big, sometimes taking several gigs in size.\n\nThe emulator is built to use JIT decompilers (dynarecs) which can only be accessed on a jailbroken device due to the codesigining requirement. Therefore, most games will run very slow on non-jailbroken devices; however, there are a few older PSP games that will run just fine and up to speed depending on your iOS device.",
+      "name" : "PPSSPP",
+      "screenshotURLs" : [
+        "https://i.imgur.com/CWl6GgH.png",
+        "https://i.imgur.com/SxmN1M0.png",
+        "https://i.imgur.com/sGWgR6z.png",
+        "https://i.imgur.com/AFKTdmZ.png"
+      ],
+      "size" : 27700000,
+      "subtitle" : "The fast and portable PSP emulator for IOS",
+      "tintColor" : "21486b",
+      "version" : "1.15.3",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Assorted minor crash- and other fixes\n• Control mapping: Fix bugs in mapping UI causing trouble with some controllers\n\n",
+      "versions" : [
+        {
+          "version" : "1.13.2",
+          "date" : "2022-09-18T23:59:49Z",
+          "downloadURL" : "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+          "localizedDescription" : "# v1.13.2\n\n",
+          "size" : 14509458,
+          "absoluteVersion" : "1.13.2"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.litritt.ignited",
       "developerName" : "Lit Development",
       "downloadURL" : "https://github.com/Lit-Development/Ignited/releases/download/v1.4.1/Ignited.ipa",
@@ -790,6 +820,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "org.ppsspp.ppsspp",
+      "caption" : "PPSSPP - the best and only PSP emulator for iOS - has been added to the source! Click here for more info",
+      "date" : "2023-05-14",
+      "identifier" : "ppsspp-added",
+      "imageURL" : "https://kubadownload.com/site/assets/files/2598/ppsspp-iphone.730x0.jpg",
+      "notify" : false,
+      "tintColor" : "21486b",
+      "title" : "PPSSPP Added!"
+    },
     {
       "appID" : "com.litritt.ignited",
       "caption" : "Ignited - the all-in-one classic video game emulator - has been added to the source! Click here for more info",
