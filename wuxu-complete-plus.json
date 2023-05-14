@@ -50,7 +50,7 @@
     {
       "bundleIdentifier" : "com.google.ios.youtubemusic",
       "developerName" : "Ginsudev",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v6.01.2.+.YTMusicUltimate.v1.3.6.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v6.01.2.+.YTMusicUltimate.v1.3.7.ipa",
       "iconURL" : "https://img.ipa4fun.com/d7/1a/73/1017492454-logo.webp",
       "localizedDescription" : "YouTube Music injected with YTMusicUltimate\n\nFeatures:\n\n• No ads\n• Play music in background\n• Show the status bar in the player\n• OLED dark theme\n• OLED dark keyboard",
       "name" : "YouTube Music++",
@@ -61,18 +61,18 @@
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-4.webp",
         "https://img.ipa4fun.com/d7/1a/73/1017492454-screenshot-5.webp"
       ],
-      "size" : 5680000,
+      "size" : 5690000,
       "subtitle" : "Youtube Music with free premium",
       "tintColor" : "ae0304",
       "version" : "6.01.2",
-      "versionDate" : "2023-05-08",
-      "versionDescription" : "• Updated YouTube Music to v6.01.2\n• Updated YTMusicUltimate to v1.3.6",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Updated YouTube Music to v6.01.2\n• Updated YTMusicUltimate to v1.3.7",
       "versions" : [
         {
-          "date" : "2023-05-08",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v6.01.2.+.YTMusicUltimate.v1.3.6.ipa",
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.Music.v6.01.2.+.YTMusicUltimate.v1.3.7.ipa",
           "localizedDescription" : "• Updated YouTube Music to v6.01.2\n• Updated YTMusicUltimate to v1.3.6",
-          "size" : 5680000,
+          "size" : 5690000,
           "version" : "6.01.2"
         },
         {
@@ -1320,13 +1320,13 @@
     },
     {
       "appID" : "com.google.ios.youtubemusic",
-      "caption" : "YouTube Music has been updated to the latest version, click here fore more info",
-      "date" : "2023-05-08",
+      "caption" : "The tweak for YouTube Music has been updated! Requires YT Music to be deleted + reinstalled (app version is unchanged)",
+      "date" : "2023-05-14",
       "identifier" : "ytmusic-updated",
       "imageURL" : "https://ichef.bbci.co.uk/news/976/cpsprodpb/12CF0/production/_113804077_ytm.png",
       "notify" : true,
       "tintColor" : "2c0017",
-      "title" : "YouTube Music++ Updated!"
+      "title" : "YouTube Music++ Tweak Updated!"
     },
     {
       "appID" : "app.nicegram",
