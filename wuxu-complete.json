@@ -49,7 +49,7 @@
       ]
     },
     {
-      "beta" : "true",
+      "beta" : true,
       "bundleIdentifier" : "com.antique.emuThreeDS",
       "developerName" : "Antique",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/emuThreeDS.v1.0.5.2.ipa",
