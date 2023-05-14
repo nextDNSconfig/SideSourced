@@ -49,6 +49,7 @@
       ]
     },
     {
+      "beta" : "true",
       "bundleIdentifier" : "com.antique.emuThreeDS",
       "developerName" : "Antique",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/emuThreeDS.v1.0.5.2.ipa",
@@ -101,12 +102,12 @@
       "versionDescription" : "• Assorted minor crash- and other fixes\n• Control mapping: Fix bugs in mapping UI causing trouble with some controllers\n\n",
       "versions" : [
         {
-          "version" : "1.13.2",
-          "date" : "2022-09-18T23:59:49Z",
-          "downloadURL" : "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "localizedDescription" : "# v1.13.2\n\n",
-          "size" : 14509458,
-          "absoluteVersion" : "1.13.2"
+          "version" : "1.15.3",
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PPSSPP.v1.15.3.ipa",
+          "localizedDescription" : "1.15.3",
+          "size" : 27700000,
+          "absoluteVersion" : "1.15.3"
         }
       ]
     },
