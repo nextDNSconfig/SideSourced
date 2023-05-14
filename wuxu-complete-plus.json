@@ -665,10 +665,9 @@
     {
       "bundleIdentifier" : "com.microblink.PhotoMath",
       "developerName" : "Strejda603",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.22.1.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.23.0.ipa",
       "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.webp",
       "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
-      "minOSVersion" : "13.0",
       "name" : "Photomath++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.webp",
@@ -677,13 +676,20 @@
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.webp",
         "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.webp"
       ],
-      "size" : 14300000,
+      "size" : 12800000,
       "subtitle" : "Photomath with plus activated!",
       "tintColor" : "830824",
-      "version" : "8.22.1",
-      "versionDate" : "2023-05-08",
-      "versionDescription" : "• Updated Photomath to v8.22.1",
+      "version" : "8.23.0",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Updated Photomath to v8.23.0",
       "versions" : [
+        {
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.23.0.ipa",
+          "localizedDescription" : "• Updated Photomath to v8.23.0",
+          "size" : 12800000,
+          "version" : "8.23.0"
+        },
         {
           "date" : "2023-05-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.22.1.ipa",
@@ -1595,7 +1601,7 @@
     {
       "appID" : "com.microblink.PhotoMath",
       "caption" : "Photomath has been updated to the latest version, click here for more info",
-      "date" : "2023-05-08",
+      "date" : "2023-05-14",
       "identifier" : "photomath-updated",
       "imageURL" : "https://i.imgur.com/cCOfaqO.png",
       "notify" : true,
