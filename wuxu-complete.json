@@ -16,6 +16,39 @@
   ],
   "apps" : [
     {
+      "beta" : true,
+      "bundleIdentifier" : "com.simplycode.PostBox",
+      "developerName" : "PostBox Team",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PostBox.v0.8.1.ipa",
+      "iconURL" : "https://static.appdb.to/images/cydia-102005202-icon-1661962646.png",
+      "localizedDescription" : "• A pool of feeds. Enjoy a lively feed of various sources to always stay connected with the jailbreak scene. Sources are updated frequently so you don't miss out!\n\n• Powered externally. PostBox enables support for third-party jailbreak sources such as r/jailbreak and iDownloadBlog. More content will be coming soon in the future.\n\n• Repositories are libraries of packages. PostBox contains over 200 repos for centralization and provides a system for efficient repo finding. You can now effortlessly look for information that will previously require painstaking work.\n\n• Intuitive design. Buttons with different contrast prompts users for interaction. Animations, haptics and color changes enable engaging feedback when selected.\n\n• Review packages. The ability to review packages creates new opportunities for users and developers alike. Any package can be reviewed regardless of repository or depiction differences.",
+      "name" : "PostBox",
+      "screenshotURLs" : [
+        "https://www.postbox.news/assets/images/thumbPhone.webp",
+        "https://www.postbox.news/assets/images/newsPhone.webp",
+        "https://www.postbox.news/assets/images/extractPhone.webp",
+        "https://www.postbox.news/assets/images/repoPhone.webp",
+        "https://www.postbox.news/assets/images/reviewPhone.webp",
+        "https://www.postbox.news/assets/images/storyboardPhone.webp"
+      ],
+      "size" : 8080000,
+      "subtitle" : "The latest jailbreak news at your fingertips",
+      "tintColor" : "b3b3b3",
+      "version" : "0.8.1",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Added PostBox v0.8.1",
+      "versions" : [
+        {
+          "version" : "0.8.1",
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PostBox.v0.8.1.ipa",
+          "localizedDescription" : "• Added PostBox v0.8.1",
+          "size" : 8080000,
+          "absoluteVersion" : "0.8.1"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.antique.emuThreeDS",
       "developerName" : "Antique",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/emuThreeDS.v1.0.5.2.ipa",
@@ -863,6 +896,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "com.simplycode.PostBox",
+      "caption" : "get the latest sideloading/jailbreak news with PostBox! Click here for more info",
+      "date" : "2023-05-14",
+      "identifier" : "postbox-added",
+      "imageURL" : "https://pbs.twimg.com/media/FY3DHpyVsAAaacC?format=jpg&name=4096x4096",
+      "notify" : false,
+      "tintColor" : "b3b3b3",
+      "title" : "PostBox Added!"
+    },
     {
       "appID" : "com.antique.emuThreeDS",
       "caption" : "emuThreeDS - A Nintendo 3DS emulator for IOS - Has been added to the source! Click here for more info",
