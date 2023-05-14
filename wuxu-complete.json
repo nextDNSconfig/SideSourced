@@ -34,12 +34,12 @@
       "subtitle" : "A Nintendo 3DS emulator for IOS",
       "tintColor" : "acaea8",
       "version" : "1.0.5.2",
-      "versionDate" : "2023-05-14",
+      "versionDate" : "2023-05-13",
       "versionDescription" : "Added:\n\n• Emulation menu to the in-game options button.\n• Pause and resume emulation option to the Emulation menu.\n• Preload textures by default to improve performance.\n• Portrait touch and drag support.\nReimplemented landscape mode for testing (screens will not be side-by-side yet).\n\nChanged:\n\n• Layout of the emulation to display below the status bar.\n• Increased priority of the emulation thread to squeeze out more performance.\n\nFixed:\n\n• Issue where the status bar would display black text on a black background.",
       "versions" : [
         {
           "version" : "1.0.5.2",
-          "date" : "2023-05-14",
+          "date" : "2023-05-13",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/emuThreeDS.v1.0.5.2.ipa",
           "localizedDescription" : "Added:\n\n• Emulation menu to the in-game options button.\n• Pause and resume emulation option to the Emulation menu.\n• Preload textures by default to improve performance.\n• Portrait touch and drag support.\nReimplemented landscape mode for testing (screens will not be side-by-side yet).\n\nChanged:\n\n• Layout of the emulation to display below the status bar.\n• Increased priority of the emulation thread to squeeze out more performance.\n\nFixed:\n\n• Issue where the status bar would display black text on a black background.",
           "size" : 30300000,
@@ -866,7 +866,7 @@
     {
       "appID" : "com.antique.emuThreeDS",
       "caption" : "emuThreeDS - A Nintendo 3DS emulator for IOS - Has been added to the source! Click here for more info",
-      "date" : "2023-05-14",
+      "date" : "2023-05-13",
       "identifier" : "emuthreeds-added",
       "imageURL" : "https://4.bp.blogspot.com/-zABvcegZKew/XtFB_QkSdOI/AAAAAAAACzU/RoxaVZI6MFUn571uN_MxbngO3JuqIf5-wCLcBGAsYHQ/s1600/How-to-play-Nintendo-3ds-on-Android-using-citra.jpg",
       "notify" : false,
