@@ -620,7 +620,7 @@
     {
       "bundleIdentifier" : "com.atebits.Tweetie2",
       "developerName" : "BandarHL",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.57.+.BHT.v3.9.1.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.56.1.+.BHT.v3.9.1.ipa",
       "iconURL" : "https://img.ipa4fun.com/fe/b5/38/333903271-logo.webp",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.",
       "name" : "Twitter++",
@@ -631,20 +631,13 @@
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
       ],
-      "size" : 92600000,
+      "size" : 94900000,
       "subtitle" : "An awesome tweak for Twitter!",
       "tintColor" : "146daa",
-      "version" : "9.57",
-      "versionDate" : "2023-05-12",
-      "versionDescription" : "• Updated Twitter to v9.57",
+      "version" : "9.56.1",
+      "versionDate" : "2023-05-08",
+      "versionDescription" : "• Updated Twitter to v9.56.1",
       "versions" : [
-        {
-          "date" : "2023-05-12",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.57.+.BHT.v3.9.1.ipa",
-          "localizedDescription" : "• Updated Twitter to v9.57",
-          "size" : 92600000,
-          "version" : "9.57"
-        },
         {
           "date" : "2023-05-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.56.1.+.BHT.v3.9.1.ipa",
@@ -1458,7 +1451,7 @@
     {
       "appID" : "com.atebits.Tweetie2",
       "caption" : "Twitter has been updated to the latest version, click here for more info",
-      "date" : "2023-05-12",
+      "date" : "2023-05-08",
       "identifier" : "twitter-updated",
       "imageURL" : "https://globalventuring.com//content/uploads/2022/10/Twitter-horizontal.jpeg",
       "notify" : true,
