@@ -16,6 +16,38 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.calm.calmapp",
+      "developerName" : "Syto203",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Calm.Cracked.v6.14.ipa",
+      "iconURL" : "https://img.ipa4fun.com/ba/7b/a8/571800810-icon.webp",
+      "localizedDescription" : "Calm with the following tweaks:\n\n• Premium Features & Content Enabled\n• Downloading without creating an account Enabled\n\n\nCalm is the #1 app for Sleep, Meditation and Relaxation. Sleep better, relieve stress, lower anxiety and refocus your attention. Explore an extensive library of guided meditations, Sleep Stories, breathwork, exclusive music and stretching exercises.\n\n\nInvest in your mental health and choose a guided meditation session that fits within your busy schedule. Add Calm to your daily routine and join the millions experiencing the life-changing benefits of practicing mindfulness. Beginners, intermediate and advanced users can all find their home in Calm.\n\n\nLet relaxing music and calming sounds help you meditate, focus and sleep better. Sleep Stories are bedtime stories that are guaranteed to lull you into a deep and restful slumber. Pick from 100+ exclusive Sleep Stories, featuring well-known talent such as Matthew McConaughey, Stephen Fry, Rosé, Jerome Flynn and P!nk.\n\n\nCalm is recommended by top psychologists, therapists and mental health experts. Take a deep breath and find your Calm.\n\n\nCALM FEATURES\n\n\nMEDITATION & MINDFULNESS\n\n• Meditate with seasoned experts, regardless of your experience level\n\n• Introduce mindfulness into your daily routine and learn to calm your mind\n\n• Mindfulness topics include Deep Sleep, Calming Anxiety, Managing Stress, Focus and Concentration, Breaking Habits, Happiness, Self-Esteem and so much more\n\n\nSLEEP STORIES\n\n• Sleep soundly listening to bedtime stories for adults and children alike\n\n• Wonder - Join Matthew McConaughey on a dreamy story about the mysteries of the universe\n\n• Blue Gold - Journey through the sleepy village of Provence with master storyteller Stephen Fry\n\n• The Nordland Night Train - Travel up the scenic coast of Norway aboard a remote railway\n\n• Happy Little Zzzs - Drift off to the soothing brush strokes of beloved painter Bob Ross\n\n\nRELAXATION & STRESS RELIEF\n\n• Learn to relax and lower stress with daily meditation and breathing exercises\n\n• Focus on a goal with Dailies - Reduce anxiety with daily 10-minute original programs like the Daily Calm with Tamara Levitt, the Daily Trip with Jeff Warren, or the Daily Jay with Jay Shetty\n\n• Shift your thinking and find your calm through inspiring stories with Wisdom\n\n• Daily Move: Mindful stretching and movement to relax your body during the day\n\n\nALSO FEATURING\n\n• Daily Streaks & Mindful Minutes: Track and celebrate your progress\n\n• 7 and 21 day mindfulness programs for both beginner and advanced users\n\n• Music: Exclusive music engineered to help you focus, relax or sleep\n\n• Soundscapes to sleep: Ocean waves, Heavy Rain, Camp Fire, Babbling Brook and more",
+      "name" : "Calm++",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-1.webp",
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-2.webp",
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-3.webp",
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-4.webp",
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-5.webp",
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-6.webp",
+        "https://img.ipa4fun.com/ba/7b/a8/571800810-screenshot-7.webp"
+      ],
+      "size" : 58300000,
+      "subtitle" : "Calm with premium features enabled!",
+      "tintColor" : "2976a2",
+      "version" : "6.14",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Added Calm v6.14 (Last working version with tweak)",
+      "versions" : [
+        {
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Calm.Cracked.v6.14.ipa",
+          "localizedDescription" : "• Added Calm v6.14 (Last working version with tweak)",
+          "size" : 58300000,
+          "version" : "6.14"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.facebook.Messenger",
       "developerName" : "Michael Lema",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v390.0.+.Shark.v2.2.1.ipa",
@@ -1305,8 +1337,18 @@
   ],
   "news" : [
     {
+      "appID" : "com.calm.calmapp",
+      "caption" : "A cracked version of Calm has been added to the source! Click here for more info",
+      "date" : "2023-05-14",
+      "identifier" : "calm-added",
+      "imageURL" : "https://beiconstruction.com/wp-content/uploads/2019/10/BEI_calm_blog_img.jpg",
+      "notify" : false,
+      "tintColor" : "2976a2",
+      "title" : "Calm++ Added!"
+    },
+    {
       "appID" : "com.facebook.Messenger",
-      "caption" : "Messenge++ Has been added to the source! Click here for more info",
+      "caption" : "Messenger++ Has been added to the source! Click here for more info",
       "date" : "2023-04-15",
       "identifier" : "messenger-added",
       "imageURL" : "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/yvbOx5two0W.png",
