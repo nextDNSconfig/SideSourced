@@ -16,6 +16,37 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.rhapsody.iphone.Rhapsody3",
+      "developerName" : "iJulioVerne",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Napster.Tweaked.v7.4.6.ipa",
+      "iconURL" : "https://img.ipa4fun.com/26/11/1e/584557117-logo.webp",
+      "localizedDescription" : "SIGNING IN IS DISABLED\n\nEnjoy unlimited skips and free 320 kbps streaming and downloads with this Napster tweak!\n\n\nNapster is the streaming app where music is more than sound.\n\n\nAlongside 110+ million songs, Napster is home to hundreds of thousands of official music videos. Whether you’re streaming on demand or listening offline, enjoy all content ad•free.\n\n\nDeep•dive into playlists and mixes prepared just for you. Listen in Lossless audio to hear exactly what the artist intended.\n\n\nStart streaming Napster FREE for 30 days—no commitments and cancel any time.\n\n\nNapster features\n\n• 110+ million songs streaming ad•free on mobile, tablet, desktop, watch and Smart TV\n\n• Lossless audio provides the ultimate sound quality\n\n• Discover new music, artists and official music videos\n\n• Search for your favourite songs, artists, albums or videos\n\n• Explore playlists and mixes made just for you\n\n• Browse by genre or mood to discover new music\n\n• Make, share and download playlists to listen to offline\n\n• Enjoy up to 6 unique profiles on an account (Family Plans only)\n",
+      "name" : "Napster++",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/26/11/1e/584557117-screenshot-1.webp",
+        "https://img.ipa4fun.com/26/11/1e/584557117-screenshot-2.webp",
+        "https://img.ipa4fun.com/26/11/1e/584557117-screenshot-3.webp",
+        "https://img.ipa4fun.com/26/11/1e/584557117-screenshot-4.webp",
+        "https://img.ipa4fun.com/26/11/1e/584557117-screenshot-5.webp",
+        "https://img.ipa4fun.com/26/11/1e/584557117-screenshot-6.webp"
+      ],
+      "size" : 33200000,
+      "subtitle" : "Napster with premium features!",
+      "tintColor" : "1940af",
+      "version" : "7.4.6",
+      "versionDate" : "2023-05-14",
+      "versionDescription" : "• Added Napster v7.4.6 (Last working version with tweak)",
+      "versions" : [
+        {
+          "date" : "2023-05-14",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Napster.Tweaked.v7.4.6.ipa",
+          "localizedDescription" : "• Added Napster v7.4.6 (Last working version with tweak)",
+          "size" : 33200000,
+          "version" : "7.4.6"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.adobe.PSMobile",
       "developerName" : "Adobe",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PS.Express.Cracked.v23.18.0.ipa",
@@ -1401,6 +1432,16 @@
     }
   ],
   "news" : [
+    {
+      "appID" : "com.rhapsody.iphone.Rhapsody3",
+      "caption" : "Napster, with premium features, has been added to the source! Click here for more info",
+      "date" : "2023-05-14",
+      "identifier" : "napster-added",
+      "imageURL" : "https://blog.teufelaudio.com/wp-content/uploads/2018/01/titelbild-iOS-Streaming-App-Beta-2.jpg",
+      "notify" : false,
+      "tintColor" : "1940af",
+      "title" : "Napster++ Added!"
+    },
     {
       "appID" : "com.adobe.PSMobile",
       "caption" : "A cracked version of PS Express, with premium features enabled, has been added to the source! Click here for more info",
