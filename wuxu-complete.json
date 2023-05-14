@@ -795,7 +795,7 @@
       "caption" : "Ignited - the all-in-one classic video game emulator - has been added to the source! Click here for more info",
       "date" : "2023-05-14",
       "identifier" : "ignited-added",
-      "imageURL" : "https://beebom.com/wp-content/uploads/2021/12/Delta-emulator-for-iPhone-and-iPad-.jpg",
+      "imageURL" : "https://raw.githubusercontent.com/Lit-Development/Assets/main/apps/delta-ignited/ignited-theme-release.png",
       "notify" : false,
       "tintColor" : "FF6A00",
       "title" : "Ignited Added!"
