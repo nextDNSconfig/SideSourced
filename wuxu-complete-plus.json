@@ -592,6 +592,7 @@
       ]
     },
     {
+      "beta" : "true",
       "bundleIdentifier" : "com.errorerrorerror.animenow",
       "developerName" : "AnimeNow Team",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Anime.Now.v1.0.0-b3.ipa",
