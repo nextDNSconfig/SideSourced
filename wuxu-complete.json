@@ -792,7 +792,7 @@
   "news" : [
     {
       "appID" : "com.litritt.ignited",
-      "caption" : "Ignited, all-in-one classic video game emulator, has been added to the source! Click here for more info",
+      "caption" : "Ignited - an all-in-one classic video game emulator - has been added to the source! Click here for more info",
       "date" : "2023-05-14",
       "identifier" : "ignited-added",
       "imageURL" : "https://raw.githubusercontent.com/Lit-Development/Assets/main/apps/delta-ignited/gameboy-palettes.png",
