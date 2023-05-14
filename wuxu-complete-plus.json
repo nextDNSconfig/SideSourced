@@ -8,7 +8,7 @@
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
   "featuredApps" : [
-    "com.wuxulibs.spotifyplus",
+    "com.spotify.client",
     "com.wuxulibs.uyouplus",
     "com.zhiliaoapp.musically",
     "com.burbn.instagram",
@@ -1235,7 +1235,7 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.wuxulibs.spotifyplus",
+      "bundleIdentifier" : "com.spotify.client",
       "developerName" : "iJulioVerne",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
@@ -1662,7 +1662,7 @@
       "title" : "New Tweak For SouncCloud++!"
     },
     {
-      "appID" : "com.wuxulibs.spotifyplus",
+      "appID" : "com.spotify.client",
       "caption" : "Spotify has been updated to v8.6.42, along with all of its tweaks. Sadly, Spotify has patched Spotilife on all later versions - so this is the last version enabling premium.",
       "date" : "2023-02-12",
       "identifier" : "spotify-last-update",
