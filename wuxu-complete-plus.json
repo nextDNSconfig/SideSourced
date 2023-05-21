@@ -321,24 +321,31 @@
     },
     {
       "bundleIdentifier" : "com.xd.mbp31",
-      "developerName" : "",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.4.ipa",
+      "developerName" : "DangerousPixel",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.No.Ads.v12.5.ipa",
       "iconURL" : "https://bestforandroid.com/apk/wp-content/uploads/2021/03/moviebox-pro-featured-image.png",
-      "localizedDescription" : "Enjoy Movies and TV on your phone or cast to your smartTV",
-      "name" : "MovieBoxPro",
+      "localizedDescription" : "Enjoy Movies and TV on your phone or cast to your smartTV\n\nNote: This app is tweaked to provide free users with an ad-free experience, if you are a paid user, the app will work the same!",
+      "name" : "MovieBoxPro (No Ads)",
       "screenshotURLs" : [
         "https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
         "https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
         "https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
         "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
       ],
-      "size" : 131000000,
+      "size" : 51300000,
       "subtitle" : "The best in-class streaming service!",
       "tintColor" : "3f3e43",
-      "version" : "12.4",
-      "versionDate" : "2023-05-08",
-      "versionDescription" : "• Updated MovieBoxPro to v12.4",
+      "version" : "12.5",
+      "versionDate" : "2023-05-17",
+      "versionDescription" : "• Updated MovieBoxPro to v12.5\n\n• Fixed the issue that the TV detail page displays the header twice after setting the movielists to hidden.\n• Fixed the issue that the menus may display in an abnormal position when playing with auto landscape mode.",
       "versions" : [
+        {
+          "date" : "2023-05-17",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.No.Ads.v12.5.ipa",
+          "localizedDescription" : "• Updated MovieBoxPro to v12.5\n\n• Fixed the issue that the TV detail page displays the header twice after setting the movielists to hidden.\n• Fixed the issue that the menus may display in an abnormal position when playing with auto landscape mode.",
+          "size" : 51300000,
+          "version" : "12.5"
+        },
         {
           "date" : "2023-05-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MovieBoxPro.v12.4.ipa",
@@ -1534,8 +1541,8 @@
     },
     {
       "appID" : "com.xd.mbp31",
-      "caption" : "MovieBoxPro has been updated to the latest version, click here for more info",
-      "date" : "2023-05-08",
+      "caption" : "MovieBoxPro has been updated to the latest version! The app now includes a tweak that removes ads for free users, click here for more info",
+      "date" : "2023-05-21",
       "identifier" : "movieboxpro-updated",
       "imageURL" : "https://i0.wp.com/lifeatthemovies.com/wp-content/uploads/2016/07/2011.png?resize=672%2C372&w=640",
       "notify" : true,
