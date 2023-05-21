@@ -16,6 +16,27 @@
   ],
   "apps" : [
     {
+      "beta": true,
+      "bundleIdentifier": "org.haxi0.santander",
+      "developerName": "haxi0",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Santander.MDC.v0.4.ipa",
+      "iconURL": "https://static.appdb.to/images/cydia-1900001066-icon-1673074358.png",
+      "localizedDescription": "A new, enhanced File Manager for iOS devices with the MDC exploit (IOS 14.0 - 16.1.2) for full file access.\n\nSantander aims to enhance the experience of a file manager on an iOS device, using modern and familiar UI alongside new APIs.\n\nNote: The project is still in beta, and there still quite a lot of bugs to fix & enhancements to make.",
+      "name": "Santander (MDC)",
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900001084-iphone-0-1674953851.png",
+        "https://static.appdb.to/images/cydia-1900001084-iphone-1-1674953851.png",
+        "https://static.appdb.to/images/cydia-1900001084-iphone-2-1674953851.png",
+        "https://static.appdb.to/images/cydia-1900001084-iphone-3-1674953851.png"
+      ],
+      "size": 4540000,
+      "subtitle": "A Modern File Manager MacDirtyCow Devices",
+      "tintColor": "596d8d",
+      "version": "0.4",
+      "versionDate": "2023-02-10",
+      "versionDescription": "• Classic MDC overwrite is in the app, that means you can overwrite files in /System (hold a file to see a Replace action)\n\n• Respring action added."
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "com.simplycode.PostBox",
       "developerName" : "PostBox Team",
@@ -898,6 +919,16 @@
     }
   ],
   "news" : [
+    {
+      "appID": "org.haxi0.santander",
+      "caption": "Santander, a new, enhanced File Manager for MDC devices has been added to the source! Click here for more info",
+      "date": "2023-05-21",
+      "identifier": "santander-added",
+      "imageURL": "https://onejailbreak.com/site/assets/files/1337/santander-app.766x0.webp",
+      "notify": false,
+      "tintColor": "596d8d",
+      "title": "Santander (MDC) Added!"
+    }
     {
       "appID" : "com.simplycode.PostBox",
       "caption" : "get the latest sideloading/jailbreak news with PostBox! Click here for more info",
