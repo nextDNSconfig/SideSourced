@@ -556,10 +556,10 @@
     {
       "bundleIdentifier" : "com.hammerandchisel.discord",
       "developerName" : "Enmity Team",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v175.0.+.Emnity.v2.2.5.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v177.1.+.Enmity.v2.2.6.ipa",
       "iconURL" : "https://img.ipa4fun.com/87/01/a2/985746746-logo.webp",
       "localizedDescription" : "Add plugins and themes to Discord!\n\nTo get plugins & themes go to the official Enmity discord\n\nhttps://discord.gg/enmity",
-      "name" : "Discord++",
+      "name" : "Discord (w/ Enmity)",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-1.webp",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-2.webp",
@@ -568,13 +568,20 @@
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-5.webp",
         "https://img.ipa4fun.com/87/01/a2/985746746-screenshot-6.webp"
       ],
-      "size" : 8820000,
+      "size" : 8370000,
       "subtitle" : "The power of addons, all in your hand.",
       "tintColor" : "3c45ac",
-      "version" : "175.0",
-      "versionDate" : "2023-05-08",
-      "versionDescription" : "• Updated Discord to v175.0",
+      "version" : "177.1",
+      "versionDate" : "2023-05-21",
+      "versionDescription" : "• Updated Discord to v177.1\n• Updated Emnity to v2.2.6",
       "versions" : [
+        {
+          "date" : "2023-05-21",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v177.1.+.Enmity.v2.2.6.ipa",
+          "localizedDescription" : "• Updated Discord to v177.1\n• Updated Emnity to v2.2.6",
+          "size" : 8370000,
+          "version" : "177.1"
+        },
         {
           "date" : "2023-05-08",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Discord.v175.0.+.Emnity.v2.2.5.ipa",
@@ -1608,12 +1615,12 @@
     {
       "appID" : "com.hammerandchisel.discord",
       "caption" : "Discord has been updated to the latest version, click here for more info",
-      "date" : "2023-05-08",
+      "date" : "2023-05-21",
       "identifier" : "discord-updated",
       "imageURL" : "https://api.demarrez-votre-entreprise.com/wp-content/uploads/2021/09/discord-entreprise.jpg",
       "notify" : true,
       "tintColor" : "3c45ac",
-      "title" : "Discord++ Updated!"
+      "title" : "Discord (w/ Enmity) Updated!"
     },
     {
       "appID" : "jb.zini.tevi",
