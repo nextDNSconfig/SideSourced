@@ -684,7 +684,7 @@
     {
       "bundleIdentifier" : "it.ned.appdb-ios",
       "developerName" : "ned",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.5.ipa",
+      "downloadURL" : "https://9059.userscloud.net/d/g4lzdcu6tmeyx6ajg7mjxucbal2ommioced6fz22sny33c2sba7n3myfsx2t4sy5ylygyimy/AppDB%20Client%20v1.1.5.ipa",
       "iconURL" : "https://static.appdb.to/images/cydia-1900000538-icon.png",
       "localizedDescription" : "AppDB Client is a fully featured app aiming to provide a better experience for every appdb user\n\nFeatures:\n\n• Easily browse appdb database with a blazing fast and smooth user interface\n• Control all your appdb linked devices\n• Install any content to your device after authorizing the app\n• Dowload IPAs from the web and install them right away\n• MyAppStore & Automatic Requests integration!\n• A wonderful dark mode\n• iOS 14 homescreen Widgets!\n\nAnd a lot more…",
       "name" : "AppDB Client",
@@ -703,7 +703,7 @@
       "versions" : [
         {
           "date" : "2023-04-05",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/AppDB.Client.v1.1.5.ipa",
+          "downloadURL" : "https://9059.userscloud.net/d/g4lzdcu6tmeyx6ajg7mjxucbal2ommioced6fz22sny33c2sba7n3myfsx2t4sy5ylygyimy/AppDB%20Client%20v1.1.5.ipa",
           "localizedDescription" : "• Switch between available Free Enterprise Signing certificates\n• Support for listing and deleting IPA Cache files\n• Show download statistics on app detail page\n• Fix the bug on status page not showing some values\n• Add black icon\n• Add translations for icon chooser\n• Make disabling ads easy and disabled by default\n• Completely remove old \"PRO\" stuff",
           "minOSVersion" : "10.0",
           "size" : 23100000,
