@@ -679,7 +679,7 @@
     {
       "bundleIdentifier" : "com.microblink.PhotoMath",
       "developerName" : "Strejda603",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.23.0.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.23.1.ipa",
       "iconURL" : "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.webp",
       "localizedDescription" : "Photomath works as normal, only the premium features are activated as if you bought them.",
       "name" : "Photomath++",
@@ -693,10 +693,17 @@
       "size" : 12800000,
       "subtitle" : "Photomath with plus activated!",
       "tintColor" : "830824",
-      "version" : "8.23.0",
-      "versionDate" : "2023-05-14",
-      "versionDescription" : "• Updated Photomath to v8.23.0",
+      "version" : "8.23.1",
+      "versionDate" : "2023-05-21",
+      "versionDescription" : "• Updated Photomath to v8.23.1",
       "versions" : [
+        {
+          "date" : "2023-05-21",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.23.1.ipa",
+          "localizedDescription" : "• Updated Photomath to v8.23.1",
+          "size" : 12800000,
+          "version" : "8.23.1"
+        },
         {
           "date" : "2023-05-14",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Photomath.Cracked.v8.23.0.ipa",
@@ -771,6 +778,7 @@
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.58.1.+.BHT.v3.9.1.ipa",
       "iconURL" : "https://img.ipa4fun.com/fe/b5/38/333903271-logo.webp",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.",
+      "minOSVersion" : "15.0",
       "name" : "Twitter++",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.webp",
@@ -790,6 +798,7 @@
           "date" : "2023-05-21",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.58.1.+.BHT.v3.9.1.ipa",
           "localizedDescription" : "• Updated Twitter to v9.58.1",
+          "minOSVersion" : "15.0",
           "size" : 92600000,
           "version" : "9.58.1"
         },
@@ -1629,7 +1638,7 @@
     {
       "appID" : "com.microblink.PhotoMath",
       "caption" : "Photomath has been updated to the latest version, click here for more info",
-      "date" : "2023-05-14",
+      "date" : "2023-05-21",
       "identifier" : "photomath-updated",
       "imageURL" : "https://i.imgur.com/cCOfaqO.png",
       "notify" : true,
