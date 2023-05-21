@@ -1409,7 +1409,7 @@
     {
       "bundleIdentifier" : "com.wuxulibs.ytkillerplus",
       "developerName" : "iKarwan",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.18.2.+.YTKillerPlus+.Cracked.v2.2.11.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.19.1.+.YTKillerPlus+.Cracked.v2.2.12.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
       "localizedDescription" : "This is a cracked version of YTKillerPlus! (Signing in may not work, there are workarounds online)\n\nEnjoy ;)\n\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
       "name" : "YouTube (w/ YTKillerPlus+)",
@@ -1420,13 +1420,20 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size" : 95000000,
+      "size" : 86800000,
       "subtitle" : "A whole new YouTube experience!",
       "tintColor" : "af0303",
-      "version" : "18.18.2",
-      "versionDate" : "2023-05-14",
-      "versionDescription" : "• YouTube updated to v18.18.2\n• YTKillerPlus+ (Cracked) updated to v2.2.11",
+      "version" : "18.19.1",
+      "versionDate" : "2023-05-21",
+      "versionDescription" : "• YouTube updated to v18.19.1\n• YTKillerPlus+ (Cracked) updated to v2.2.12",
       "versions" : [
+        {
+          "date" : "2023-05-21",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.19.1.+.YTKillerPlus+.Cracked.v2.2.12.ipa",
+          "localizedDescription" : "• YouTube updated to v18.19.1\n• YTKillerPlus+ (Cracked) updated to v2.2.12",
+          "size" : 86800000,
+          "version" : "18.19.1"
+        },
         {
           "date" : "2023-05-14",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.18.2.+.YTKillerPlus+.Cracked.v2.2.11.ipa",
@@ -1740,13 +1747,13 @@
     },
     {
       "appID" : "com.wuxulibs.ytkillerplus",
-      "caption" : "A cracked version of YouTubeKillerPlus+ has been added to the source! Click here for more info",
-      "date" : "2023-05-14",
-      "identifier" : "youtube-ytkplus-added",
+      "caption" : "YouTubeKillerPlus+ (Cracked) has been updated to the latest version, click here for more info",
+      "date" : "2023-05-21",
+      "identifier" : "youtube-ytkplus-updated",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
       "notify" : true,
       "tintColor" : "131313",
-      "title" : "YouTube (w/ YTKillerPlus+) Added!"
+      "title" : "YouTube (w/ YTKillerPlus+) Updated!"
     },
     {
       "appID" : "com.wuxulibs.spotifyplus",
