@@ -16,6 +16,35 @@
   ],
   "apps" : [
     {
+      "bundleIdentifier" : "com.streamer.ios",
+      "developerName" : "StreamerApp",
+      "downloadURL" : "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
+      "iconURL" : "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
+      "localizedDescription" : "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies",
+      "name" : "Streamer",
+      "screenshotURLs" : [
+        "https://user-images.githubusercontent.com/96978272/191682372-93158122-160c-446e-9384-282833cc5626.png",
+        "https://user-images.githubusercontent.com/96978272/191682918-b644aa53-3084-4c3b-b809-97f1b010f985.png",
+        "https://user-images.githubusercontent.com/96978272/191682352-3cb452c1-081e-4981-9dcc-6246a4b6ff4c.png",
+        "https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png"
+      ],
+      "size" : 1170000,
+      "subtitle" : "App for Streaming Movies and TV shows",
+      "tintColor" : "5e5e5e",
+      "version" : "1.2.16",
+      "versionDate" : "2023-05-18",
+      "versionDescription" : "• Added offline support! You can now download movies and TV shows and enjoy them anytime, anywhere.\r\n• Redesigned the settings screen to make it more user-friendly and intuitive.\r\n• Fixed some bugs and made some enhancements to improve your experience.\r\n• The iOS app now requires iOS 15 or later to run.",
+      "versions" : [
+        {
+          "date" : "2023-05-18",
+          "downloadURL" : "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
+          "localizedDescription" : "• Added offline support! You can now download movies and TV shows and enjoy them anytime, anywhere.\r\n• Redesigned the settings screen to make it more user-friendly and intuitive.\r\n• Fixed some bugs and made some enhancements to improve your experience.\r\n• The iOS app now requires iOS 15 or later to run.",
+          "size" : 1170000,
+          "version" : "1.2.16"
+        }
+      ]
+    },
+    {
       "bundleIdentifier" : "com.rhapsody.iphone.Rhapsody3",
       "developerName" : "iJulioVerne",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Napster.Tweaked.v7.4.6.ipa",
@@ -1489,6 +1518,16 @@
     }
   ],
   "news" : [
+    {
+      "appID": "com.streamer.ios",
+      "caption": "Streamer, an app for Streaming Movies and TV shows on iOS, has been added to the source! Click here for more info",
+      "date": "2023-05-21",
+      "identifier": "streamer-added",
+      "imageURL": "https://images.macrumors.com/t/YDqtjaSz1behsXH1mNbHxi4k_84=/2000x/article-new/2021/06/facetime-shareplay-tv-show.jpg",
+      "notify": false,
+      "tintColor": "5e5e5e",
+      "title": "Streamer Added!"
+    },
     {
       "appID" : "com.rhapsody.iphone.Rhapsody3",
       "caption" : "Napster, with premium features, has been added to the source! Click here for more info",
