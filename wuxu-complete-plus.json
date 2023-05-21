@@ -1519,14 +1519,14 @@
   ],
   "news" : [
     {
-      "appID": "com.streamer.ios",
-      "caption": "Streamer, an app for Streaming Movies and TV shows on iOS, has been added to the source! Click here for more info",
-      "date": "2023-05-21",
-      "identifier": "streamer-added",
-      "imageURL": "https://images.macrumors.com/t/YDqtjaSz1behsXH1mNbHxi4k_84=/2000x/article-new/2021/06/facetime-shareplay-tv-show.jpg",
-      "notify": false,
-      "tintColor": "5e5e5e",
-      "title": "Streamer Added!"
+      "appID" : "com.streamer.ios",
+      "caption" : "Streamer, an app for Streaming Movies and TV shows on iOS, has been added to the source! Click here for more info",
+      "date" : "2023-05-21",
+      "identifier" : "streamer-added",
+      "imageURL" : "https://i.imgur.com/HfMyOM3.png",
+      "notify" : false,
+      "tintColor" : "5e5e5e",
+      "title" : "Streamer Added!"
     },
     {
       "appID" : "com.rhapsody.iphone.Rhapsody3",
