@@ -1452,9 +1452,9 @@
     {
       "bundleIdentifier" : "com.wuxulibs.ytkillerplus",
       "developerName" : "iKarwan",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTKillerPlus.v2.2.11.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.19.1.+.YTKillerPlus+.v2.2.12-1R.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "localizedDescription" : "THIS TWEAK REQUIRES A SUBSCRIPTION FOR USE\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
+      "localizedDescription" : "THIS TWEAK REQUIRES A ONE TIME PAYMENT FOR USE - MORE INFO IN APP\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
       "name" : "YouTube (w/ YTKillerPlus+)",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
@@ -1463,19 +1463,19 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size" : 86200000,
+      "size" : 88200000,
       "subtitle" : "A whole new YouTube experience!",
       "tintColor" : "af0303",
-      "version" : "18.17.2",
-      "versionDate" : "2023-05-12",
-      "versionDescription" : "• YouTube updated to v18.17.2",
+      "version" : "18.19.1",
+      "versionDate" : "2023-05-22",
+      "versionDescription" : "• YouTube updated to v18.19.1\n• YTKillerPlus Updated to 2.2.12-1R",
       "versions" : [
         {
-          "date" : "2023-05-12",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTKillerPlus.v2.2.11.ipa",
-          "localizedDescription" : "• YouTube updated to v18.17.2",
-          "size" : 86200000,
-          "version" : "18.17.2"
+          "date" : "2023-05-22",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.19.1.+.YTKillerPlus+.v2.2.12-1R.ipa",
+          "localizedDescription" : "• YouTube updated to v18.19.1\n• YTKillerPlus Updated to 2.2.12-1R",
+          "size" : 88200000,
+          "version" : "18.19.1"
         }
       ]
     },
@@ -1814,7 +1814,7 @@
     {
       "appID" : "com.wuxulibs.ytkillerplus",
       "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
-      "date" : "2023-05-12",
+      "date" : "2023-05-22",
       "identifier" : "youtube-ytkplus-added",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
       "notify" : true,
