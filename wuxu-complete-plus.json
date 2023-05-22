@@ -1394,36 +1394,6 @@
       ]
     },
     {
-      "bundleIdentifier" : "com.wuxulibs.ytmurderer",
-      "developerName" : "CyPwn",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.15.1.+.YTMurderer.ipa",
-      "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "localizedDescription" : "Tweaks:\n\n• YTKillerPlus v2.0.15k\n• iSponsorBlock v1.0-15\n• YTDislikesReturn v1.8.0-1\n• YouTube Reborn v4.0.8\n• YTUHD v1.3.4-2\n• YTABConfig v1.4.6\n• YouMute v1.1.0",
-      "name" : "YouTube (w/ YTMurderer)",
-      "screenshotURLs" : [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/0a/8d/540a8daf-4cc2-397a-e1b1-90b859947b44/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/2048x0w.jpg",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/e3/e8/a1e3e81c-94e1-9bc2-c5f6-f5efe2814230/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/2048x0w.jpg",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
-      ],
-      "size" : 111000000,
-      "subtitle" : "Another YouTube Tweak!",
-      "tintColor" : "af0303",
-      "version" : "18.15.1",
-      "versionDate" : "2023-05-12",
-      "versionDescription" : "• YouTube updated to v18.15.1",
-      "versions" : [
-        {
-          "date" : "2023-05-12",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.15.1.+.YTMurderer.ipa",
-          "localizedDescription" : "• YouTube updated to v18.15.1",
-          "size" : 111000000,
-          "version" : "18.15.1"
-        }
-      ]
-    },
-    {
       "bundleIdentifier" : "com.wuxulibs.uyouplus",
       "developerName" : "qnblackcat",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.14.1.+.uYouPlus.v3.0.ipa",
@@ -1482,9 +1452,9 @@
     {
       "bundleIdentifier" : "com.wuxulibs.ytkillerplus",
       "developerName" : "iKarwan",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.19.1.+.YTKillerPlus+.Cracked.v2.2.12.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTKillerPlus.v2.2.11.ipa",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "localizedDescription" : "This is a cracked version of YTKillerPlus! (Signing in may not work, there are workarounds online)\n\nEnjoy ;)\n\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
+      "localizedDescription" : "THIS TWEAK REQUIRES A SUBSCRIPTION FOR USE\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
       "name" : "YouTube (w/ YTKillerPlus+)",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
@@ -1493,26 +1463,49 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
-      "size" : 86800000,
+      "size" : 86200000,
       "subtitle" : "A whole new YouTube experience!",
       "tintColor" : "af0303",
-      "version" : "18.19.1",
-      "versionDate" : "2023-05-21",
-      "versionDescription" : "• YouTube updated to v18.19.1\n• YTKillerPlus+ (Cracked) updated to v2.2.12",
+      "version" : "18.17.2",
+      "versionDate" : "2023-05-12",
+      "versionDescription" : "• YouTube updated to v18.17.2",
       "versions" : [
         {
-          "date" : "2023-05-21",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.19.1.+.YTKillerPlus+.Cracked.v2.2.12.ipa",
-          "localizedDescription" : "• YouTube updated to v18.19.1\n• YTKillerPlus+ (Cracked) updated to v2.2.12",
-          "size" : 86800000,
-          "version" : "18.19.1"
-        },
+          "date" : "2023-05-12",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.17.2.+.YTKillerPlus.v2.2.11.ipa",
+          "localizedDescription" : "• YouTube updated to v18.17.2",
+          "size" : 86200000,
+          "version" : "18.17.2"
+        }
+      ]
+    },
+    {
+      "bundleIdentifier" : "com.wuxulibs.uyoumurderer",
+      "developerName" : "WuXu",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
+      "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
+      "localizedDescription" : "This is an older version of YouTube, with every youtube tweak combined into one - making it the best youtube tweak possible! If you are willing to use an outdated version of YouTube, with more functionality and tweaks/features, then definitley download this!\n\nApp Includes:\n\n• uYouplus\n• YTMurderer\n• YTKillerPlus (Cracked)\n• iSponsorBlock\n• And many many more…",
+      "name" : "YouXube",
+      "screenshotURLs" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/db/2584db5e-1b7d-197f-1a33-13602daf5d95/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/2048x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/0a/8d/540a8daf-4cc2-397a-e1b1-90b859947b44/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/2048x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/e3/e8/a1e3e81c-94e1-9bc2-c5f6-f5efe2814230/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/2048x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
+      ],
+      "size" : 132000000,
+      "subtitle" : "The best YouTube tweakes combined into one!",
+      "tintColor" : "af0303",
+      "version" : "17.49.6",
+      "versionDate" : "2023-05-22",
+      "versionDescription" : "• Added YouXube v17.49.6-0.2",
+      "versions" : [
         {
-          "date" : "2023-05-14",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.18.2.+.YTKillerPlus+.Cracked.v2.2.11.ipa",
-          "localizedDescription" : "• YouTube updated to v18.18.2\n• YTKillerPlus+ (Cracked) updated to v2.2.11",
-          "size" : 95000000,
-          "version" : "18.18.2"
+          "date" : "2023-05-22",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
+          "localizedDescription" : "• Added YouXube v17.49.6-0.2",
+          "size" : 132000000,
+          "version" : "17.49.6"
         }
       ]
     }
@@ -1809,16 +1802,6 @@
       "title" : "Spotify++ Updated! - And last for a while..."
     },
     {
-      "appID" : "com.wuxulibs.ytmurderer",
-      "caption" : "YT Murderer, a combination of the most popular YouTube tweaks, has been added to the source!",
-      "date" : "2023-05-12",
-      "identifier" : "youtube-ytmurderer-added",
-      "imageURL" : "https://i.imgur.com/tH7nH2r.png",
-      "notify" : true,
-      "tintColor" : "040404",
-      "title" : "YouTube (w/ YTMurderer) Added!"
-    },
-    {
       "appID" : "com.wuxulibs.uyouplus",
       "caption" : "If you have installed a later version, it is broken and you will not be able to update - delete original and reinstall",
       "date" : "2023-05-08",
@@ -1830,13 +1813,23 @@
     },
     {
       "appID" : "com.wuxulibs.ytkillerplus",
-      "caption" : "YouTubeKillerPlus+ (Cracked) has been updated to the latest version, click here for more info",
-      "date" : "2023-05-21",
-      "identifier" : "youtube-ytkplus-updated",
+      "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
+      "date" : "2023-05-12",
+      "identifier" : "youtube-ytkplus-added",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
       "notify" : true,
       "tintColor" : "131313",
-      "title" : "YouTube (w/ YTKillerPlus+) Updated!"
+      "title" : "YouTube (w/ YTKillerPlus+) Added!"
+    },
+    {
+      "appID" : "com.wuxulibs.uyoumurderer",
+      "caption" : "YouXube, every YouTube tweak combined into one, has been added to the source! Click here for more info",
+      "date" : "2023-05-22",
+      "identifier" : "youtube-uyoumurderer-added",
+      "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
+      "notify" : true,
+      "tintColor" : "040404",
+      "title" : "YouXube Added!"
     },
     {
       "appID" : "com.wuxulibs.spotifyplus",
