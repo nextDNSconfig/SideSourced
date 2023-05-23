@@ -1501,16 +1501,16 @@
       "size" : 132000000,
       "subtitle" : "The most popular YouTube tweaks combined into one!",
       "tintColor" : "af0303",
-      "version" : "17.49.6",
+      "version" : "17.49.6-0.2",
       "versionDate" : "2023-05-22",
-      "versionDescription" : "• Added YouXube v17.49.6-0.2",
+      "versionDescription" : "• Added YouXube v17.49.6",
       "versions" : [
         {
           "date" : "2023-05-22",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
-          "localizedDescription" : "• Added YouXube v17.49.6-0.2",
+          "localizedDescription" : "• Added YouXube v17.49.6",
           "size" : 132000000,
-          "version" : "17.49.6"
+          "version" : "17.49.6-0.2"
         }
       ]
     }
