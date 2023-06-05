@@ -1847,6 +1847,15 @@
       "title" : "New Tweak Added To Spotify!"
     },
     {
+      "caption" : "The source is currently down for maintenance! During this time, downloads/updates will be unavailible. Please do not open support tickets! Click here to join the discord for updates!",
+      "date" : "2023-06-05",
+      "identifier" : "source-maintenance",
+      "notify" : true,
+      "tintColor" : "5A5A5A",
+      "title" : "Maintenance In Progress!",
+      "url" : "https://bit.ly/wuxuslibrary-discord"
+    },
+    {
       "caption" : "Hello everyone! I am currently doing my exams, so I am unable to add/update apps as much. I am aware some apps are not working and images are missing, I'll fix this as soon as I can. I'll be back properly on the 25th! Click here to join the discord for news!",
       "date" : "2023-05-07",
       "identifier" : "exams-announcement",
