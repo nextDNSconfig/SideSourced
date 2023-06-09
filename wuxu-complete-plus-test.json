@@ -410,7 +410,7 @@
       "identifier" : "spotify-updated",
       "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
       "date" : "2023-04-24",
-      "tintColor" : "1fd362",
+      "tintColor" : "0e6a32",
       "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
       "notify" : true,
       "appID" : "com.spotify.client"
