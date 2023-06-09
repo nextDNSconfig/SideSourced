@@ -369,7 +369,7 @@
       "identifier" : "youtube-uyouplus-updated",
       "caption" : "YouTube has been updated to the latest stable version with uYouPlus, click here for more info",
       "date" : "2023-04-27",
-      "tintColor" : "f7344e",
+      "tintColor" : "7c1a27",
       "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
       "notify" : true,
       "appID" : "com.google.ios.youtube.uyoup"
@@ -379,7 +379,7 @@
       "identifier" : "youtube-ytkplus-added",
       "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
       "date" : "2023-06-05",
-      "tintColor" : "131313",
+      "tintColor" : "161616",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
       "notify" : true,
       "appID" : "com.google.ios.youtube.ytklr"
