@@ -443,7 +443,7 @@
       "identifier" : "soundcloud-updated",
       "caption" : "SoundCloud++ has been updated to the latest version, click here for more info",
       "date" : "2023-06-09",
-      "tintColor" : "fa2b04",
+      "tintColor" : "fa5607",
       "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
       "notify" : true,
       "appID" : "com.soundcloud.TouchApp"
