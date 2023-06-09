@@ -13,46 +13,6 @@
   ],
   "apps" : [
     {
-      "beta" : false,
-      "name" : "",
-      "bundleIdentifier" : "",
-      "developerName" : "",
-      "subtitle" : "",
-      "localizedDescription" : "",
-      "iconURL" : "",
-      "tintColor" : "",
-      "screenshotURLs" : [
-        ""
-      ],
-      "versions" : [
-        {
-          "version" : "",
-          "date" : "",
-          "localizedDescription" : "",
-          "downloadURL" : "",
-          "size" : 0,
-          "minOSVersion" : "",
-          "maxOSVersion" : ""
-        }
-      ],
-      "appPermissions" : {
-        "entitlements" : [
-          {
-            "name" : ""
-          },
-          {
-            "name" : ""
-          }
-        ],
-        "privacy" : [
-          {
-            "name" : "",
-            "usageDescription" : ""
-          }
-        ]
-      }
-    },
-    {
       "name" : "Spotify++",
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "iJulioVerne",
@@ -394,17 +354,6 @@
     }
   ],
   "news" : [
-    {
-      "title" : "",
-      "identifier" : "",
-      "caption" : "",
-      "date" : "",
-      "tintColor" : "",
-      "imageURL" : "",
-      "notify" : false,
-      "url" : "",
-      "appID" : ""
-    },
     {
       "title" : "Spotify Updated - New Tweak Added!",
       "identifier" : "spotify-updated",
