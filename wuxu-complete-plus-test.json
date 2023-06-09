@@ -359,7 +359,7 @@
       "identifier" : "spotify-updated",
       "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
       "date" : "2023-04-24",
-      "tintColor" : "0e6a32",
+      "tintColor" : "e9faf0",
       "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
       "notify" : true,
       "appID" : "com.spotify.client"
@@ -369,7 +369,7 @@
       "identifier" : "youtube-uyouplus-updated",
       "caption" : "YouTube has been updated to the latest stable version with uYouPlus, click here for more info",
       "date" : "2023-04-27",
-      "tintColor" : "7c1a27",
+      "tintColor" : "f7344e",
       "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
       "notify" : true,
       "appID" : "com.google.ios.youtube.uyoup"
@@ -379,7 +379,7 @@
       "identifier" : "youtube-ytkplus-added",
       "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
       "date" : "2023-06-05",
-      "tintColor" : "161616",
+      "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
       "notify" : true,
       "appID" : "com.google.ios.youtube.ytklr"
@@ -389,7 +389,7 @@
       "identifier" : "youtube-uyoumurderer-added",
       "caption" : "YouXube, every YouTube tweak combined into one, has been added to the source! Click here for more info",
       "date" : "2023-05-22",
-      "tintColor" : "f90505",
+      "tintColor" : "0e0909",
       "imageURL" : "https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg",
       "notify" : true,
       "appID" : "com.google.ios.youtube.uxube"
