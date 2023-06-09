@@ -13,6 +13,120 @@
   ],
   "apps" : [
     {
+      "name" : "Spotify++",
+      "bundleIdentifier" : "com.spotify.client",
+      "developerName" : "iJulioVerne",
+      "subtitle" : "Spotify with free premium, and extra UI features",
+      "localizedDescription" : "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables 'Very High' Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n\n\n\nNOTE\n\nThe ‘Car’ setting has been replaced with the sposify tweak settings so unfortunatley you cannot change car settings - all good tho, nobody use that shi anyways, and when car view enables when u in the car, just click ‘turn off car view’ at the top right corner.\n\n\nAll tweaks are injected by myself, WuXu, and ensured to be working perfectly ;)\n",
+      "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
+      "tintColor" : "1fd362",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
+      ],
+      "versions" : [
+        {
+          "version" : "8.6.42-0.2",
+          "date" : "2023-04-24",
+          "localizedDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
+          "size" : 49167729
+        },
+        {
+          "version" : "8.6.42-0.1",
+          "date" : "2023-03-19",
+          "localizedDescription" : "• Added SpotifyNoPodcasts\n• Added SpotifyHighQuality\n• Added Spoticentre\n• Added TrueShuffle",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
+          "size" : 47000000
+        }
+      ],
+      "appPermissions" : {
+        "entitlements" : [
+          {
+            "name" : "com.apple.developer.siri"
+          },
+          {
+            "name" : "com.apple.developer.carplay-audio"
+          },
+          {
+            "name" : "com.apple.developer.playable-content"
+          },
+          {
+            "name" : "com.apple.developer.applesignin"
+          },
+          {
+            "name" : "com.apple.developer.networking.multicast"
+          },
+          {
+            "name" : "com.apple.developer.networking.wifi-info"
+          },
+          {
+            "name" : "com.apple.developer.team-identifier"
+          },
+          {
+            "name" : "com.apple.security.application-groups"
+          },
+          {
+            "name" : "com.apple.developer.associated-domains"
+          }
+        ],
+        "privacy" : [
+          {
+            "name" : "AppleMusic",
+            "usageDescription" : "This will let you play your imported music on Spotify."
+          },
+          {
+            "name" : "BluetoothAlways",
+            "usageDescription" : "This lets you use Spotify with external accessories."
+          },
+          {
+            "name" : "BluetoothPeripheral",
+            "usageDescription" : "This lets you use Spotify with external accessories."
+          },
+          {
+            "name" : "Camera",
+            "usageDescription" : "This lets you scan Spotify Codes."
+          },
+          {
+            "name" : "FaceID",
+            "usageDescription" : "This lets you set access restrictions using Face ID."
+          },
+          {
+            "name" : "LocalNetwork",
+            "usageDescription" : "This lets you listen on different devices. Spotify will also get access to local audio files."
+          },
+          {
+            "name" : "LocationWhenInUse",
+            "usageDescription" : "This lets you prepopulate the SSID field with the currently connected network."
+          },
+          {
+            "name" : "Microphone",
+            "usageDescription" : "This lets you control Spotify using your voice."
+          },
+          {
+            "name" : "PhotoLibraryAdd",
+            "usageDescription" : "This lets you save images to your Photo Library."
+          },
+          {
+            "name" : "PhotoLibrary",
+            "usageDescription" : "This lets you select images from your Photo Library."
+          },
+          {
+            "name" : "UserTracking",
+            "usageDescription" : "Your data will be used to deliver personalized ads or content to you."
+          }
+        ]
+      }
+    },
+    {
       "name" : "YouTube (w/ uYou+)",
       "bundleIdentifier" : "com.google.ios.youtube.uyoup",
       "developerName" : "qnblackcat",
@@ -240,6 +354,16 @@
     }
   ],
   "news" : [
+    {
+      "title" : "New Tweak Added To Spotify!",
+      "identifier" : "spotify-updated",
+      "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
+      "date" : "2023-04-24",
+      "tintColor" : "1fd362",
+      "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
+      "notify" : true,
+      "appID" : "com.spotify.client"
+    },
     {
       "title" : "YouTube (w/ uYou+) Updated - uYouPlus v3.0 Released!",
       "identifier" : "youtube-uyouplus-updated",
