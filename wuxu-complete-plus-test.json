@@ -235,6 +235,16 @@
   ],
   "news" : [
     {
+      "title" : "YouTube (w/ uYou+) Updated - uYouPlus v3.0 Released!",
+      "identifier" : "youtube-uyouplus-updated",
+      "caption" : "YouTube has been updated to the latest stable version with uYouPlus, click here for more info",
+      "date" : "2023-04-27",
+      "tintColor" : "f90505",
+      "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
+      "notify" : true,
+      "appID" : "com.wuxulibs.uyouplus"
+    },
+    {
       "title" : "YouTube (w/ YTKillerPlus+) Added!",
       "identifier" : "youtube-ytkplus-added",
       "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
@@ -250,7 +260,7 @@
       "caption" : "YouXube, every YouTube tweak combined into one, has been added to the source! Click here for more info",
       "date" : "2023-05-22",
       "tintColor" : "f90505",
-      "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
+      "imageURL" : "",
       "notify" : true,
       "appID" : "com.google.ios.youtube.uxube"
     }
