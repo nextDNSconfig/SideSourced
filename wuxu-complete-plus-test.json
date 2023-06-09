@@ -13,6 +13,46 @@
   ],
   "apps" : [
     {
+      "beta" : false,
+      "name" : "",
+      "bundleIdentifier" : "",
+      "developerName" : "",
+      "subtitle" : "",
+      "localizedDescription" : "",
+      "iconURL" : "",
+      "tintColor" : "",
+      "screenshotURLs" : [
+        ""
+      ],
+      "versions" : [
+        {
+          "version" : "",
+          "date" : "",
+          "localizedDescription" : "",
+          "downloadURL" : "",
+          "size" : 0,
+          "minOSVersion" : "",
+          "maxOSVersion" : ""
+        }
+      ],
+      "appPermissions" : {
+        "entitlements" : [
+          {
+            "name" : ""
+          },
+          {
+            "name" : ""
+          }
+        ],
+        "privacy" : [
+          {
+            "name" : "",
+            "usageDescription" : ""
+          }
+        ]
+      }
+    },
+    {
       "name" : "Spotify++",
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "iJulioVerne",
@@ -355,7 +395,18 @@
   ],
   "news" : [
     {
-      "title" : "New Tweak Added To Spotify!",
+      "title" : "",
+      "identifier" : "",
+      "caption" : "",
+      "date" : "",
+      "tintColor" : "",
+      "imageURL" : "",
+      "notify" : false,
+      "url" : "",
+      "appID" : ""
+    },
+    {
+      "title" : "Spotify Updated - New Tweak Added!",
       "identifier" : "spotify-updated",
       "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
       "date" : "2023-04-24",
@@ -369,7 +420,7 @@
       "identifier" : "youtube-uyouplus-updated",
       "caption" : "YouTube has been updated to the latest stable version with uYouPlus, click here for more info",
       "date" : "2023-04-27",
-      "tintColor" : "f90505",
+      "tintColor" : "f7344e",
       "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
       "notify" : true,
       "appID" : "com.google.ios.youtube.uyoup"
@@ -390,7 +441,7 @@
       "caption" : "YouXube, every YouTube tweak combined into one, has been added to the source! Click here for more info",
       "date" : "2023-05-22",
       "tintColor" : "f90505",
-      "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
+      "imageURL" : "https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg",
       "notify" : true,
       "appID" : "com.google.ios.youtube.uxube"
     }
