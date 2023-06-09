@@ -13,6 +13,90 @@
   ],
   "apps" : [
     {
+      "name" : "SoundCloud++",
+      "bundleIdentifier" : "com.soundcloud.TouchApp",
+      "developerName" : "Rov3r",
+      "subtitle" : "SoundCloud with no ads!",
+      "localizedDescription" : "Enhance your SoundCloud experience with the following features:\n\n• Remove Ads\n• Remove Promoted Playlists\n• Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
+      "iconURL" : "https://img.ipa4fun.com/b1/62/d8/336353151-logo.webp",
+      "tintColor" : "b03b03",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
+      ],
+      "versions" : [
+        {
+          "version" : "7.3.2-2.2.1",
+          "date" : "2023-06-09",
+          "localizedDescription" : "• Updated SoundCloud to v7.3.2",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.3.2.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 49817846
+        }
+      ],
+      "appPermissions" : {
+        "entitlements" : [
+          {
+            "name" : "com.apple.developer.applesignin"
+          },
+          {
+            "name" : "com.apple.developer.associated-domains"
+          },
+          {
+            "name" : "com.apple.developer.mediasetup"
+          },
+          {
+            "name" : "com.apple.developer.siri"
+          },
+          {
+            "name" : "com.apple.developer.team-identifier"
+          },
+          {
+            "name" : "com.apple.security.application-groups"
+          }
+        ],
+        "privacy" : [
+          {
+            "name" : "BluetoothPeripheral",
+            "usageDescription" : "SoundCloud would like to use bluetooth."
+          },
+          {
+            "name" : "Camera",
+            "usageDescription" : "bla-bla-bla"
+          },
+          {
+            "name" : "LocalNetwork",
+            "usageDescription" : "SoundCloud uses the local network to discover Cast-enabled devices on your WiFi network."
+          },
+          {
+            "name" : "Microphone",
+            "usageDescription" : "SoundCloud would like to use the microphone."
+          },
+          {
+            "name" : "PhotoLibraryAdd",
+            "usageDescription" : "SoundCloud would like to access the photos library."
+          },
+          {
+            "name" : "PhotoLibrary",
+            "usageDescription" : "SoundCloud would like to store a photo."
+          },
+          {
+            "name" : "Siri",
+            "usageDescription" : "SoundCloud would like to use Siri"
+          },
+          {
+            "name" : "UserTracking",
+            "usageDescription" : "Your data will only be used to serve more relevant ads to you."
+          }
+        ]
+      }
+    },
+    {
       "name" : "Spotify++",
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "iJulioVerne",
@@ -355,6 +439,16 @@
   ],
   "news" : [
     {
+      "title" : "SoundCloud++ Updated!",
+      "identifier" : "soundcloud-updated",
+      "caption" : "SoundCloud++ has been updated to the latest version, click here for more info",
+      "date" : "2023-06-09",
+      "tintColor" : "191818",
+      "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
+      "notify" : true,
+      "appID" : "com.soundcloud.TouchApp"
+    },
+    {
       "title" : "Spotify Updated - New Tweak Added!",
       "identifier" : "spotify-updated",
       "caption" : "A new tweak that may fix spotilife not enabling premium on some devices has been added to Spotify! Click here for more info",
@@ -367,7 +461,7 @@
     {
       "title" : "YouTube (w/ uYou+) Updated - uYouPlus v3.0 Released!",
       "identifier" : "youtube-uyouplus-updated",
-      "caption" : "YouTube has been updated to the latest stable version with uYouPlus, click here for more info",
+      "caption" : "YouTube (w/ uYou+) has been updated to the latest stable version with uYouPlus, click here for more info",
       "date" : "2023-04-27",
       "tintColor" : "f7344e",
       "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
