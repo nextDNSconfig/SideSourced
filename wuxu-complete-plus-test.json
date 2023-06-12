@@ -9,6 +9,37 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "TikTok++",
+      "bundleIdentifier" : "com.zhiliaoapp.musically",
+      "developerName" : "CrazyMind90",
+      "subtitle" : "TikTok with added features.",
+      "localizedDescription" : "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
+      "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.webp",
+      "tintColor" : "0b0b0b",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-1.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-2.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-3.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-4.webp",
+        "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-5.webp"
+      ],
+      "version" : "29.8.0-2.5",
+      "versionDate" : "2023-06-12",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v29.8.0.+.LRD+.v2.5.ipa",
+      "versionDescription" : "• Updated TikTok to v29.8.0",
+      "size" : 218061865,
+      "versions" : [
+        {
+          "version" : "29.8.0-2.5",
+          "date" : "2023-06-12",
+          "localizedDescription" : "• Updated TikTok to v29.8.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v29.8.0.+.LRD+.v2.5.ipa",
+          "size" : 218061865
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "Instagram++",
       "bundleIdentifier" : "com.burbn.instagram",
       "developerName" : "Majd Alfhaily",
@@ -317,6 +348,16 @@
     }
   ],
   "news" : [
+    {
+      "title" : "TikTok++ Updated!",
+      "identifier" : "tiktok-updated",
+      "caption" : "TikTok++ has been updated to the latest version, click here for more info",
+      "date" : "2023-05-21",
+      "tintColor" : "13ddd8",
+      "imageURL" : "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/02/how-to-delete-tiktok-1220x683.jpg",
+      "appID" : "com.zhiliaoapp.musically",
+      "notify" : false
+    },
     {
       "title" : "Instagram++ Updated!",
       "identifier" : "instagram-updated",
