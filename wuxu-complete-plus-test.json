@@ -9,6 +9,41 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "Deezer++",
+      "bundleIdentifier" : "com.deezer.Deezer",
+      "developerName" : "iJulioVerne",
+      "subtitle" : "Deezer with premium activated!",
+      "localizedDescription" : "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.\n\nEnjoy a massive music catalog that has everything and more with in-built algorithms that learn what you like and recommend more of it. The Deezer music player is your companion across all devices, providing access to the artists, songs and communities that speak to you. Discover and create playlists in your favorite genres: hip hop, rap, rock, lofi. No WiFi needed — download songs and enjoy offline music — perfect for when at home or on the go.\n\nThis is the most personalized and intuitive listening experience, brought to you from the home of music.\n\nWith Deezer Free*, you'll get all you need in one app:\n\n• Flow, our feature for infinite, personalized mixes (on-point recommendations every time)\n• SongCatcher, for identifying any song playing around you (try singing or humming for magic results)\n• Game on with music quiz (see how fast you can guess your favorite song)\n• A ludicrously-large catalog (go on, try to find a song that isn't there)\n• The freedom to play music based on moods, niche genres and scenes\n• Personal and collaborative playlists, favorites, radio* and more\n• Dive deeper into the music with the Lyrics feature and translated lyrics\n• Sleep timer function (for those beauty Zzzzzz)\n• Sharing function for spreading the love on socials\n\n\nLooking for a level up? Switch to Deezer Premium**, Deezer Family** or Deezer Student** and you'll benefit from these added perks:\n\n• No ads, ever!\n• Offline listening (just cause the signal cuts doesn't mean the music has to)\n• Unlimited skips, unlimited listening\n• HiFi sound (High Fidelity, lossless quality at 1,411 kbps)\n• FLAC-standard quality on millions of tracks\n• High-end sound system compatibility\n\nCompatible devices:\nGet Deezer on all your connected devices — Google Nest, HomePod Mini, Amazon Alexa, Sonos and more.",
+      "iconURL" : "https://img.ipa4fun.com/23/af/ed/292738169-logo.webp",
+      "tintColor" : "#0e0e0e",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-1.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-2.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-3.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-4.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-5.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-6.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-7.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-8.webp",
+        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-9.webp"
+      ],
+      "version" : "7.15.0-0.5",
+      "versionDate" : "2022-04-09",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.+.Deezelife.v0.5.ipa",
+      "versionDescription" : "• Updated Deezer to v7.15.0 - Last working version with tweak.",
+      "size" : 32442941,
+      "versions" : [
+        {
+          "version" : "7.15.0-0.5",
+          "date" : "2022-04-09",
+          "localizedDescription" : "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.\n\nEnjoy a massive music catalog that has everything and more with in-built algorithms that learn what you like and recommend more of it. The Deezer music player is your companion across all devices, providing access to the artists, songs and communities that speak to you. Discover and create playlists in your favorite genres: hip hop, rap, rock, lofi. No WiFi needed — download songs and enjoy offline music — perfect for when at home or on the go.\n\nThis is the most personalized and intuitive listening experience, brought to you from the home of music.\n\nWith Deezer Free*, you'll get all you need in one app:\n\n• Flow, our feature for infinite, personalized mixes (on-point recommendations every time)\n• SongCatcher, for identifying any song playing around you (try singing or humming for magic results)\n• Game on with music quiz (see how fast you can guess your favorite song)\n• A ludicrously-large catalog (go on, try to find a song that isn't there)\n• The freedom to play music based on moods, niche genres and scenes\n• Personal and collaborative playlists, favorites, radio* and more\n• Dive deeper into the music with the Lyrics feature and translated lyrics\n• Sleep timer function (for those beauty Zzzzzz)\n• Sharing function for spreading the love on socials\n\n\nLooking for a level up? Switch to Deezer Premium**, Deezer Family** or Deezer Student** and you'll benefit from these added perks:\n\n• No ads, ever!\n• Offline listening (just cause the signal cuts doesn't mean the music has to)\n• Unlimited skips, unlimited listening\n• HiFi sound (High Fidelity, lossless quality at 1,411 kbps)\n• FLAC-standard quality on millions of tracks\n• High-end sound system compatibility\n\nCompatible devices:\nGet Deezer on all your connected devices — Google Nest, HomePod Mini, Amazon Alexa, Sonos and more.",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.+.Deezelife.v0.5.ipa",
+          "size" : 32442941
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "SoundCloud++",
       "bundleIdentifier" : "com.soundcloud.TouchApp",
       "developerName" : "Rov3r",
@@ -183,6 +218,16 @@
     }
   ],
   "news" : [
+    {
+      "title" : "Deezer++ Added! - Last working version with tweak",
+      "identifier" : "deezer-added",
+      "caption" : "Deezer, with premium activated, has been added to the source! This may be the last update as the tweak dev no longer updates the tweak.",
+      "date" : "2023-04-05",
+      "tintColor" : "0e0e0e",
+      "imageURL" : "https://www.soda.com/wp-content/uploads/2020/03/deezer.jpg",
+      "appID" : "com.deezer.Deezer",
+      "notify" : false
+    },
     {
       "title" : "SoundCloud++ Updated!",
       "identifier" : "soundcloud-updated",
