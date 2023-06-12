@@ -1,24 +1,26 @@
 {
   "name" : "WuXu's Library++",
   "identifier" : "com.wuxulibs.wuxuslibrary++",
+  "sourceURL" : "https://wuxu1.github.io/wuxu-complete-plus-test.json",
   "apps" : [
     {
       "name" : "SoundCloud++",
       "bundleIdentifier" : "com.soundcloud.TouchApp",
       "developerName" : "Rov3r",
       "subtitle" : "SoundCloud with no ads!",
-      "versions" : [
-        {
-          "version" : "7.3.2-2.2.1",
-          "date" : "2023-06-09",
-          "localizedDescription" : "• Updated SoundCloud to v7.3.2",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.3.2.+.SCMusicPlus.v2.2.1.ipa",
-          "size" : 49817846
-        }
-      ],
       "localizedDescription" : "Enhance your SoundCloud experience with the following features:\n\n• Remove Ads\n• Remove Promoted Playlists\n• Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
       "iconURL" : "https://img.ipa4fun.com/b1/62/d8/336353151-logo.webp",
       "tintColor" : "b03b03",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
+      ],
       "permissions" : [
         {
           "name" : "BluetoothPeripheral",
@@ -53,15 +55,18 @@
           "usageDescription" : "Your data will only be used to serve more relevant ads to you."
         }
       ],
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
+      "version" : "7.3.2-2.2.1",
+      "versionDate" : "2023-06-09",
+      "versionDescription" : "• Updated SoundCloud to v7.3.2",
+      "size" : 49817846,
+      "versions" : [
+        {
+          "version" : "7.3.2-2.2.1",
+          "date" : "2023-06-09",
+          "localizedDescription" : "• Updated SoundCloud to v7.3.2",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.3.2.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 49817846
+        }
       ],
       "beta" : false
     },
@@ -70,25 +75,21 @@
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "iJulioVerne",
       "subtitle" : "Spotify with free premium, and extra UI features",
-      "versions" : [
-        {
-          "version" : "8.6.42-0.2",
-          "date" : "2023-04-24",
-          "localizedDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
-          "size" : 49167729
-        },
-        {
-          "version" : "8.6.42-0.1",
-          "date" : "2023-03-19",
-          "localizedDescription" : "• Added SpotifyNoPodcasts\n• Added SpotifyHighQuality\n• Added Spoticentre\n• Added TrueShuffle",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
-          "size" : 47000000
-        }
-      ],
       "localizedDescription" : "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables 'Very High' Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n\n\n\nNOTE\n\nThe ‘Car’ setting has been replaced with the sposify tweak settings so unfortunatley you cannot change car settings - all good tho, nobody use that shi anyways, and when car view enables when u in the car, just click ‘turn off car view’ at the top right corner.\n\n\nAll tweaks are injected by myself, WuXu, and ensured to be working perfectly ;)\n",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
       "tintColor" : "1fd362",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
+      ],
       "permissions" : [
         {
           "name" : "AppleMusic",
@@ -135,17 +136,25 @@
           "usageDescription" : "Your data will be used to deliver personalized ads or content to you."
         }
       ],
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
+      "version" : "8.6.42-0.2",
+      "versionDate" : "2023-04-24",
+      "versionDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
+      "size" : 49167729,
+      "versions" : [
+        {
+          "version" : "8.6.42-0.2",
+          "date" : "2023-04-24",
+          "localizedDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
+          "size" : 49167729
+        },
+        {
+          "version" : "8.6.42-0.1",
+          "date" : "2023-03-19",
+          "localizedDescription" : "• Added SpotifyNoPodcasts\n• Added SpotifyHighQuality\n• Added Spoticentre\n• Added TrueShuffle",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
+          "size" : 47000000
+        }
       ],
       "beta" : false
     },
@@ -154,6 +163,54 @@
       "bundleIdentifier" : "com.google.ios.youtube.uyoup",
       "developerName" : "qnblackcat",
       "subtitle" : "The All-In-One Tweak for YouTube.",
+      "localizedDescription" : "From the dev:\n\n• YouTube really messed up with OLED dark mode in v18.15.1+. We should stay on the lower version for now.\n• For those who're using the pre-release version (v18.15.1-3.0): I strongly recommend you downgrade from v18.15.1-3.0 to v18.14.1-3.0 (this version).\n• Guess my journey with uYouPlus will end here. The app will be updated by other developers. This is probably the last time I - qnblackcat, update uYouPlus. Enjoy!\n\n\nIf you're a YouTube app user then you'll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
+      "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
+      "tintColor" : "f90505",
+      "screenshotURLs" : [
+        "https://i.imgur.com/5QTi2o4.png",
+        "https://i.imgur.com/9Jz3BxT.png",
+        "https://i.imgur.com/xfIkANo.png",
+        "https://i.imgur.com/pUZrDLr.png",
+        "https://i.imgur.com/oLav2ob.png"
+      ],
+      "permissions" : [
+        {
+          "name" : "AppleMusic",
+          "usageDescription" : "This lets you add your own audio files to your videos."
+        },
+        {
+          "name" : "BluetoothPeripheral",
+          "usageDescription" : "YouTube needs bluetooth access to scan for nearby Cast devices."
+        },
+        {
+          "name" : "Camera",
+          "usageDescription" : "This lets you create videos using the app."
+        },
+        {
+          "name" : "Contacts",
+          "usageDescription" : "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+        },
+        {
+          "name" : "LocalNetwork",
+          "usageDescription" : "Access to your network allows YouTube to discover and connect to devices such as your TV."
+        },
+        {
+          "name" : "LocationWhenInUse",
+          "usageDescription" : "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+        },
+        {
+          "name" : "Microphone",
+          "usageDescription" : "This lets you include audio with your videos and search using your voice."
+        },
+        {
+          "name" : "PhotoLibrary",
+          "usageDescription" : "This lets you upload media you've already created."
+        }
+      ],
+      "version" : "18.14.1-3.0",
+      "versionDate" : "2023-04-27",
+      "versionDescription" : "• YouTube updated to v18.14.1\n• uYou updated to v3.0\n\nuYouPlus:\n\n• Removed some tweaks/patches as they have been implemented in uYou 3.0 (YTAutoFullScreen, YTShortsProgressBar, hide Shorts buttons, keychain patching, etc...)\n• Added YTStockVolumeHUD: replaces YouTube's volume HUD with the stock volume HUD (Video Player Options).\n• Added an option to disable Double tap to seek (Video Player Options).\n• Fixed Red Progress bar not working by @dayanch96",
+      "size" : 121603359,
       "versions" : [
         {
           "version" : "18.14.1-3.0",
@@ -163,50 +220,6 @@
           "size" : 121603359
         }
       ],
-      "localizedDescription" : "From the dev:\n\n• YouTube really messed up with OLED dark mode in v18.15.1+. We should stay on the lower version for now.\n• For those who're using the pre-release version (v18.15.1-3.0): I strongly recommend you downgrade from v18.15.1-3.0 to v18.14.1-3.0 (this version).\n• Guess my journey with uYouPlus will end here. The app will be updated by other developers. This is probably the last time I - qnblackcat, update uYouPlus. Enjoy!\n\n\nIf you're a YouTube app user then you'll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
-      "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "tintColor" : "f90505",
-      "permissions" : [
-        {
-          "name" : "AppleMusic",
-          "usageDescription" : "This lets you add your own audio files to your videos."
-        },
-        {
-          "name" : "BluetoothPeripheral",
-          "usageDescription" : "YouTube needs bluetooth access to scan for nearby Cast devices."
-        },
-        {
-          "name" : "Camera",
-          "usageDescription" : "This lets you create videos using the app."
-        },
-        {
-          "name" : "Contacts",
-          "usageDescription" : "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-        },
-        {
-          "name" : "LocalNetwork",
-          "usageDescription" : "Access to your network allows YouTube to discover and connect to devices such as your TV."
-        },
-        {
-          "name" : "LocationWhenInUse",
-          "usageDescription" : "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-        },
-        {
-          "name" : "Microphone",
-          "usageDescription" : "This lets you include audio with your videos and search using your voice."
-        },
-        {
-          "name" : "PhotoLibrary",
-          "usageDescription" : "This lets you upload media you've already created."
-        }
-      ],
-      "screenshotURLs" : [
-        "https://i.imgur.com/5QTi2o4.png",
-        "https://i.imgur.com/9Jz3BxT.png",
-        "https://i.imgur.com/xfIkANo.png",
-        "https://i.imgur.com/pUZrDLr.png",
-        "https://i.imgur.com/oLav2ob.png"
-      ],
       "beta" : false
     },
     {
@@ -214,52 +227,9 @@
       "bundleIdentifier" : "com.google.ios.youtube.ytklr",
       "developerName" : "iKarwan",
       "subtitle" : "A whole new YouTube experience!",
-      "versions" : [
-        {
-          "version" : "18.20.3-2.2.13",
-          "date" : "2023-06-05",
-          "localizedDescription" : "• Readded DontEatMyContent (1.0.10)\n• Updated YTKillerPlus (2.2.13)\n• Updated Return YouTube Dislike (1.11.3)\n• Updated YouTube (18.20.3)",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.20.3.+.YTKillerPlus+.v2.2.13.ipa",
-          "size" : 93396664
-        }
-      ],
       "localizedDescription" : "THIS TWEAK REQUIRES A ONE TIME PAYMENT FOR USE - MORE INFO IN APP\n\nFeatures:\n\n• In App Settings?:\n• Download Video/Audio/Shorts & Imgage\n• Download Manager for manging Downloaded Items\n• Import Videos To Photos\n• block all advertisment\n• play in background\n• stream HD videos over 3G/4G/5G\n• stream 4K videos\n• PiP feature Picture in Picture\n• OLED mode for a better dark mode\n• Customize tab bar layout\n• AppLock Settings\n• Support for iPadOS\n• And many more settings..",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
       "tintColor" : "f90505",
-      "permissions" : [
-        {
-          "name" : "AppleMusic",
-          "usageDescription" : "This lets you add your own audio files to your videos."
-        },
-        {
-          "name" : "BluetoothPeripheral",
-          "usageDescription" : "YouTube needs bluetooth access to scan for nearby Cast devices."
-        },
-        {
-          "name" : "Camera",
-          "usageDescription" : "This lets you create videos using the app."
-        },
-        {
-          "name" : "Contacts",
-          "usageDescription" : "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-        },
-        {
-          "name" : "LocalNetwork",
-          "usageDescription" : "Access to your network allows YouTube to discover and connect to devices such as your TV."
-        },
-        {
-          "name" : "LocationWhenInUse",
-          "usageDescription" : "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-        },
-        {
-          "name" : "Microphone",
-          "usageDescription" : "This lets you include audio with your videos and search using your voice."
-        },
-        {
-          "name" : "PhotoLibrary",
-          "usageDescription" : "This lets you upload media you've already created."
-        }
-      ],
       "screenshotURLs" : [
         "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
         "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
@@ -270,25 +240,6 @@
         "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
         "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG"
       ],
-      "beta" : false
-    },
-    {
-      "name" : "YouXube",
-      "bundleIdentifier" : "com.google.ios.youtube.uxube",
-      "developerName" : "WuXu",
-      "subtitle" : "The most popular YouTube tweaks combined into one!",
-      "versions" : [
-        {
-          "version" : "17.49.6-0.2",
-          "date" : "2023-05-22",
-          "localizedDescription" : "• Added YouXube v17.49.6-0.2",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.v2.1.+.YTMurderer.ipa",
-          "size" : 138758062
-        }
-      ],
-      "localizedDescription" : "This is an older version of YouTube, with every youtube tweak combined into one - making it the best youtube tweak possible! If you are willing to use an outdated version of YouTube, with more functionality and tweaks/features, then definitley download this!\n\nApp Includes:\n\n• uYouplus\n• YTMurderer\n• YTKillerPlus (Cracked)\n• iSponsorBlock\n• And many many more…",
-      "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "tintColor" : "f90505",
       "permissions" : [
         {
           "name" : "AppleMusic",
@@ -323,12 +274,82 @@
           "usageDescription" : "This lets you upload media you've already created."
         }
       ],
+      "version" : "18.20.3-2.2.13",
+      "versionDate" : "2023-06-05",
+      "versionDescription" : "• Readded DontEatMyContent (1.0.10)\n• Updated YTKillerPlus (2.2.13)\n• Updated Return YouTube Dislike (1.11.3)\n• Updated YouTube (18.20.3)",
+      "size" : 93396664,
+      "versions" : [
+        {
+          "version" : "18.20.3-2.2.13",
+          "date" : "2023-06-05",
+          "localizedDescription" : "• Readded DontEatMyContent (1.0.10)\n• Updated YTKillerPlus (2.2.13)\n• Updated Return YouTube Dislike (1.11.3)\n• Updated YouTube (18.20.3)",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.20.3.+.YTKillerPlus+.v2.2.13.ipa",
+          "size" : 93396664
+        }
+      ],
+      "beta" : false
+    },
+    {
+      "name" : "YouXube",
+      "bundleIdentifier" : "com.google.ios.youtube.uxube",
+      "developerName" : "WuXu",
+      "subtitle" : "The most popular YouTube tweaks combined into one!",
+      "localizedDescription" : "This is an older version of YouTube, with every youtube tweak combined into one - making it the best youtube tweak possible! If you are willing to use an outdated version of YouTube, with more functionality and tweaks/features, then definitley download this!\n\nApp Includes:\n\n• uYouplus\n• YTMurderer\n• YTKillerPlus (Cracked)\n• iSponsorBlock\n• And many many more…",
+      "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
+      "tintColor" : "f90505",
       "screenshotURLs" : [
         "https://i.imgur.com/QyT9uUK.png",
         "https://i.imgur.com/QUv5PeT.png",
         "https://i.imgur.com/eI3i42h.png",
         "https://i.imgur.com/3nuytgF.png",
         "https://i.imgur.com/MBs2pVb.png"
+      ],
+      "permissions" : [
+        {
+          "name" : "AppleMusic",
+          "usageDescription" : "This lets you add your own audio files to your videos."
+        },
+        {
+          "name" : "BluetoothPeripheral",
+          "usageDescription" : "YouTube needs bluetooth access to scan for nearby Cast devices."
+        },
+        {
+          "name" : "Camera",
+          "usageDescription" : "This lets you create videos using the app."
+        },
+        {
+          "name" : "Contacts",
+          "usageDescription" : "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+        },
+        {
+          "name" : "LocalNetwork",
+          "usageDescription" : "Access to your network allows YouTube to discover and connect to devices such as your TV."
+        },
+        {
+          "name" : "LocationWhenInUse",
+          "usageDescription" : "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+        },
+        {
+          "name" : "Microphone",
+          "usageDescription" : "This lets you include audio with your videos and search using your voice."
+        },
+        {
+          "name" : "PhotoLibrary",
+          "usageDescription" : "This lets you upload media you've already created."
+        }
+      ],
+      "version" : "17.49.6-0.2",
+      "versionDate" : "2023-05-22",
+      "versionDescription" : "• Added YouXube v17.49.6-0.2",
+      "size" : 138758062,
+      "versions" : [
+        {
+          "version" : "17.49.6-0.2",
+          "date" : "2023-05-22",
+          "localizedDescription" : "• Added YouXube v17.49.6-0.2",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.v2.1.+.YTMurderer.ipa",
+          "size" : 138758062
+        }
       ],
       "beta" : false
     }
@@ -384,6 +405,5 @@
       "notify" : true,
       "appID" : "com.google.ios.youtube.uxube"
     }
-  ],
-  "version" : 2
+  ]
 }
