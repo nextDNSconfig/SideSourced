@@ -57,6 +57,7 @@
       ],
       "version" : "7.3.2-2.2.1",
       "versionDate" : "2023-06-09",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.3.2.+.SCMusicPlus.v2.2.1.ipa",
       "versionDescription" : "• Updated SoundCloud to v7.3.2",
       "size" : 49817846,
       "versions" : [
@@ -138,6 +139,7 @@
       ],
       "version" : "8.6.42-0.2",
       "versionDate" : "2023-04-24",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.2.ipa",
       "versionDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
       "size" : 49167729,
       "versions" : [
@@ -209,6 +211,7 @@
       ],
       "version" : "18.14.1-3.0",
       "versionDate" : "2023-04-27",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.14.1.+.uYouPlus.v3.0.ipa",
       "versionDescription" : "• YouTube updated to v18.14.1\n• uYou updated to v3.0\n\nuYouPlus:\n\n• Removed some tweaks/patches as they have been implemented in uYou 3.0 (YTAutoFullScreen, YTShortsProgressBar, hide Shorts buttons, keychain patching, etc...)\n• Added YTStockVolumeHUD: replaces YouTube's volume HUD with the stock volume HUD (Video Player Options).\n• Added an option to disable Double tap to seek (Video Player Options).\n• Fixed Red Progress bar not working by @dayanch96",
       "size" : 121603359,
       "versions" : [
@@ -276,6 +279,7 @@
       ],
       "version" : "18.20.3-2.2.13",
       "versionDate" : "2023-06-05",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.20.3.+.YTKillerPlus+.v2.2.13.ipa",
       "versionDescription" : "• Readded DontEatMyContent (1.0.10)\n• Updated YTKillerPlus (2.2.13)\n• Updated Return YouTube Dislike (1.11.3)\n• Updated YouTube (18.20.3)",
       "size" : 93396664,
       "versions" : [
@@ -340,6 +344,7 @@
       ],
       "version" : "17.49.6-0.2",
       "versionDate" : "2023-05-22",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.v2.1.+.YTMurderer.ipa",
       "versionDescription" : "• Added YouXube v17.49.6-0.2",
       "size" : 138758062,
       "versions" : [
