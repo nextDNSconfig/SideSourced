@@ -251,6 +251,16 @@
   ],
   "news" : [
     {
+      "title" : "BeReal++ Updated!",
+      "identifier" : "bereal-updated",
+      "caption" : "BeReal++ has been updated to the latest version, click here for more info",
+      "date" : "2023-06-10",
+      "tintColor" : "0b0b0b",
+      "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
+      "appID" : "AlexisBarreyat.BeReal",
+      "notify" : true
+    },
+    {
       "title" : "Deezer++ Added! - Last working version with tweak",
       "identifier" : "deezer-added",
       "caption" : "Deezer, with premium activated, has been added to the source! This may be the last update as the tweak dev no longer updates the tweak.",
