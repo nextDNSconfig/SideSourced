@@ -1,7 +1,6 @@
 {
   "name" : "WuXu's Library++",
   "identifier" : "com.wuxulibs.wuxuslibrary++",
-  "sourceURL" : "https://wuxu1.github.io/wuxu-complete-plus-test.json",
   "featuredApps" : [
     "com.google.ios.youtube.uxube",
     "com.google.ios.youtube.ytklr"
@@ -389,5 +388,6 @@
       "notify" : true,
       "appID" : "com.google.ios.youtube.uxube"
     }
-  ]
+  ],
+  "version" : 2
 }
