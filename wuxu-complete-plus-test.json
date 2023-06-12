@@ -9,6 +9,42 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "MyFitnessPal++",
+      "bundleIdentifier" : "com.myfitnesspal.mfp",
+      "developerName" : "Strejda603",
+      "subtitle" : "MyFitnessPal With Premium Activated.",
+      "localizedDescription" : "• Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn't another restrictive diet app. This is a health app to help you learn about your habits u2026 see how you eat u2026 make smarter food choices u2026 find motivation & support ... and conquer your health goals.",
+      "iconURL" : "https://img.ipa4fun.com/33/7a/25/341232718-logo.webp",
+      "tintColor" : "0463ea",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-1.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-2.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-3.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-4.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-5.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-6.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-7.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-8.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-9.webp",
+        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-10.webp"
+      ],
+      "version" : "23.6.5",
+      "versionDate" : "2023-04-06",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.6.5.ipa",
+      "versionDescription" : "• Updated MyFitnessPal to v23.6.5",
+      "size" : 53561262,
+      "versions" : [
+        {
+          "version" : "23.6.5",
+          "date" : "2023-04-06",
+          "localizedDescription" : "• Updated MyFitnessPal to v23.6.5",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.6.5.ipa",
+          "size" : 53561262
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "BeReal++",
       "bundleIdentifier" : "AlexisBarreyat.BeReal",
       "developerName" : "Avangelista",
@@ -251,6 +287,16 @@
   ],
   "news" : [
     {
+      "title" : "MyFitnessPal++ Updated!",
+      "identifier" : "myfitnesspal-updated",
+      "caption" : "MyFitnessPal++ has been updated to the latest version, click here for more info",
+      "date" : "2023-04-06",
+      "tintColor" : "0463ea",
+      "imageURL" : "https://i.imgur.com/xrzvPez.png",
+      "appID" : "com.myfitnesspal.mfp",
+      "notify" : true
+    },
+    {
       "title" : "BeReal++ Updated!",
       "identifier" : "bereal-updated",
       "caption" : "BeReal++ has been updated to the latest version, click here for more info",
@@ -303,7 +349,7 @@
     {
       "title" : "YouTube (w/ YTKillerPlus+) Added!",
       "identifier" : "youtube-ytkplus-added",
-      "caption" : "YouTubeKillerPlus+, The best paid YouTube tweak has been added to the source!",
+      "caption" : "YouTube (w/ YTKillerPlus+), The best paid YouTube tweak has been added to the source!",
       "date" : "2023-06-05",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
