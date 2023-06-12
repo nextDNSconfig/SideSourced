@@ -185,8 +185,8 @@
       "date" : "2023-06-09",
       "tintColor" : "fa5607",
       "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
-      "notify" : true,
-      "appID" : "com.soundcloud.TouchApp"
+      "appID" : "com.soundcloud.TouchApp",
+      "notify" : true
     },
     {
       "title" : "Spotify Updated - New Tweak Added!",
@@ -195,8 +195,8 @@
       "date" : "2023-04-24",
       "tintColor" : "0e6a32",
       "imageURL" : "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png",
-      "notify" : true,
-      "appID" : "com.spotify.client"
+      "appID" : "com.spotify.client",
+      "notify" : true
     },
     {
       "title" : "YouTube (w/ uYou+) Updated - uYouPlus v3.0 Released!",
@@ -205,8 +205,8 @@
       "date" : "2023-04-27",
       "tintColor" : "f7344e",
       "imageURL" : "https://onejailbreak.com/site/assets/files/1233/uyou-tweak.766x0.jpg",
-      "notify" : true,
-      "appID" : "com.google.ios.youtube.uyoup"
+      "appID" : "com.google.ios.youtube.uyoup",
+      "notify" : true
     },
     {
       "title" : "YouTube (w/ YTKillerPlus+) Added!",
@@ -215,8 +215,8 @@
       "date" : "2023-06-05",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/z54YV4g.png",
-      "notify" : true,
-      "appID" : "com.google.ios.youtube.ytklr"
+      "appID" : "com.google.ios.youtube.ytklr",
+      "notify" : true
     },
     {
       "title" : "YouXube Added!",
@@ -225,8 +225,8 @@
       "date" : "2023-05-22",
       "tintColor" : "0e0909",
       "imageURL" : "https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg",
-      "notify" : true,
-      "appID" : "com.google.ios.youtube.uxube"
+      "appID" : "com.google.ios.youtube.uxube",
+      "notify" : true
     }
   ]
 }
