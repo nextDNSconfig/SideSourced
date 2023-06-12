@@ -1,6 +1,7 @@
 {
   "name" : "WuXu's Library++",
   "identifier" : "com.wuxulibs.wuxuslibrary++",
+  "sourceURL" : "https://wuxu1.github.io/wuxu-complete-plus.json",
   "subtitle" : "The Most Up-To-Date IPA Library on AltStore.",
   "description" : "Welcome to WuXu’s Library++!\n\nThis source contains all your favourite tweaked apps, free streaming, cracked apps, and more!\n\nThis highly organised AltSource is made up of many different tweaked apps that I, myself, inject each and every deb/dylib (tweak) into. While making sure everything is working perfectly and to my standards.\n\nThis source is updated 2-3 times a week, or more depending on the urgency. But I am working on automating updates through a python bot which I am close to completing.\n\nIf you enjoy my source please spread the word, this is essentially an updated QuarkSources, and I would like it to be as big, if not, bigger!\n\nTo make requests, get support or chat with other users, join the discord server! https://discord.gg/nKXsSdbEDc\n\nWuXu’s Sources Official Website: https://wuxu1.github.io/",
   "iconURL" : "https://i.imgur.com/g17kMl9.png",
@@ -214,8 +215,7 @@
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.14.1.+.uYouPlus.v3.0.ipa",
           "size" : 121603359
         }
-      ],
-      "beta" : false
+      ]
     },
     {
       "name" : "YouTube (w/ YTKillerPlus+)",
@@ -277,8 +277,7 @@
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.20.3.+.YTKillerPlus+.v2.2.13.ipa",
           "size" : 93396664
         }
-      ],
-      "beta" : false
+      ]
     },
     {
       "name" : "YouXube",
@@ -337,8 +336,7 @@
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.v2.1.+.YTMurderer.ipa",
           "size" : 138758062
         }
-      ],
-      "beta" : false
+      ]
     }
   ],
   "news" : [
