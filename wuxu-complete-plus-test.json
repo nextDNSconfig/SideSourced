@@ -1,10 +1,6 @@
 {
   "name" : "WuXu's Library++",
   "identifier" : "com.wuxulibs.wuxuslibrary++",
-  "featuredApps" : [
-    "com.google.ios.youtube.uxube",
-    "com.google.ios.youtube.ytklr"
-  ],
   "apps" : [
     {
       "name" : "SoundCloud++",
