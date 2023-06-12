@@ -9,6 +9,40 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "Snapchat++",
+      "bundleIdentifier" : "com.toyopagroup.picaboo",
+      "developerName" : "EBRA Store",
+      "subtitle" : "The latest tweak for Snapchat!",
+      "localizedDescription" : "Features:\n\n• English support\n• No ads\n• Downloading stories, videos, snap\n• Hide story view\n• Hide reading messages\n• Hide screenshot\n• Hide typing\n• Auto save chat\n• Snapchat plus features (not all)\n• Location spoofer\n• And more!\n",
+      "iconURL" : "https://img.ipa4fun.com/5f/b5/79/447188370-logo.webp",
+      "tintColor" : "f8f80b",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-1.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-2.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-3.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-4.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-5.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-6.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-7.webp",
+        "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-8.webp"
+      ],
+      "version" : "12.37.0-2.0",
+      "versionDate" : "2023-06-12",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.37.0.+.SCFalcon.v2.0.ipa",
+      "versionDescription" : "• Updated Snapchat to v12.37.0",
+      "size" : 100013179,
+      "versions" : [
+        {
+          "version" : "12.37.0-2.0",
+          "date" : "2023-06-12",
+          "localizedDescription" : "• Updated Snapchat to v12.37.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.37.0.+.SCFalcon.v2.0.ipa",
+          "size" : 100013179
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "TikTok++",
       "bundleIdentifier" : "com.zhiliaoapp.musically",
       "developerName" : "CrazyMind90",
@@ -348,6 +382,16 @@
     }
   ],
   "news" : [
+    {
+      "title" : "Snapchat++ Added!",
+      "identifier" : "snapchat-added",
+      "caption" : "Snapchat Injected with SC Falcon, has been added to the source, click here for more info",
+      "date" : "2023-06-12",
+      "tintColor" : "0c0a07",
+      "imageURL" : "https://cdn.searchenginejournal.com/wp-content/uploads/2022/08/f3ceb716-d3c4-4c60-aeac-ceb2ef100066-62fbcf37e398e-sej-768x512.jpeg",
+      "appID" : "com.toyopagroup.picaboo",
+      "notify" : true
+    },
     {
       "title" : "TikTok++ Updated!",
       "identifier" : "tiktok-updated",
