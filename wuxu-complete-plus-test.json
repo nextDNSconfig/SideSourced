@@ -9,6 +9,38 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "BeReal++",
+      "bundleIdentifier" : "AlexisBarreyat.BeReal",
+      "developerName" : "Avangelista",
+      "subtitle" : "See your friends BeReals without posting anything!",
+      "localizedDescription" : "Bea adds small enhancements to the BeReal app.\n\nHere are the included features:\n\n• View BeReals without posting your own.\n• Unrestricted BeReal countdown\n• Show camera close button by default\n• Screenshot detection bypass (use with caution, this has not been extensively tested yet)\n• No options to configure",
+      "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
+      "tintColor" : "0b0b0b",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.webp",
+        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.webp"
+      ],
+      "version" : "1.4.1",
+      "versionDate" : "2023-06-10",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.4.1.+.Bea.v1.2.1.ipa",
+      "versionDescription" : "Features:\n\n• Added support for BeReal Version 1.4\n• Implemented a version check feature to automatically notify users about newer versions of Bea\n\nBug Fixes:\n\n• Fixed an issue where the download button was not displaying on the Discovery feed\n• Resolved images appearing in a wrong ratio (landscape) in BeReal memories. (Note: This fix applies to future posts only and does not affect previously made posts)\n• Fixed images getting stretched if they arent in a 3:4 ratio\n• Fixed the On time feature not working sometimes\n\nUser Interface Enhancements:\n\n• Made the download button disappear when long pressing, pinching, or panning a BeReal",
+      "size" : 30115103,
+      "versions" : [
+        {
+          "version" : "1.4.1-1.2.1",
+          "date" : "2023-06-10",
+          "localizedDescription" : "Features:\n\n• Added support for BeReal Version 1.4\n• Implemented a version check feature to automatically notify users about newer versions of Bea\n\nBug Fixes:\n\n• Fixed an issue where the download button was not displaying on the Discovery feed\n• Resolved images appearing in a wrong ratio (landscape) in BeReal memories. (Note: This fix applies to future posts only and does not affect previously made posts)\n• Fixed images getting stretched if they arent in a 3:4 ratio\n• Fixed the On time feature not working sometimes\n\nUser Interface Enhancements:\n\n• Made the download button disappear when long pressing, pinching, or panning a BeReal",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.4.1.+.Bea.v1.2.1.ipa",
+          "size" : 30115103
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "Deezer++",
       "bundleIdentifier" : "com.deezer.Deezer",
       "developerName" : "iJulioVerne",
