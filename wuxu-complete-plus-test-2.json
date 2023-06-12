@@ -30,6 +30,20 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/cd/9b/9ecd9b66-ade4-70f8-a6f6-7b1ee3cc7b41/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/2048x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e2/4b/90e24bd5-b81b-558a-3b1a-e5acf46a7669/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/2048x0w.jpg"
       ],
+      "version" : "17.49.6-0.2",
+      "versionDate" : "2023-05-22",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
+      "versionDescription" : "• Added YouXube v17.49.6",
+      "size" : 132000000,
+      "versions" : [
+        {
+          "date" : "2023-05-22",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
+          "localizedDescription" : "• Added YouXube v17.49.6",
+          "size" : 132000000,
+          "version" : "17.49.6-0.2"
+        }
+      ],
       "permissions" : [
         {
           "name" : "AppleMusic",
@@ -62,20 +76,6 @@
         {
           "name" : "PhotoLibrary",
           "usageDescription" : "This lets you upload media you've already created."
-        }
-      ],
-      "version" : "17.49.6-0.2",
-      "versionDate" : "2023-05-22",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
-      "versionDescription" : "• Added YouXube v17.49.6",
-      "size" : 132000000,
-      "versions" : [
-        {
-          "date" : "2023-05-22",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v17.49.6.+.uYouPlus.+.YTMurderer.ipa",
-          "localizedDescription" : "• Added YouXube v17.49.6",
-          "size" : 132000000,
-          "version" : "17.49.6-0.2"
         }
       ]
     }
