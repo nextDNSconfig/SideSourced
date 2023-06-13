@@ -9,6 +9,38 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "Facebook++",
+      "bundleIdentifier" : "com.facebook.Facebook",
+      "developerName" : "Michael Lema",
+      "subtitle" : "Facebook with a number of new features!",
+      "localizedDescription" : "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n• Disable marking messages as seen\n• Disable typing status in messages\n• No feed ads\n\nStory\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• No story ads\n\nFeed\n• Save Feed videos by long-pressing the video\n\nAnd more!",
+      "iconURL" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.webp",
+      "tintColor" : "0671e6",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-2.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-3.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-4.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
+        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
+      ],
+      "version" : "411.0-2.1",
+      "versionDate" : "2023-05-08",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v411.0.+.Wolf.v2.1.ipa",
+      "versionDescription" : "• Updated Facebook to v411.0",
+      "size" : 126898668,
+      "versions" : [
+        {
+          "version" : "411.0-2.1",
+          "date" : "2023-05-08",
+          "localizedDescription" : "• Updated Facebook to v411.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v411.0.+.Wolf.v2.1.ipa",
+          "size" : 126898668
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "Snapchat (w/ Falcon)",
       "bundleIdentifier" : "com.toyopagroup.picaboo",
       "developerName" : "EBRA Store",
@@ -382,6 +414,16 @@
     }
   ],
   "news" : [
+    {
+      "title" : "Facebook++ Updated!",
+      "identifier" : "facebook-updated",
+      "caption" : "Facebook++ has been updated to the latest version, click here for more info",
+      "date" : "2023-05-08",
+      "tintColor" : "0671e6",
+      "imageURL" : "https://malmo.se/images/18.d3f124617dc8953686e20d/1648651425712/FB_ikon2.png",
+      "appID" : "com.facebook.Facebook",
+      "notify" : true
+    },
     {
       "title" : "Snapchat (w/ Falcon) Added!",
       "identifier" : "snapchat-added",
