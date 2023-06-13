@@ -9,7 +9,7 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
-      "name" : "Snapchat++",
+      "name" : "Snapchat (w/ Falcon)",
       "bundleIdentifier" : "com.toyopagroup.picaboo",
       "developerName" : "EBRA Store",
       "subtitle" : "The latest tweak for Snapchat!",
@@ -383,7 +383,7 @@
   ],
   "news" : [
     {
-      "title" : "Snapchat++ Added!",
+      "title" : "Snapchat (w/ Falcon) Added!",
       "identifier" : "snapchat-added",
       "caption" : "Snapchat Injected with SC Falcon, has been added to the source, click here for more info",
       "date" : "2023-06-12",
