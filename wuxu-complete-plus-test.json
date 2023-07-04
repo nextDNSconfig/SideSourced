@@ -58,18 +58,18 @@
         "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-7.webp",
         "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-8.webp"
       ],
-      "version" : "12.37.0-2.0",
-      "versionDate" : "2023-06-12",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.37.0.+.SCFalcon.v2.0.ipa",
-      "versionDescription" : "• Updated Snapchat to v12.37.0",
-      "size" : 100013179,
+      "version" : "12.40.0-2.0",
+      "versionDate" : "2023-07-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.40.0.+.SCFalcon.v2.0.ipa",
+      "versionDescription" : "• Updated Snapchat to v12.40.0",
+      "size" : 101953045,
       "versions" : [
         {
-          "version" : "12.37.0-2.0",
-          "date" : "2023-06-12",
-          "localizedDescription" : "• Updated Snapchat to v12.37.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.37.0.+.SCFalcon.v2.0.ipa",
-          "size" : 100013179
+          "version" : "12.40.0-2.0",
+          "date" : "2023-07-04",
+          "localizedDescription" : "• Updated Snapchat to v12.40.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.40.0.+.SCFalcon.v2.0.ipa",
+          "size" : 101953045
         }
       ],
       "beta" : false
@@ -428,7 +428,7 @@
       "title" : "Snapchat (w/ Falcon) Added!",
       "identifier" : "snapchat-added",
       "caption" : "Snapchat Injected with SC Falcon, has been added to the source, click here for more info",
-      "date" : "2023-06-12",
+      "date" : "2023-07-04",
       "tintColor" : "0c0a07",
       "imageURL" : "https://cdn.searchenginejournal.com/wp-content/uploads/2022/08/f3ceb716-d3c4-4c60-aeac-ceb2ef100066-62fbcf37e398e-sej-768x512.jpeg",
       "appID" : "com.toyopagroup.picaboo",
