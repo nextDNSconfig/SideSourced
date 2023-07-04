@@ -189,17 +189,17 @@
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.webp"
       ],
       "version" : "1.4.1-1.2.1",
-      "versionDate" : "2023-06-10",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.4.1.+.Bea.v1.2.1.ipa",
-      "versionDescription" : "Features:\n\n• Added support for BeReal Version 1.4\n• Implemented a version check feature to automatically notify users about newer versions of Bea\n\nBug Fixes:\n\n• Fixed an issue where the download button was not displaying on the Discovery feed\n• Resolved images appearing in a wrong ratio (landscape) in BeReal memories. (Note: This fix applies to future posts only and does not affect previously made posts)\n• Fixed images getting stretched if they arent in a 3:4 ratio\n• Fixed the On time feature not working sometimes\n\nUser Interface Enhancements:\n\n• Made the download button disappear when long pressing, pinching, or panning a BeReal",
-      "size" : 30115103,
+      "versionDate" : "2023-07-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.6.0.+.Bea.v1.2.2.ipa",
+      "versionDescription" : "Bug Fixes:\n\n• Resolved an issue where BeReals failed to unblur upon the initial launch of the app.\n• Fixed download buttons flickering while zooming.",
+      "size" : 29957816,
       "versions" : [
         {
-          "version" : "1.4.1-1.2.1",
-          "date" : "2023-06-10",
-          "localizedDescription" : "Features:\n\n• Added support for BeReal Version 1.4\n• Implemented a version check feature to automatically notify users about newer versions of Bea\n\nBug Fixes:\n\n• Fixed an issue where the download button was not displaying on the Discovery feed\n• Resolved images appearing in a wrong ratio (landscape) in BeReal memories. (Note: This fix applies to future posts only and does not affect previously made posts)\n• Fixed images getting stretched if they arent in a 3:4 ratio\n• Fixed the On time feature not working sometimes\n\nUser Interface Enhancements:\n\n• Made the download button disappear when long pressing, pinching, or panning a BeReal",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.4.1.+.Bea.v1.2.1.ipa",
-          "size" : 30115103
+          "version" : "1.6.0-1.2.2",
+          "date" : "2023-07-04",
+          "localizedDescription" : "Bug Fixes:\n\n• Resolved an issue where BeReals failed to unblur upon the initial launch of the app.\n• Fixed download buttons flickering while zooming.",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.6.0.+.Bea.v1.2.2.ipa",
+          "size" : 29957816
         }
       ],
       "beta" : false
@@ -468,7 +468,7 @@
       "title" : "BeReal++ Updated!",
       "identifier" : "bereal-updated",
       "caption" : "BeReal++ has been updated to the latest version, click here for more info",
-      "date" : "2023-06-10",
+      "date" : "2023-07-04",
       "tintColor" : "0b0b0b",
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "appID" : "AlexisBarreyat.BeReal",
