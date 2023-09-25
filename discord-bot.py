@@ -1,65 +1,68 @@
 import discord
 from discord.ext import commands
-import os
+from discord_slash import cog_ext
+from discord_slash.context import SlashContext
+from discord_slash.model import SlashCommandOptionType
+import os  # Added to access environment variables
 
-# Get the bot token from the GitHub secret
-TOKEN = os.environ['DISCORD_TOKEN']
+intents = discord.Intents.default()
+intents.members = True
 
-# Create a bot instance with a command prefix
-bot = commands.Bot(command_prefix='!')
+bot = commands.Bot(command_prefix="!", intents=intents)
+slash = cog_ext.cog_slash(command_name="assign_roles")
 
-# Define the role options that will be displayed in the dropdown menu
-role_options = [
-    {"name": "Role 1", "description": "Description for Role 1"},
-    {"name": "Role 2", "description": "Description for Role 2"},
-    # Add more role options as needed
-]
-
-# Function to create a role dropdown menu
-async def create_role_dropdown(ctx):
-    # Create a select menu with the role options
-    select = discord.ui.Select(
-        custom_id="role_selector",
-        placeholder="Select a role",
-        options=[
-            discord.SelectOption(label=option["name"], description=option["description"])
-            for option in role_options
-        ],
-    )
-
-    # Create a view that contains the select menu
-    view = discord.ui.View()
-    view.add_item(select)
-
-    # Send a message with the select menu
-    await ctx.send("Select a role:", view=view)
-
-# Event handler for when the bot is ready
 @bot.event
 async def on_ready():
-    print(f'Logged in as {bot.user.name}')
+    print(f"Logged in as {bot.user.name}")
 
-# Command to create the role dropdown menu
-@bot.command()
-async def roles(ctx):
-    await create_role_dropdown(ctx)
-
-# Event handler for handling role selection
 @bot.event
-async def on_dropdown(interaction):
-    selected_option = interaction.data['values'][0]  # Get the selected option
-    role_name = selected_option  # You can customize this based on how role names are stored
+async def on_member_join(member):
+    # Send the role assignment message when a new member joins
+    await member.send("Welcome to the server! Please select your roles:")
+    await assign_roles_message(member)
 
-    # Find the role by name
-    role = discord.utils.get(interaction.guild.roles, name=role_name)
-
+@slash.options(
+    name="roles",
+    description="Select roles",
+    required=True,
+    option_type=SlashCommandOptionType.STRING,
+    choices=[
+        {
+            "name": "Role 1",
+            "value": "role1"
+        },
+        {
+            "name": "Role 2",
+            "value": "role2"
+        },
+        # Add more role choices as needed
+    ]
+)
+@slash.target(["bot"])
+async def assign_roles(ctx: SlashContext, roles: str):
+    member = ctx.author
+    role = discord.utils.get(ctx.guild.roles, name=roles)
+    
     if role:
-        member = interaction.user
-        # Add the selected role to the member
         await member.add_roles(role)
-        await interaction.response.send_message(f'You now have the {role.name} role!')
+        await ctx.send(f"Assigned {roles} role to {member.display_name}")
     else:
-        await interaction.response.send_message("Role not found.")
+        await ctx.send(f"Role {roles} not found")
 
-# Start the bot
-bot.run(TOKEN)
+async def assign_roles_message(member):
+    # Send the role assignment message with the dropdown options
+    await member.send(
+        "Please select your roles:",
+        components=[
+            discord.ui.Select(
+                placeholder="Select roles...",
+                options=[
+                    discord.SelectOption(label="Role 1", value="role1"),
+                    discord.SelectOption(label="Role 2", value="role2"),
+                    # Add more role options as needed
+                ]
+            )
+        ]
+    )
+
+bot.run(os.getenv("DISCORD_TOKEN"))  # Retrieve the bot token from the environment variable
