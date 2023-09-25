@@ -1,8 +1,9 @@
 import discord
 from discord.ext import commands
+import os
 
-# Define your bot token here
-TOKEN = 'YOUR_BOT_TOKEN'
+# Get the bot token from the GitHub secret
+TOKEN = os.environ['DISCORD_TOKEN']
 
 # Create a bot instance with a command prefix
 bot = commands.Bot(command_prefix='!')
