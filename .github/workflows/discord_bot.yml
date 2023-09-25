@@ -13,19 +13,23 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16  # Specify Node.js version 16
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.11
+          python-version: 3.x
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
-        working-directory: ./path/to/your/python/script
+          pip install -r path/to/your/python/script/requirements.txt
+        working-directory: ./  # Change this to the root of your repository
 
       - name: Run the bot
         run: |
-          python discord-role-bot.py
+          python path/to/your/python/script/discord-role-bot.py
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        working-directory: ./path/to/your/python/script
