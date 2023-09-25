@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Use the Python version you need
+          python-version: '3.11'  # Use the Python version you need
 
       # Update Node.js to version 16
       - name: Set up Node.js
@@ -26,4 +26,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # If you have a requirements file
+
+      - name: Run the bot
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        run: python discord-bot.py  # Adjust this to your bot's entry point file
