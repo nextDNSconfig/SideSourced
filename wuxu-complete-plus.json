@@ -23,25 +23,18 @@
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
       ],
-      "version" : "10.7-4.0",
-      "versionDate" : "2023-09-24",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.7-4.0.ipa",
-      "versionDescription" : "• Updated Twitter to X v10.7\n• Updated BHTwitter to BHX v4.0",
-      "size" : 92700000,
+      "version" : "10.10",
+      "versionDate" : "2023-10-19",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.10.+.BHX.v4.0.ipa",
+      "versionDescription" : "• Updated X to v10.10",
+      "size" : 93000000,
       "versions" : [
         {
-          "version" : "10.7-4.0",
-          "date" : "2023-09-24",
-          "localizedDescription" : "• Updated Twitter to X v10.7\n• Updated BHTwitter to BHX v4.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.7-4.0.ipa",
-          "size" : 92700000
-        },
-        {
-          "version" : "9.63-3.9.1",
-          "date" : "2023-07-04",
-          "localizedDescription" : "• Updated Twitter to v9.63",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v9.63.+.BHT.v3.9.1.ipa",
-          "size" : 96647250
+          "version" : "10.10",
+          "date" : "2023-10-19",
+          "localizedDescription" : "• Updated X to v10.10",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.10.+.BHX.v4.0.ipa",
+          "size" : 93000000
         }
       ],
       "beta" : false
@@ -454,8 +447,8 @@
   "news" : [
     {
       "appID" : "com.atebits.Tweetie2",
-      "caption" : "Twitter++ has been updated to X++! Click Here for more info",
-      "date" : "2023-09-24",
+      "caption" : "X++ has been updated to the latest version! Click Here for more info",
+      "date" : "2023-10-19",
       "identifier" : "x-updated",
       "imageURL" : "https://assets-global.website-files.com/64760069e93084646c9ee428/64c2bb00cc53d81d58842318_og-twitter-x.png",
       "notify" : true,
