@@ -55,18 +55,18 @@
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
       ],
-      "version" : "411.0-2.1",
-      "versionDate" : "2023-05-08",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v411.0.+.Wolf.v2.1.ipa",
-      "versionDescription" : "• Updated Facebook to v411.0",
-      "size" : 126898668,
+      "version" : "435.2",
+      "versionDate" : "2023-10-19",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v435.2.+.Wolf.v2.1.ipa",
+      "versionDescription" : "• Updated Facebook to v435.2",
+      "size" : 133000000,
       "versions" : [
         {
-          "version" : "411.0-2.1",
-          "date" : "2023-05-08",
-          "localizedDescription" : "• Updated Facebook to v411.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v411.0.+.Wolf.v2.1.ipa",
-          "size" : 126898668
+          "version" : "435.2",
+          "date" : "2023-10-19",
+          "localizedDescription" : "• Updated Facebook to v435.2",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v435.2.+.Wolf.v2.1.ipa",
+          "size" : 133000000
         }
       ],
       "beta" : false
@@ -459,7 +459,7 @@
       "title" : "Facebook++ Updated!",
       "identifier" : "facebook-updated",
       "caption" : "Facebook++ has been updated to the latest version, click here for more info",
-      "date" : "2023-05-08",
+      "date" : "2023-10-19",
       "tintColor" : "0671e6",
       "imageURL" : "https://malmo.se/images/18.d3f124617dc8953686e20d/1648651425712/FB_ikon2.png",
       "appID" : "com.facebook.Facebook",
