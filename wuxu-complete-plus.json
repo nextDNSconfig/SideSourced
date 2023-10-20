@@ -196,7 +196,7 @@
       "bundleIdentifier" : "com.burbn.instagram",
       "developerName" : "Majd Alfhaily",
       "subtitle" : "A must-have tweak for Instagram users!",
-      "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
+      "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nNOTE: DO NOT ENABLE OVERLAPPING TWEAKS (Such as full profile statistics). Will cause app to crash and reinstallation is needed to fix.\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
       "iconURL" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.webp",
       "tintColor" : "d211c9",
       "screenshotURLs" : [
@@ -206,12 +206,19 @@
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-4.webp",
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-5.webp"
       ],
-      "version" : "278.0",
-      "versionDate" : "2023-04-13",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v278.0.+.Rocket.v3.8.6.+.Plus.v2.5.0.ipa",
-      "versionDescription" : "• Updated Instagram to v278.0",
-      "size" : 111149056,
+      "version" : "303.1",
+      "versionDate" : "2023-10-19",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v301.1.+.Rocket.v3.8.13K.+.Plus.v2.5.0K.ipa",
+      "versionDescription" : "• Updated Instagram to v303.1",
+      "size" : 107000000,
       "versions" : [
+        {
+          "version" : "303.1",
+          "date" : "2023-10-19",
+          "localizedDescription" : "• Updated Instagram to v303.1",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v301.1.+.Rocket.v3.8.13K.+.Plus.v2.5.0K.ipa",
+          "size" : 107000000
+        },
         {
           "version" : "278.0",
           "date" : "2023-04-13",
@@ -564,8 +571,8 @@
       "title" : "Instagram++ Updated!",
       "identifier" : "instagram-updated",
       "caption" : "Instagram has been updated to the latest version, click here for more info",
-      "date" : "2023-04-14",
-      "tintColor" : "b80ecf",
+      "date" : "2023-10-19",
+      "tintColor" : "000000",
       "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Instagram-logo-1200x900.jpg",
       "appID" : "com.burbn.instagram",
       "notify" : false
