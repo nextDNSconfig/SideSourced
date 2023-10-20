@@ -175,18 +175,18 @@
         "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-4.webp",
         "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-5.webp"
       ],
-      "version" : "29.8.0-2.5",
-      "versionDate" : "2023-06-12",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v29.8.0.+.LRD+.v2.5.ipa",
-      "versionDescription" : "• Updated TikTok to v29.8.0",
-      "size" : 218061865,
+      "version" : "31.7.0",
+      "versionDate" : "2023-10-19",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v31.7.0.+.LRD+.v2.5.ipa",
+      "versionDescription" : "• Updated TikTok to v31.7.0",
+      "size" : 226000000,
       "versions" : [
         {
-          "version" : "29.8.0-2.5",
-          "date" : "2023-06-12",
-          "localizedDescription" : "• Updated TikTok to v29.8.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v29.8.0.+.LRD+.v2.5.ipa",
-          "size" : 218061865
+          "version" : "31.7.0",
+          "date" : "2023-10-19",
+          "localizedDescription" : "• Updated TikTok to v31.7.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v31.7.0.+.LRD+.v2.5.ipa",
+          "size" : 226000000
         }
       ],
       "beta" : false
@@ -545,7 +545,7 @@
       "identifier" : "snapchat-falcon-updated",
       "caption" : "Snapchat Falcon has been updated to the latest version, click here for more info",
       "date" : "2023-10-19",
-      "tintColor" : "000000",
+      "tintColor" : "141413",
       "imageURL" : "https://imgur.com/an4phsA.png",
       "appID" : "com.toyopagroup.picaboo-Falcon",
       "notify" : true
@@ -554,7 +554,7 @@
       "title" : "TikTok++ Updated!",
       "identifier" : "tiktok-updated",
       "caption" : "TikTok++ has been updated to the latest version, click here for more info",
-      "date" : "2023-05-21",
+      "date" : "2023-10-19",
       "tintColor" : "0b0b0b",
       "imageURL" : "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/02/how-to-delete-tiktok-1220x683.jpg",
       "appID" : "com.zhiliaoapp.musically",
