@@ -266,11 +266,11 @@
       "beta" : false
     },
     {
-      "name" : "BeReal++",
+      "name" : "BeFake",
       "bundleIdentifier" : "AlexisBarreyat.BeReal",
       "developerName" : "Avangelista",
       "subtitle" : "See your friends BeReals without posting anything!",
-      "localizedDescription" : "Bea adds small enhancements to the BeReal app.\n\nHere are the included features:\n\n• View BeReals without posting your own.\n• Unrestricted BeReal countdown\n• Show camera close button by default\n• Screenshot detection bypass (use with caution, this has not been extensively tested yet)\n• No options to configure",
+      "localizedDescription" : "Tap the “BeFake” text at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n• Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n• Download BeReals",
       "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
       "tintColor" : "0b0b0b",
       "screenshotURLs" : [
@@ -281,18 +281,18 @@
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.webp",
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.webp"
       ],
-      "version" : "1.4.1-1.2.1",
-      "versionDate" : "2023-07-04",
+      "version" : "1.15.0",
+      "versionDate" : "2023-10-21",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.6.0.+.Bea.v1.2.2.ipa",
-      "versionDescription" : "Bug Fixes:\n\n• Resolved an issue where BeReals failed to unblur upon the initial launch of the app.\n• Fixed download buttons flickering while zooming.",
-      "size" : 29957816,
+      "versionDescription" : "• Updated BeReal to v 1.15.0\n• Updated Bea to v1.3.2",
+      "size" : 29200000,
       "versions" : [
         {
-          "version" : "1.6.0-1.2.2",
-          "date" : "2023-07-04",
-          "localizedDescription" : "Bug Fixes:\n\n• Resolved an issue where BeReals failed to unblur upon the initial launch of the app.\n• Fixed download buttons flickering while zooming.",
+          "version" : "1.15.0",
+          "date" : "2023-10-21",
+          "localizedDescription" : "• Updated BeReal to v 1.15.0\n• Updated Bea to v1.3.2",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.6.0.+.Bea.v1.2.2.ipa",
-          "size" : 29957816
+          "size" : 29200000
         }
       ],
       "beta" : false
@@ -588,10 +588,10 @@
       "notify" : true
     },
     {
-      "title" : "BeReal++ Updated!",
+      "title" : "BeFake Updated!",
       "identifier" : "bereal-updated",
-      "caption" : "BeReal++ has been updated to the latest version, click here for more info",
-      "date" : "2023-07-04",
+      "caption" : "BeFake has been updated to the latest version, click here for more info",
+      "date" : "2023-10-21",
       "tintColor" : "131313",
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "appID" : "AlexisBarreyat.BeReal",
