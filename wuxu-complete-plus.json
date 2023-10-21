@@ -565,7 +565,7 @@
       "identifier" : "instagram-updated",
       "caption" : "Instagram has been updated to the latest version, click here for more info",
       "date" : "2023-10-19",
-      "tintColor" : "000000",
+      "tintColor" : "5c1859",
       "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Instagram-logo-1200x900.jpg",
       "appID" : "com.burbn.instagram",
       "notify" : false
@@ -585,7 +585,7 @@
       "identifier" : "bereal-updated",
       "caption" : "BeReal++ has been updated to the latest version, click here for more info",
       "date" : "2023-07-04",
-      "tintColor" : "0b0b0b",
+      "tintColor" : "131313",
       "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
       "appID" : "AlexisBarreyat.BeReal",
       "notify" : true
