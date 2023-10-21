@@ -198,7 +198,7 @@
       "subtitle" : "A must-have tweak for Instagram users!",
       "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nNOTE: DO NOT ENABLE OVERLAPPING TWEAKS (Such as full profile statistics). Will cause app to crash and reinstallation is needed to fix.\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
       "iconURL" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.webp",
-      "tintColor" : "d211c9",
+      "tintColor" : "d111c9",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-1.webp",
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-2.webp",
@@ -242,12 +242,19 @@
         "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-9.webp",
         "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-10.webp"
       ],
-      "version" : "23.6.5",
-      "versionDate" : "2023-04-06",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.6.5.ipa",
-      "versionDescription" : "• Updated MyFitnessPal to v23.6.5",
-      "size" : 53561262,
+      "version" : "23.20.5",
+      "versionDate" : "2023-10-21",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.20.5.ipa",
+      "versionDescription" : "• Updated MyFitnessPal to v23.20.5",
+      "size" : 76600000,
       "versions" : [
+        {
+          "version" : "23.20.5",
+          "date" : "2023-10-21",
+          "localizedDescription" : "• Updated MyFitnessPal to v23.20.5",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.20.5.ipa",
+          "size" : 76600000
+        },
         {
           "version" : "23.6.5",
           "date" : "2023-04-06",
@@ -574,8 +581,8 @@
       "title" : "MyFitnessPal++ Updated!",
       "identifier" : "myfitnesspal-updated",
       "caption" : "MyFitnessPal++ has been updated to the latest version, click here for more info",
-      "date" : "2023-04-06",
-      "tintColor" : "0463ea",
+      "date" : "2023-10-21",
+      "tintColor" : "113362",
       "imageURL" : "https://i.imgur.com/xrzvPez.png",
       "appID" : "com.myfitnesspal.mfp",
       "notify" : true
