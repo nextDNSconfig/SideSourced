@@ -582,7 +582,7 @@
       "identifier" : "myfitnesspal-updated",
       "caption" : "MyFitnessPal++ has been updated to the latest version, click here for more info",
       "date" : "2023-10-21",
-      "tintColor" : "113362",
+      "tintColor" : "113361",
       "imageURL" : "https://i.imgur.com/xrzvPez.png",
       "appID" : "com.myfitnesspal.mfp",
       "notify" : true
