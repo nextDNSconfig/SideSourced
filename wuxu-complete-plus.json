@@ -270,7 +270,7 @@
       "bundleIdentifier" : "AlexisBarreyat.BeReal",
       "developerName" : "Avangelista",
       "subtitle" : "See your friends BeReals without posting anything!",
-      "localizedDescription" : "Tap the “BeFake” text at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n• Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n• Download BeReals",
+      "localizedDescription" : "Tap the “BeFake” text (It may be blank) at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n• Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n• Download BeReals",
       "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
       "tintColor" : "0b0b0b",
       "screenshotURLs" : [
