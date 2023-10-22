@@ -338,8 +338,8 @@
       "developerName" : "Rov3r",
       "subtitle" : "SoundCloud with no ads!",
       "localizedDescription" : "Enhance your SoundCloud experience with the following features:\n\n• Remove Ads\n• Remove Promoted Playlists\n• Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
-      "iconURL" : "https://img.ipa4fun.com/b1/62/d8/336353151-logo.webp",
-      "tintColor" : "b03b03",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/16/a8/bf16a822-367b-6058-e9ec-697b0b196355/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+      "tintColor" : "0a0a0a",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
@@ -350,18 +350,18 @@
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
       ],
-      "version" : "7.4.1-2.2.1",
-      "versionDate" : "2023-07-04",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.4.1.+.SCMusicPlus.v2.2.1.ipa",
-      "versionDescription" : "• Updated SoundCloud to v7.4.1",
-      "size" : 52281999,
+      "version" : "7.14.0",
+      "versionDate" : "2023-10-22",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
+      "versionDescription" : "• Updated SoundCloud to v7.14.0",
+      "size" : 61300000,
       "versions" : [
         {
-          "version" : "7.4.1-2.2.1",
-          "date" : "2023-07-04",
-          "localizedDescription" : "• Updated SoundCloud to v7.4.1",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.4.1.+.SCMusicPlus.v2.2.1.ipa",
-          "size" : 52281999
+          "version" : "7.14.0",
+          "date" : "2023-10-22",
+          "localizedDescription" : "• Updated SoundCloud to v7.14.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 61300000
         }
       ],
       "beta" : false
@@ -611,9 +611,9 @@
       "title" : "SoundCloud++ Updated!",
       "identifier" : "soundcloud-updated",
       "caption" : "SoundCloud++ has been updated to the latest version, click here for more info",
-      "date" : "2023-07-04",
+      "date" : "2023-10-22",
       "tintColor" : "fa5607",
-      "imageURL" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-ios.jpg",
+      "imageURL" : "https://imgur.com/5pl1dGh.png",
       "appID" : "com.soundcloud.TouchApp",
       "notify" : true
     },
