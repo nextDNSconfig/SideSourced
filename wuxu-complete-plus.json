@@ -612,7 +612,7 @@
       "identifier" : "soundcloud-updated",
       "caption" : "SoundCloud++ has been updated to the latest version, click here for more info",
       "date" : "2023-10-22",
-      "tintColor" : "fa5607",
+      "tintColor" : "131313",
       "imageURL" : "https://imgur.com/5pl1dGh.png",
       "appID" : "com.soundcloud.TouchApp",
       "notify" : true
