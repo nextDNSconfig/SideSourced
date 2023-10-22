@@ -602,7 +602,7 @@
       "identifier" : "deezer-added",
       "caption" : "Deezer, with premium activated, has been added to the source! This may be the last update as the tweak dev no longer updates the tweak.",
       "date" : "2023-10-22",
-      "tintColor" : "0e0e0e",
+      "tintColor" : "41283e",
       "imageURL" : "https://imgur.com/XlbkA6u.png",
       "appID" : "com.deezer.Deezer",
       "notify" : false
