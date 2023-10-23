@@ -350,18 +350,18 @@
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
       ],
-      "version" : "7.14.0",
+      "version" : "7.2.0",
       "versionDate" : "2023-10-22",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
-      "versionDescription" : "• Updated SoundCloud to v7.14.0",
-      "size" : 61300000,
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.2.0.+.SCMusicPlus.v2.2.1.ipa",
+      "versionDescription" : "• Updated SoundCloud to v7.2.0",
+      "size" : 47600000,
       "versions" : [
         {
-          "version" : "7.14.0",
+          "version" : "7.2.0",
           "date" : "2023-10-22",
-          "localizedDescription" : "• Updated SoundCloud to v7.14.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
-          "size" : 61300000
+          "localizedDescription" : "• Updated SoundCloud to v7.2.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.2.0.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 47600000
         }
       ],
       "beta" : false
@@ -545,7 +545,7 @@
     {
       "title" : "SoundCloud++ Updated!",
       "identifier" : "soundcloud-updated",
-      "caption" : "SoundCloud++ has been updated to the latest version, click here for more info",
+      "caption" : "SoundCloud++ has been updated to the latest working version, click here for more info",
       "date" : "2023-10-22",
       "tintColor" : "131313",
       "imageURL" : "https://imgur.com/5pl1dGh.png",
