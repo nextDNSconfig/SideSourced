@@ -425,7 +425,7 @@
         "https://i.imgur.com/oLav2ob.png"
       ],
       "version" : "18.40.1",
-      "versionDate" : "2023-10-22",
+      "versionDate" : "2023-10-23",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.40.1.+.uYouPlusExtra.v3.0.1.ipa",
       "versionDescription" : "• YouTube updated to v18.14.1\n• uYouPlusExtra updated to v3.0.1",
       "size" : 121000000,
@@ -566,10 +566,10 @@
       "title" : "YouTube++ Updated!",
       "identifier" : "youtube-updated",
       "caption" : "YouTube++ has been updated to the latest version, click here for more info",
-      "date" : "2023-10-22",
+      "date" : "2023-10-23",
       "tintColor" : "f7344e",
-      "imageURL" : "https://imgur.com/a/77DLLKX.png",
-      "appID" : "com.google.ios.youtube.uyoup",
+      "imageURL" : "https://imgur.com/ZDbErpX.png",
+      "appID" : "com.google.ios.youtube",
       "notify" : true
     }
   ]
