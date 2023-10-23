@@ -473,6 +473,39 @@
         }
       ],
       "beta" : false
+    },
+    {
+      "name" : "Messenger++",
+      "bundleIdentifier" : "com.facebook.Messenger",
+      "developerName" : "Michael Lema",
+      "subtitle" : "The ultimate Facebook Messenger tweak!",
+      "localizedDescription" : "Shark is the ultimate Facebook Messenger tweak. It is the first and only tweak to add additional security to the app. You can access the tweak settings on the Messenger's settings page.\n\nFeatures\n- Disable Marking Messages\n- Disable Marking Stories\n- Disable Typing Status\n- Save Story images and videos\n\nAuthentication\n- Shark adds an extra layer of security with Face ID/Touch ID to view the Messenger App\n\nNote: There is a bug where nothing loads when you first sign in. Simply relaunch the app to fix this issue.",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/36/e6/8536e6ea-7b2d-775a-bd2d-62beac227451/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/460x0w.webp",
+      "tintColor" : "c844c6",
+      "screenshotURLs" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b6/9b/fb/b69bfb93-41be-bdca-5b4c-c27519b474c2/391db841-c2fe-45c1-bc57-c1fbc16f3b35_iPhone_6.5__-_Screen_1.jpg/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/9d/ad/c5/9dadc57c-5684-bfc6-b384-bd2a7152bde1/886304e6-ebc9-4468-b0af-5d4b33e434c2_iPhone_6.5__-_Screen_3.jpg/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9e/8d/cb/9e8dcb43-ce79-c4ff-43ef-e3548847d87d/0014da8a-bb5a-4fe1-923d-90c1f05530e9_iPhone_6.5__-_Screen_4.jpg/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/85/1f/95/851f951f-6e93-cdac-d2a3-813316c5db57/f121cd69-ba21-47c4-bbd5-c8f5e690f206_iPhone_6.5__-_Screen_5.jpg/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d2/08/e9/d208e9b4-786b-5846-3dd9-e922e3700096/56915158-747c-471d-bb40-fc369ed93d2d_iPhone_6.5__-_Screen_6.jpg/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/db/8f/9c/db8f9c34-d7d5-b1f3-2be4-e4fa3a6906f5/ee927225-0cfa-43a1-8b63-f97eabc3237c_iPhone_6.5__-_Screen_7.jpg/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e5/97/49/e59749f5-d582-4840-dbcc-0e72bdbf09ec/8ed80d4b-be7b-4048-a099-d1d0ff5555ab_iPhone_6.5__-_Screen_8.jpg/460x0w.webp"
+      ],
+      "version" : "390.0",
+      "versionDate" : "2023-10-23",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v390.0.+.Shark.v2.2.1.ipa",
+      "versionDescription" : "• Added Messenger v390.0 (Current working version with crack)",
+      "size" : 42500000,
+      "versions" : [
+        {
+          "version" : "390.0",
+          "date" : "2023-10-23",
+          "localizedDescription" : "• Added Messenger v390.0 (Current working version with crack)",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v390.0.+.Shark.v2.2.1.ipa",
+          "size" : 42500000
+        }
+      ],
+      "beta" : false
     }
   ],
   "news" : [
@@ -614,6 +647,16 @@
       "tintColor" : "244200",
       "imageURL" : "https://blog.duolingo.com/content/images/2022/10/Duolingo-Character-Wordmark.png",
       "appID" : "com.duolingo.DuolingoMobile",
+      "notify" : true
+    },
+    {
+      "title" : "Messenger++ Added!",
+      "identifier" : "messenger-added",
+      "caption" : "Messenger injected with Shark has been added to the source, click here for more info",
+      "date" : "2023-10-23",
+      "tintColor" : "2974fb",
+      "imageURL" : "https://imgur.com/FAl2VYQ.png",
+      "appID" : "com.facebook.Messenger",
       "notify" : true
     }
   ]
