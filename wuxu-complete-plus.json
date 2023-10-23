@@ -654,7 +654,7 @@
       "identifier" : "messenger-added",
       "caption" : "Messenger injected with Shark has been added to the source, click here for more info",
       "date" : "2023-10-23",
-      "tintColor" : "2974fb",
+      "tintColor" : "532552",
       "imageURL" : "https://imgur.com/FAl2VYQ.png",
       "appID" : "com.facebook.Messenger",
       "notify" : true
