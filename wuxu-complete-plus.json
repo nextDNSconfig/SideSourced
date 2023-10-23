@@ -567,8 +567,8 @@
       "identifier" : "youtube-updated",
       "caption" : "YouTube++ has been updated to the latest version, click here for more info",
       "date" : "2023-10-23",
-      "tintColor" : "f7344e",
-      "imageURL" : "https://imgur.com/ZDbErpX.png",
+      "tintColor" : "6a1515",
+      "imageURL" : "https://imgur.com/W7zL04X.png",
       "appID" : "com.google.ios.youtube",
       "notify" : true
     }
