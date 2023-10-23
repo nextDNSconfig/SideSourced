@@ -611,7 +611,7 @@
       "identifier" : "duolingo-added",
       "caption" : "Duolingo with Super Duolingo enabled has been added to the source, click here for more info",
       "date" : "2023-10-23",
-      "tintColor" : "55cb06",
+      "tintColor" : "244200",
       "imageURL" : "https://blog.duolingo.com/content/images/2022/10/Duolingo-Character-Wordmark.png",
       "appID" : "com.duolingo.DuolingoMobile",
       "notify" : true
