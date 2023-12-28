@@ -424,17 +424,17 @@
         "https://i.imgur.com/pUZrDLr.png",
         "https://i.imgur.com/oLav2ob.png"
       ],
-      "version" : "18.40.1",
-      "versionDate" : "2023-10-23",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.40.1.+.uYouPlusExtra.v3.0.1.ipa",
-      "versionDescription" : "• YouTube updated to v18.14.1\n• uYouPlusExtra updated to v3.0.1",
+      "version" : "18.49.3",
+      "versionDate" : "2023-12-21",
+      "downloadURL" : "https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1-F2/uYouEnhanced_18.49.3_3.0.1_F2.ipa",
+      "versionDescription" : "• YouTube updated to v18.49.3\n• uYouPlusExtra updated to v3.0.1",
       "size" : 121000000,
       "versions" : [
         {
-          "version" : "18.40.1",
-          "date" : "2023-10-22",
-          "localizedDescription" : "• YouTube updated to v18.14.1\n• uYouPlusExtra updated to v3.0.1",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.40.1.+.uYouPlusExtra.v3.0.1.ipa",
+          "version" : "18.49.3",
+          "date" : "2023-12-21",
+          "localizedDescription" : "• YouTube updated to v18.49.3\n• uYouPlusExtra updated to v3.0.1",
+          "downloadURL" : "https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1-F2/uYouEnhanced_18.49.3_3.0.1_F2.ipa",
           "size" : 121000000
         }
       ],
